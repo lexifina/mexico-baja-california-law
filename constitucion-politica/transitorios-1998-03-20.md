@@ -1,0 +1,3 @@
+P.O. 20 DE MARZO DE 1998.
+ARTICULO PRIMERO.- Aprobado que sea el presente Dictamen anexo el acta de debates correspondiente, se remita para consulta los Ayuntamientos del Estado, al efecto de que cumplimenten a lo dispuesto en el párrafo primero del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+ARTICULO SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo el Dictamen de la presente Reforma Constitucional para su publicación, la cuál entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
