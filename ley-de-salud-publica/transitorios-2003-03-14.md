@@ -1,0 +1,4 @@
+P.O. 14 DE MARZO DE 2003.
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- El Ejecutivo del Estado por conducto de la Secretaría de Salud, elaborará el "Programa Estatal de Prevención y Control de la salud bucodental del preescolar" dentro de un término no mayor a seis meses, contados a partir de la entrada en vigor de esta reforma, para dicho efecto tomará en cuenta los programas ya existentes, adecuando su contenido.
+TERCERO.- La Secretaría de Salud del Estado conjuntamente con la Secretaría de Educación y Bienestar Social del Estado, y escuchando la opinión de las Asociaciones de Odontólogos debidamente registrados en el Departamento de Profesiones del Estado, definirán el contenido que deba establecerse en la "Cartilla Estatal de Salud Bucal" dentro de un plazo no mayor a seis meses, contados a partir de la entrada en vigor de esta reforma.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 14 DE MARZO DE 2003)
+ARTÍCULO 50 BIS 3.- Se establece la Cartilla Estatal de Salud Bucal, como el documento oficial de carácter gratuito que de forma individual, permita llevar un registro y control de la atención bucodental del educando; la Secretaría de Salud del Estado y las Autoridades Educativas Estatales determinarán su contenido, tomando en cuenta los objetivos de los programas estatal y nacional para la prevención y control de las enfermedades bucodentales.
