@@ -1,0 +1,1 @@
+ARTICULO CUARTO.- Entre tanto se elabora el presupuesto de Egresos a que se refiere la fracción II, del artículo 6o. de esta Ley, el Pleno del Tribunal acordará lo conducente para la aplicación del Fondo.

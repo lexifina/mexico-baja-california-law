@@ -1,0 +1,1 @@
+ARTICULO PRIMERO.- Quedan abrogadas la Ley para la depuración de los depósitos constituidos ante los Tribunales del Orden Común del Estado de Baja California, y la Ley para el Mejoramiento de la Administración de Justicia para el Estado de Baja California y se derogan, todas las disposiciones legales que se opongan a la presente Ley.
