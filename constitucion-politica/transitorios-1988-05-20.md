@@ -1,0 +1,5 @@
+P.O. 20 DE MAYO DE 1988.
+ARTICULO PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+ARTICULO SEGUNDO.- Los Magistrados nombrados por el Ejecutivo del Estado el primero de Noviembre de 1983, aprobados por el Congreso en esa misma fecha, y ratificados el primero de noviembre de 1986, deberán mantenerse en su encargo como inamovibles y no podrán ser removidos sino en los términos que determinen la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos.
+ARTICULO TERCERO.- Los Magistrados nombrados por el Ejecutivo del Estado, aprobados por el Congreso y que aún no han sido ratificados en términos del Artículo 59 de la Constitución Política Local, ahora reformado, deberán completar un período de seis años a partir de la fecha de su nombramiento, y si son ratificados, también se considerarán inamovibles, con base en lo dispuesto por el Artículo 60 que se reforma.
+ARTICULO CUARTO.- Deberán prorrogarse los actuales nombramientos de los Jueces del Estado, hasta el treinta de Noviembre de 1989.
