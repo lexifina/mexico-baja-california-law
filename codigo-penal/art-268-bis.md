@@ -1,4 +1,4 @@
-(REFORMADO PRIMER PARRAFO, P.O 12 DE JUNIO DE 1998)
+(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)
 Artículo 268-BIS.- Agravación de la pena.- Si la ejecución de los hechos al que se refiere el artículo anterior que se realiza en centros educativos, de recreo, deportivos o en sus inmediaciones o cuando el delito se cometa al trasladarse el sujeto pasivo directamente de su domicilio a los lugares señalados anteriormente o de estos a aquel, según sea el caso, se le aplicará una pena de cinco años a diez años de prisión, y multa de doscientos a quinientos días.
 (ADICIONADO, P.O. 6 DE JUNIO DE 1997)
 Si se emplease violencia en la comisión del delito previsto en este capítulo, o el agente se valiese de la función pública que desempeñe o ejerza una profesión, oficio o cargo aprovechando los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más.
