@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1967)
+ARTICULO 66 Bis.- Se establece un Impuesto sobre Asistencia a Diversiones y Espectáculos Públicos en los que se cause o cobre una cuota de admisión. Son causantes de este Impuesto las personas asistentes a los espectáculos o diversiones donde se cause o cobre cuota de admisión. El impuesto se causará sobre el monto de la cuota de entrada, admisión o asistencia al espectáculo o diversión.
+El monto del impuesto lo recibirán y retendrán los comerciantes administradores de las diversiones y espectáculos públicos, para ser enterados en las Tesorerías Municipales correspodientes (sic), siendo solidariamente responsables con el causante del pago del impuesto.
+Las tasas y exhibiciones del Impuesto se establecerán en la forma, plazos y términos que fijen las Leyes Fiscales Municipales correspondientes.
