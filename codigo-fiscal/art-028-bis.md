@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)
-ARTICULO 28 BIS.- Dentro del Procedimiento Administrativo de Ejecución y hasta antes de que se finque el remate, a fin de asegurar la recaudación de toda clase de créditos fiscales, excepcionalmente la Secretaría de Planeación y Finanzas, por conducto de la Procuraduría Fiscal podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos, cuando sean de sencilla enajenación, o resulten aprovechables para los fines propios del Estado a juicio de Oficialía Mayor.
+(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)
+ARTICULO 28 BIS.- A fin de asegurar la recaudación de toda clase de créditos fiscales, excepcionalmente la Secretaría de Planeación y Finanzas, por conducto de la Procuraduría Fiscal podrá aceptar la dación de bienes o servicios en pago total o parcial de créditos, cuando sean de sencilla enajenación, o resulten aprovechables para los fines propios del Estado a juicio de Oficialía Mayor.
 (ADICIONADO, P.O. 4 DE MAYO DE 1998)
 Las daciones en pago de bienes muebles o inmuebles se ofrecerán acompañando a la solicitud, el correspondiente avalúo pericial emitido por Institución o Perito autorizados; tratándose de servicios, se anexará la estimación de los mismos.
 (ADICIONADO, P.O. 4 DE MAYO DE 1998)
@@ -16,3 +16,5 @@ III.- Tratándose de servicios, en la fecha de su aceptación, y en cuanto a la 
 El Procedimiento Administrativo de Ejecución se seguirá por la parte del crédito que no alcance a ser cubierta con la dación en pago.
 (ADICIONADO, P.O. 4 DE MAYO DE 1998)
 Los bienes y servicios aceptados en dación en pago, una vez formalizada ésta, deberán ponerse inmediatamente a disposición de Oficialía Mayor de Gobierno para su enajenación, asignación o uso para los fines propios del Gobierno del Estado; debiendo incorporarse al inventario de bienes o al patrimonio inmobiliario del Gobierno del Estado, según corresponda.
+(ADICIONADO, P.O. 2 DE ABRIL DE 2004)
+La aceptación o negativa de la solicitud de dación en pago será facultad discrecional de la Procuraduría Fiscal, y no constituirá instancia, ni podrá ser impugnada por los contribuyentes.
