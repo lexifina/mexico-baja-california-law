@@ -1,0 +1,4 @@
+P.O. 8 DE NOVIEMBRE DE 1996.
+PRIMERO.- Remítase de nueva cuenta al Ejecutivo del Estado el Proyecto de Decreto ratificado que adiciona un segundo párrafo al artículo 16, un tercer párrafo con diez apartados al artículo 19, un último párrafo al artículo 33 y un segundo párrafo al artículo 37 de la Ley General de Bienes del Estado de Baja California, y modifica la fracción VII del artículo 20 de la Ley Orgánica de la Administración Pública del Estado de Baja California, para efectos de su promulgación en un término que no exceda de cinco días conforme al último párrafo del artículo 34 de la Constitución Política del Estado Libre y Soberano de Baja California.
+SEGUNDO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+TERCERO.- Se derogan las disposiciones que se opongan a las presentes adiciones.
