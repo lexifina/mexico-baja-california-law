@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- Hasta en tanto se creen los órganos que agrupen a las organizaciones, la Coordinación de manera pública, convocará en cada municipio del Estado dentro de los treinta días naturales posteriores a la entrada en vigor de esta Ley, a los representantes de las organizaciones a una asamblea plenaria, para que entre estos elijan a su representantes ante el Consejo.
