@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 6 DE JUNIO DE 1997)
+Artículo 268-BIS.- Agravación de la pena.- Si la ejecución de los hechos al que se refiere el artículo anterior que se realiza en centros educativos, de recreo, deportivos o en sus inmediaciones, se le aplicará una pena de cinco años a diez años de prisión, y multa de doscientos a quinientos días.
+Si se emplease violencia en la comisión del delito previsto en este capítulo, o el agente se valiese de la función pública que desempeñe o ejerza una profesión, oficio o cargo aprovechando los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más.
