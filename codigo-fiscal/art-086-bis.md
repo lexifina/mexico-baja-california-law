@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE ENERO DE 1999)
+ARTICULO 86 BIS.- Los Contribuyentes podrán solicitar a la autoridad fiscal la suspensión de una acción de fiscalización, cuando se hayan realizado dentro del mismo ejercicio fiscal, previamente dos acciones, y que en la última realizada no se hubiese determinado irregularidad alguna, interponiendo el recurso administrativo, con base en el Título Cuarto de este Código.
