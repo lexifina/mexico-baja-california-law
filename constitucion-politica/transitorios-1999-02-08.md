@@ -1,0 +1,3 @@
+P.O. 8 DE FEBRERO DE 1999.
+ARTICULO PRIMERO.- Aprobado que sea este Dictamen por la Honorable Asamblea, envíese a los Ayuntamientos del Estado la copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+ARTICULO SEGUNDO.- Agotado el trámite y pronunciada la declaratoria señalada por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
