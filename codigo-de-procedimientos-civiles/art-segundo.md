@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.- Los recursos que estén ya legalmente interpuestos serán admitidos aunque no deban serlo conforme al Código que se pone en vigor y se substanciarán en la forma que éste Código prevenga. A falta de disposición, se aplicarán las del Código que deja de tener vigencia.

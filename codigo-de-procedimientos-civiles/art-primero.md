@@ -1,0 +1,2 @@
+ARTICULO PRIMERO.- La substanciación de los asuntos pendientes continuará de conformidad con las disposiciones del Código que se pone en vigor; pero si los términos que dicho Código señala para algún acto judicial, fueren menores que los que estuvieren ya concedidos, se observará lo dispuesto en la Legislación que ahora deja de tener vigencia.
+También subsistirán las disposiciones relativas a la replica, dúplica y al extracto de litis en los asuntos pendientes que, conforme al Código que deja de tener vigencia, no han pasado de esas etapas procesales.
