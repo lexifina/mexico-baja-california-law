@@ -1,0 +1,1 @@
+ARTICULO QUINTO.- La Coordinación lanzará por única ocasión convocatoria pública, que será publicada en el Periódico Oficial del Estado y en un Periódico de cada uno de los municipios del Estado, a más tardar a los treinta días naturales de la entrada en vigor de esta Ley, a fin de que las organizaciones puedan obtener su registro en el Catálogo.
