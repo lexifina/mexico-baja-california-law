@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.- Se abroga la Ley Estatal de Obras Públicas publicada en el Periódico Oficial del Estado de Baja California el día 30 de Septiembre de 1986 así como sus posteriores reformas, asimismo se derogan todas las disposiciones que se opongan a la entrada en vigor de la presente Ley.

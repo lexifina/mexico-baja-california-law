@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- El reglamento de la Ley Estatal de Obras Públicas, así como las disposiciones administrativas en esta materia se seguirán aplicando, en todo lo que no se oponga a la presente Ley, en tanto se expiden el reglamento y demás disposiciones relativas a la obra pública, equipamiento, suministros y servicios relacionados con la misma.
