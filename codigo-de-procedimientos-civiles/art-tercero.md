@@ -1,1 +1,1 @@
-ARTICULO TERCERO.- Para la regulación y liquidación de las costas en los negocios pendientes al entrar en vigor éste Código y los que en lo futuro se tramiten, se observarán las disposiciones del arancel respectivo de la Ley Orgánica de los Tribunales Comunes del Distrito y Territorios Federales, en tanto se expiden los aranceles del Estado de Baja California.
+ARTICULO TERCERO.- (DEROGADO , P.O. 10 DE MARZO DE 1977)
