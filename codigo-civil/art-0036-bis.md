@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 31 DE ENERO DE 1975)
+ARTICULO 36 BIS.- Los Oficiales del Registro Civil, previa autorización del Presidente Municipal respectivo, podrán implantar en sus jurisdicciones, el sistema Microfilmación, en cuyo caso no será necesario llevar los libros especializados ni por duplicado a que se refiere el Artículo anterior, observándose las siguientes reglas:
+I.- Las actas se levantarán con las formalidades establecidas por este Código;
+II.- Las actas se redactarán en hojas previamente foliadas y autorizadas con la firma del Presidente Municipal respectivo, se encuadernarán en libros de mil actas cada uno o fracción, que cada año pasarán a formar parte del archivo del Registro Civil;
+III.- Se sacará copia por duplicado de las actas fotografiadas en micro-filme, que se enviarán anualmente, en rollos de mil actas cada uno o fracción, la primera al archivo judicial y la segunda se guardará en archiveros especiales por números consecutivos de libro, folio y año, en las oficinas del Registro Civil, y servirán para expedir las constancias que soliciten los interesados;
+IV.- En todos aquéllos casos en que este Código ordene anotaciones marginales en las actas del Registro Civil, se efectuarán dichas anotaciones en las actas originales, y además se llevará en el archivo del Registro Civil, un índice nominativo de actas relacionadas con cada persona.
