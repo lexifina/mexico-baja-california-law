@@ -39,22 +39,22 @@ ARTICULO DECIMO SEPTIMO.- Se faculta al Gobernador Provisional para que mientras
 ARTICULO DECIMO OCTAVO.- El Gobernador Provisional cesará el día en que, conforme a la presente Constitución, deba tomar posesión el Gobernador Constitucional electo.
 ARTICULO DECIMO NOVENO.- Por esta sola vez los términos a que se refieren los artículos 18 y 42 de esta Constitución se reducen a treinta días.
 Mexicali, B. Cfa., 15 de Agosto de 1953.
+LIC. EVARISTO BONIFAZ GOMEZ,
 Dip. Presidente,
-LIC. EVARISTO BONIFAZ GOMEZ
+MIGUEL CALETTE ANAYA,
 Dip. Vicepresidente,
-MIGUEL CALETTE ANAYA
 DIPUTADOS:
 DR. FRANCISCO DUEÑAS MONTES
-AURELIO CORRALES Jr.
+AURELIO CORRALES JR.
 LIC. FRANCISCO H. RUIZ JR.
-Dip. Secretario,
 LIC. ALEJANDRO LAMADRID JR.
-Dip. Prosecretario,
-CELEDONIO APODACA BARRERA
+Dip. Secretario,
+CELEDONIO APODACA BARRERA,
+Dip. Prosecretario.
 En tal virtud y con fundamento en los artículos 7 siete del Decreto de 10 diez de noviembre de 1952 mil novecientos cincuenta y dos publicado en el Diario Oficial de la Federación (número 17 del Tomo CXCV), correspondiente al día 21 veintiuno del mismo mes y Primero Transitorio de la Constitución del Estado de Baja California, promúlguese por Bando Solemne y publíquese en el Periódico Oficial y en los lugares públicos.
 Dado en el Palacio del Poder Ejecutivo en Mexicali, Estado de Baja California a 16 dieciséis de agosto de 1953 mil novecientos cincuenta y tres.
 El Gobernador Provisional del Estado,
-LIC. ALFONSO GARCIA GONZALEZ
-El Secretario General de Gobierno
-LIC. JOSE ELIAS CASTRO
+LIC. ALFONSO GARCIA GONZALEZ.
+El Secretario General de Gobierno,
+LIC. JOSE ELIAS CASTRO.
 N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
