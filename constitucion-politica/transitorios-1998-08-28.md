@@ -1,0 +1,3 @@
+P.O. 28 DE AGOSTO DE 1998.
+ARTICULO PRIMERO.- Aprobada que sea esta Iniciativa por la Honorable Asamblea, con el anexo del acta de debates correspondiente, envíese para consulta a los Ayuntamientos del Estado, para efecto de dar cumplimiento con lo previsto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+ARTICULO SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas al Ejecutivo Estatal para los efectos conducentes, las cuales entrarán en vigor, el día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
