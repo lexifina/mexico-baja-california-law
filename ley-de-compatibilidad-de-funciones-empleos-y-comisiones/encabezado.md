@@ -1,0 +1,7 @@
+LEY DE COMPATIBILIDAD DE FUNCIONES, EMPLEOS Y COMISIONES PARA EL ESTADO DE BAJA CALIFORNIA
+Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de julio de 1967.
+RAUL SANCHEZ DIAZ M.
+Gobernador Constitucional del Estado Libre y Soberano de Baja California, a sus habitantes sabed:
+Que la H. Legislatura del Estado, me ha dirigido para su promulgación el Ordenamiento Legal que sigue:
+LA H. V LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27 FRACCIONES I Y XXX DE LA CONSTITUCION POLITICA LOCAL, DECRETA:
+LEY DE COMPATIBILIDAD DE FUNCIONES, EMPLEOS Y COMISIONES PARA EL ESTADO DE BAJA CALIFORNIA.
