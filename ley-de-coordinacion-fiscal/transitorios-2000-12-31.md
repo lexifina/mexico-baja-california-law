@@ -1,0 +1,4 @@
+P.O. 31 DE DICIEMBRE DE 2000.
+ARTICULO PRIMERO.- El presente Decreto entrará en vigor el día 1° de Enero del 2001.
+ARTICULO SEGUNDO.- Para efectos del Artículo 7° BIS, Impuestos Estatales, son los Impuestos Sobre Actividades Mercantiles e Industriales, Sobre Remuneraciones al Trabajo Personal, Sobre Diversiones y Espectáculos Públicos, Sobre Compraventa y Operaciones Similares, Sobre Servicios de Hospedaje, Sobre Loterías, Rifas, Sorteos, Juegos Permitidos y Concursos, con excepción del Impuesto Adicional para la Educación Media y Superior.
+ARTICULO TERCERO.- Para efecto del cálculo de las participaciones federales y estatales que correspondan a cada Municipio, a más tardar durante el mes de junio del ejercicio fiscal al que corresponden las participaciones, se efectuará el cálculo del ajuste definitivo sobre la distribución de las participaciones antes señaladas sobre la base de la recaudación real del último ejercicio fiscal terminado.
