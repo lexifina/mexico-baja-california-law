@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 14 DE ENERO DE 2003) (F. DE E., P.O. 21 DE FEBRERO DE 2003)
-ARTICULO 40 BIS.- Son órganos Administrativos; la Dirección de Programación y Gasto Interno, así como los demás órganos que sean necesarios para apoyar el cumplimiento de las atribuciones del Congreso del Estado.
+(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)
+ARTICULO 40 BIS.- El Organo de Fiscalización Superior del Estado, es el órgano del Congreso del Estado de carácter técnico y con autonomía de gestión en el ejercicio de sus atribuciones para decidir sobre su organización, recursos, funcionamiento y resoluciones. Contará con las atribuciones y obligaciones que establecen la Constitución Local y la Ley de la materia.
