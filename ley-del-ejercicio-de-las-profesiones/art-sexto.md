@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Los Títulos profesionales que con anterioridad a esta Ley hubieran sido legalmente expedidos y registrados en el Departamento de Profesiones surtirán todos sus efectos, respetándose su registro, autorización y reconocimiento.

@@ -1,0 +1,1 @@
+ARTÍCULO SEPTIMO.- Se concede a las personas que no tengan Título legalmente expedido, un plazo de dos años a partir de la vigencia de esta Ley, para que regularicen su situación ajustándose a los términos de la misma.

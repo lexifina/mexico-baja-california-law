@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- A partir de la iniciación de su vigencia, queda abrogada la Ley Reglamentaria del Ejercicio Profesional para el Estado de Baja California, publicada en el Periódico Oficial del Estado, de fecha 10 de Julio de 1957, así como las reformas y adiciones surgidas desde el momento de su promulgación.

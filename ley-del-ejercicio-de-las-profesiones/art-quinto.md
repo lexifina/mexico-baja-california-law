@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- A los Colegios de Profesionistas que a la fecha de entrada en vigor de esta Ley, se encuentren debidamente reconocidos, autorizados y registrados ante el Departamento de Profesiones, se les seguirá respetando su registro, autorización y reconocimiento.
