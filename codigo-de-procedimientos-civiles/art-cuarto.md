@@ -14,3 +14,4 @@ Lic. Milton Castellanos Everardo.
 El Srio. General de Gobierno.
 Francisco Santana Peralta.
 (Firmado).
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
