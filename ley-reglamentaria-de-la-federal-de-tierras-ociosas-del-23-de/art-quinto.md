@@ -1,0 +1,1 @@
+ARTICULO QUINTO.— Las investigaciones de campo necesarias para elaborar el programa de producción agropecuaria a que se refiere el artículo que antecede, así como las inspecciones para comprobar que se está cumpliendo con dicho programa, serán llevadas a cabo por la Dirección de Agricultura y Ganadería del Estado, por cuenta del posesionario o propietario del predio.

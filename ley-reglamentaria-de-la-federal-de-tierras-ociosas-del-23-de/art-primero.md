@@ -1,0 +1,1 @@
+ARTICULO PRIMERO.— Los derechos de posesión y de propiedad sobre las tierras de labor en el Estado de Baja California, implican la obligación correlativa para los posesionarios y propietarios, de realizar en ellas la producción agrícola, obliga que es consecuente con la declaración de utilidad pública contenida en el Artículo 1o. de la Ley Federal de Tierras Ociosas en vigor.

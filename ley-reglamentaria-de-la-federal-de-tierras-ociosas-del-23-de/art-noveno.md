@@ -1,0 +1,1 @@
+ARTICULO NOVENO.— Tratándose de cultivos no especificados en la presente Ley o en el caso de nuevas zonas abiertas al cultivo, los Ayuntamientos, de común acuerdo con las Asociaciones Agrícolas de la Municipalidad, fijarán las fechas para la preparación de las tierras y para la iniciación y terminación de las siembras.
