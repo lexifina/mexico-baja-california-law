@@ -1,0 +1,3 @@
+P.O. 31 DE DICIEMBRE DE 1997.
+ARTÍCULO PRIMERO.- Aprobado que sea el presente Dictamen, con el anexo del acta de debates correspondiente, remítase para consulta a los Ayuntamientos del Estado, a efecto de cumplimentar lo dispuesto en el párrafo primero del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+ARTÍCULO SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo el Dictamen de la presente Reforma Constitucional para su publicación, la cual entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
