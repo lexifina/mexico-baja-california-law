@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1980)
-ARTICULO 135 BIS 4.- En caso de que el acuerdo fuere en el sentido de que sí procede la aclaración, se le comunicará al Oficial del Registro Civil y al Encargado del Archivo del Tribunal Superior de Justicia, ajustándoles la documentación relativa, para que efectúen las correcciones de los errores asentados en el acta correspondiente. Dichos funcionarios, anotarán marginalmente en el acta los puntos resolutivos del acuerdo de referencia.
+ARTICULO 135 BIS 4.- (DEROGADO, P.O. 10 DE MAYO DE 1983)

@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1980)
-ARTICULO 135 BIS 3.- El Oficial del Registro Civil turnará oportunamente la documentación a que se refiere el artículo anterior al Secretario General de Gobierno, quien dictará acuerdo fundado respecto de si procede o no la aclaración solicitada. En caso de que el acuerdo sea en el sentido de que no procede la aclaración, se lo comunicará al Oficial del Registro Civil, acompañándole la documentación correspondiente para que éste proceda a notificarlo al interesado.
+ARTICULO 135 BIS 3.- (DEROGADO, P.O. 10 DE MAYO DE 1983)
