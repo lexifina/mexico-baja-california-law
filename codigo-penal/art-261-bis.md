@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 1 DE OCTUBRE DE 1999)
+Artículo 261-BIS.- Pornografía Infantil.- Al que procure, facilite, induzca, propicie u obligue a menores de edad o incapaces a realizar actos de desnudo corporal con fines lascivos o sexuales, o de exhibirlos de cualquier forma, filmarlos, videograbarlos o fotografiarlos, con o sin ánimo de obtener un lucro, se le aplicará de cinco a doce años de prisión y de mil a dos mil días multa.
+Se impondrá la misma pena al que por cualquier medio elabore, reproduzca, venda, arriende, exponga, publicite, transmita, fije, grabe, imprima o distribuya anuncios, impresos, videos, películas o fotografías, con o sin ánimo de lucro, en cuyo contenido aparezcan menores de edad o incapaces realizando actos o desnudos con fines lascivos o sexuales.
+Se impondrá prisión de seis a catorce años y de dos mil a ocho mil días multa, a quien por si o a través de terceros, dirija, administre o supervise cualquier tipo de asociación delictuosa con el propósito de que se realicen las conductas previstas en los párrafos anteriores.
+En todos los casos previstos en este Artículo se decomisarán los objetos, instrumentos y productos de los delitos.
