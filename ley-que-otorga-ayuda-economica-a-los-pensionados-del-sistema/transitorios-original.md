@@ -1,0 +1,17 @@
+TRANSITORIOS:
+ARTICULO UNICO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+DADA en el Salón de Sesiones del H. Poder Legislativo, en la ciudad de Mexicali, Capital del Estado de Baja California, a los treinta días del mes de junio de mil novecientos ochenta.
+FAUSTO CEDILLO LOPEZ.
+Diputado Presidente.
+(Firmado)
+PROFRA. AIDA BALTAZAR MARTINEZ.
+Diputado Secretario.
+(Firmado)
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, MANDO SE IMPRIMA, PUBLIQUE, OBSERVE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
+MEXICALI, CAPITAL DEL ESTADO DE BAJA CALIFORNIA, A LOS DIECINUEVE DIAS DEL MES DE JULIO DE MIL NOVECIENTOS OCHENTA.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+C. ROBERTO DE LA MADRID ROMANDIA.
+(RUBRICA)
+EL SECRETARIO GENERAL DE GOBIERNO.
+C. ARMANDO GALLEGO MORENO.
+(RUBRICA)
