@@ -1,0 +1,3 @@
+P.O. 20 DE OCTUBRE DE 2000.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial , Organo del Gobierno del Estado.
+SEGUNDO.- El presente Decreto no será aplicable a los asuntos iniciados antes de su entrada en vigor, así como a los Contratos de Hipoteca, Reestructuras y Novaciones que se hubiesen celebrado con anterioridad, por lo tanto, la substanciación de los juicios hipotecarios que se encuentren en trámite o que se inicien en relación a estos contratos, continuarán de conformidad a lo dispuesto por los preceptos que dejan de tener vigencia.
