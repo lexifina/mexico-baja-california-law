@@ -1,0 +1,2 @@
+ARTICULO DECIMO CUARTO.— En caso de que la tierra vuelva al dominio de su legítimo propietario o posesionario, sin haber sido usufructuada por el ocupante debido a cualquier causa no imputable al mismo, éste tendrá derecho a que se le indemnice por el costo del desmonte, obras de riego y labores que hubiere ejecutado en el terreno.
+El valor de indemnización será fijado de común acuerdo entre el ocupante y el propietario. En caso de que no se llegue a un entendimiento, será el Ayuntamiento el que determine, como árbitro, en una forma definitiva el valor de la indemnización.

@@ -1,0 +1,1 @@
+ARTICULO DECIMO SEGUNDO.— Quince días después de vencidos los plazos para la preparación de las tierras, señalados en el artículo que antecede, los ocupantes de tierras ociosas deberán haber efectuado las siembras.

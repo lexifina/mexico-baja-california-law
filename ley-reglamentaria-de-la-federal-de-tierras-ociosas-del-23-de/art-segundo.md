@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.— Las tierras de labor que dejen de sembrarse sin causa justificada y pasadas las fechas que establece la presente Ley para ejecutar los trabajos de preparación, por ese solo hecho quedarán a disposición de los Ayuntamientos de esta Entidad Federativa para los efectos de la Ley Federal de Tierras Ociosas y de la presente Ley Reglamentaria.

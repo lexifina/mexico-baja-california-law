@@ -1,0 +1,2 @@
+ARTICULO DECIMO NOVENO.— En todos los casos, los permisos serán autorizados por el C. Presidente Municipal y el Secretario del Ayuntamiento respectivo.
+ARTICULO VIGESIMO.— Los Ayuntamientos, al acordar favorablemente las solicitudes de tierras ociosas, adquieren la obligación de dar cuenta al Ejecutivo del Estado de tales permisos de ocupación, dentro de un plazo de tres días contados a partir de la fecha en que se expida.
