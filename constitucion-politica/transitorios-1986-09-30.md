@@ -1,0 +1,3 @@
+P.O. 30 DE SEPTIEMBRE DE 1986.
+ARTICULO PRIMERO.- Los mexicanos por nacimiento descendientes de padres mexicanos por nacimiento, nacidos en el extranjero y que a la fecha de la publicación del presente Decreto en el Periódico Oficial, Organo del Gobierno del Estado, hayan cumplido 20 años o más, se les concede un término de un año a partir de esta misma fecha para que obtengan su Certificado de Nacionalidad Mexicana.
+ARTICULO SEGUNDO.- Las reformas a que se refiere el presente Decreto, entran en vigor una vez cumplido el procedimiento establecido en el Artículo 112, de la Constitución Política del Estado, y al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
