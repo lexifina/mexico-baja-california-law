@@ -1,0 +1,1 @@
+ARTICULO 40 BIS- Son órganos auxiliares la Dirección de Programación y Gasto Interno y la Dirección de Comunicación Social y los demás que establezca el Reglamento Interior, los cuales tendrán las atribuciones que prevé esta Ley y su reglamento.
