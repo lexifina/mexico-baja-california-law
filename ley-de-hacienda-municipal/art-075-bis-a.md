@@ -6,7 +6,8 @@ I.- Es objeto del Impuesto Predial:
 a).- Cuando no exista propietario.
 b).- Cuando se derive de Contratos de Promesa de Venta o Venta de Certificados de Participación inmobiliaria, de vivienda de simple uso o de cualquier otro título similar que autorice la ocupación material del inmueble y que origine derechos posesorios, aún cuando los Contratos, Certificados o Títulos, se hayan celebrado u obtenido con motivo de operaciones de Fideicomiso.
 c).- Cuando exista desmembración de la propiedad de manera que una persona tenga la nuda propiedad y otra el usufructo.
-d).- Cuando la ejerzan los particulares sobre inmuebles propiedad de la Federación, Estado, Municipios u Organismos Descentralizados y sujetos a exención.
+(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)
+d) Cuando la ejerzan entidades paraestatales o particulares, sobre inmuebles propiedad de la Federación del Estado o Municipios, para utilizarlos bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 II.- Son sujetos del Impuesto:
 1.- Los propietarios de predios a que se refiere el Inciso 1 de la Fracción I de este Artículo.
 2.- Los poseedores de predios a que se refiere el Inciso 2 de la Fracción I de este Artículo.
@@ -39,8 +40,8 @@ VII.- El pago del Impuesto deberá cubrirse anualmente durante los dos primeros 
 VIII.- Los inmuebles responden preferentemente del pago del Impuesto Predial, aún cuando pasen a propiedad o posesión de terceros.
 (REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)
 IX.- Están exentos del pago del Impuesto Predial:
-(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)
-1.- Los predios pertenecientes a la Federación, al Estado y a los Municipios, en los términos a que se refiere el segundo párrafo del inciso c) de la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)
+1.- Los bienes inmuebles de dominio público propiedad de la Federación, del Estado o de los Municipios, con excepción de lo dispuesto en la fracción I inciso d) de esta (sic) artículo.
 (REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)
 X.- Los Notarios, Jueces y demás funcionarios autorizados por la Ley para dar Fé Pública, no autorizarán ningún contrato o acto que tenga por objeto la enajenación o gravamen de un inmueble o derechos reales sobre el mismo, mientras no se les compruebe con el certificado respectivo que están al corriente en el pago del Impuesto Predial. Si por causas no imputables al enajenante, las autoridades fiscales del Estado, no han empadronado o catastrado el predio, la Tesorería Municipal, podrá permitir a los notarios que otorguen la mencionada autorización definitiva, sin que les sea exhibido el certificado a que se refiere este Artículo.
 (REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)
