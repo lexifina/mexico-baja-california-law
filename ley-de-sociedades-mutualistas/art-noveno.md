@@ -1,6 +1,7 @@
 Capítulo IV (sic)
 DISPOSICIONES GENERALES
-ARTICULO NOVENO.- Las Sociedades Mutualistas quedan exceptuadas de toda clase de impuestos al Estado y Municipio por las operaciones que llevan a cabo, por las fiestas que celebran, así como por los impuestos prediales correspondientes a los inmuebles que tuvieren en propiedad y en los que hagan su labor social, prácticas deportivas o de cualquier otra índole que se establezcan, para los fines que se expresan en sus Estatutos y Reglamentos.
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1957)
+ARTICULO NOVENO.- Las Sociedades Mutualistas quedan exceptuadas de toda clase de impuestos, derechos y servicios o cualquiera otra clase de tributación al Estado, Municipio o cualquiera otro organismo descentralizado que funcione en la Entidad, en lo que respecta a las actividades que lleven a cabo por la celebración de actos o espectáculos recreativos, benéficos, literarios, culturales, deportivos, bailes, kermesses y toda clase de festivales, por el funcionamiento de sus Casinos, así como de los impuestos prediales correspondientes a los inmuebles que tuvieren en propiedad y en los que hagan su labor social para los fines que se expresan en su (sic) Estatutos y Reglamentos y a los que se hace mención en el Artículo 4o. de esta propia Ley.
 T R A N S I T O R I O S .
 I.- Cualquier reforma a las bases constitutivas de una Sociedad Mutualista o de su Estatuto, para que surta efectos, deberán registrarse en la Oficina de Registro Público de la Propiedad que corresponda. El mismo trámite se seguirá cuando las Federaciones y Confederaciones actúen en esa forma.
 II.- Se concede a las Sociedades Mutualistas existentes en el Estado de Baja California, UN AÑO como término para ajustar su funcionamiento a las prescripciones de esta Ley.
@@ -19,3 +20,4 @@ LIC. BRAULIO MALDONADO S.
 EL SRIO. GRAL. DE GOBIERNO.
 Lic. Rafael Moreno Henríquez.
 (Rúbrica).
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
