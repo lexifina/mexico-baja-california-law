@@ -14,8 +14,11 @@ VII.- Atender al correcto funcionamiento inicial y a la instalación provisional
 VIII.- Expedir su propio reglamento.
 IX.- Nombrar las comisiones convenientes para el mejor desempeño de sus funciones; y
 X.- Rendir un informe anual detallado de sus labores e informar de su gestión, que durará por todo el tiempo que lo estime necesario la Junta de Gobierno de la Universidad, acompañando inventario y documentación necesaria a las autoridades universitarias.
+(ADICIONADA, P.O. 28 DE FEBRERO DE 1958)
+XI.- Asumir, la persona que actúe como Presidente del Comité Estatal Pro-Universidad las facultades y obligaciones que al Rector de la Universidad le son señaladas en la presente Ley, en tanto que la Junta de Gobierno no haga la designación del Rector. Esta investidura transitoria contendrá las facultades necesarias de planeación, promoción y ejecución para cuanto requiera tanto la instalación provisional y funcionamiento inicial de la Universidad, como para la integración del Patronato Universitario en los términos dispuestos por el artículo 26 de la presente Ley.
 Artículo 4o.- El Comité Pro-Universidad propondrá, dentro de los primeros treinta días a partir de la promulgación de esta Ley, las ternas a que se refiere el inciso a) del Artículo 20.
-Creada la Universidad antes del 1o. de Septiembre de 1957, la Junta de Gobierno hará el nombramiento del Rector y en unión de éste nombrará a los Directores de las Escuelas y Facultades que para esa fecha se hayan creado, dando preferencia a los maestros de las Escuelas y Facultades respectivas.
+(REFORMADO, P.O. 28 DE FEBRERO DE 1958)
+Creada la Universidad, la Junta de Gobierno hará el nombramiento del Rector en el momento preciso en que convenga a las necesidades de las Instituciones Universitarias que se hubieren establecido.
 Artículo 5o.- Dentro de los primeros quince días de labores se procederá al nombramiento de los Consejos Técnicos correspondientes a las dependencias universitarias que a la fecha funcionen, de conformidad con lo que establece el Artículo 29.
 (F. DE E., P.O. 28 DE FEBRERO DE 1957)
 Artículo 6o.- Se procederá a la elección en cada Facultad y Escuela de un representante profesor y de un representante alumno con objeto de formar el Primer Consejo Universitario.
@@ -32,3 +35,4 @@ El Gobernador Const. del Estado.
 Lic. Braulio Maldonado Sández.
 Secretario Gral. de Gobierno.
 Lic. Rafael Moreno Henríquez.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
