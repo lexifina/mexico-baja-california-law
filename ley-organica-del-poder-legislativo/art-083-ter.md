@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 14 DE ENERO DE 2003)
+ARTICULO 83 TER.- Al frente de la Dirección de Programación y Gasto Interno del Congreso del Estado, como titular estará un Director de Programación y Gasto Interno, quien será nombrado y removido libremente por la Comisión de Vigilancia de Administración y Finanzas del Congreso del Estado.
+El Director de Programación y Gasto Interno del Congreso del Estado, deberá permanecer en el ejercicio de sus funciones, hasta que sea designado su sucesor.
+El Director de Programación y Gasto Interno del Congreso del Estado será auxiliado por los Departamentos y personal que sea necesario para un mejor desempeño de sus funciones; debiendo proponer dichos nombramientos a la Comisión de Vigilancia de Administración y Finanzas siendo ésta la que resolverá sobre la procedencia de las propuestas para su aprobación.
+El Reglamento Interior fijará los requisitos que deberá reunir el titular de dicho órgano, así como las facultades y obligaciones que correspondan a las unidades y al personal que dependa del mismo.
+El desempeño de las atribuciones y obligaciones de la Dirección de Programación y Gasto Interno del Congreso del Estado, estará bajo la vigilancia y control de la Comisión de Vigilancia de Administración y Finanzas.

@@ -1,3 +1,4 @@
+N. DE E. SE HACE DEL CONOCIMIENTO DEL USUARIO QUE EL PRESENTE ARTICULO NO FUE DEROGADO EXPRESAMENTE NI SEÑALADO EN EL CONTENIDO DE LA REFORMA PUBLICADA EN EL P.O. 14 DE ENERO DE 2003.
 ARTICULO 81 TER.- Corresponde a la Contraloría Interna, el despacho de los siguientes asuntos:
 I.- Recibir y registrar las declaraciones patrimoniales que deban presentar los servidores públicos del Poder Legislativo y verificar y practicar las investigaciones que fueren pertinentes de acuerdo con las leyes y reglamentos;
 II.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos del Poder Legislativo para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que la Ley señale, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público prestándole para tal efecto la colaboración que le fuere requerida, y

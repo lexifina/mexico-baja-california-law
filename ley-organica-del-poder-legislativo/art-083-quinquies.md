@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 14 DE ENERO DE 2003)
+ARTICULO 83 QUINQUIES.- Al frente de la Dirección de Comunicación Social del Congreso del Estado, como titular estará un Director de Comunicación Social, quien será nombrado y removido libremente por la Comisión Ordinaria de Comunicación Social y Relaciones Públicas del Congreso del Estado, siendo expedido su nombramiento en los términos de la presente Ley.
+El Director de Comunicación Social deberá permanecer en el ejercicio de sus funciones, hasta que sea designado su sucesor.
+El Director de Comunicación Social será auxiliado por el personal que sea necesario para un mejor desempeño de sus funciones; debiendo proponer dichos nombramientos a la Comisión Ordinaria de Comunicación Social, siendo esta siendo esta (sic) la que resolverá sobre la procedencia de las propuestas para su aprobación.
+El Reglamento Interior fijará los requisitos que deberá reunir el titular de dicho órgano; así como las facultades y obligaciones que correspondan a las unidades y al personal que dependa del mismo.
+El desempeño de las atribuciones y obligaciones de la Dirección de Comunicación Social, estará bajo la vigilancia y control de la Comisión de Comunicación Social y Relaciones Públicas.
