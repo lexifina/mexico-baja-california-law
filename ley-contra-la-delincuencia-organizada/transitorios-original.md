@@ -1,0 +1,13 @@
+TRANSITORIO
+ARTÍCULO ÚNICO.- La presente Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+DADO.- En el Salón de Sesiones "Lic. Benito Juárez García" del Honorable Poder Legislativo en la Ciudad de Mexicali, Baja California, a los diecinueve días del mes de noviembre del año dos mil tres.
+DIP. LEOPOLDO MORAN DIAZ
+PRESIDENTE
+DIP. ARTURO ALVARADO GONZALEZ
+PROSECRETARIO
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, IMPRIMASE Y PUBLIQUESE.
+MEXICALI, BAJA CALIFORNIA, A LOS CUATRO DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL TRES.
+GOBERNADOR DEL ESTADO.
+EUGENIO ELORDUY WALTHER.
+SECRETARIO GENERAL DE GOBIERNO.
+BERNARDO H. MARTINEZ AGUIRRE.
