@@ -44,6 +44,8 @@ g).- Constitución de usufructo, transmisión de este o de la nuda propiedad, as
 h).- Prescripción positiva.
 i).- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción de estos.
 j).- Enajenación a través de fideicomisos, en los términos del Código Fiscal de la Federación.
+(ADICIONADO, P.O 23 DE JULIO DE 1999)
+k).- La escisión de sociedades, cuando no se cumplan los requisitos que señala el Artículo 14-A del Código Fiscal de la Federación.
 VIII.- Las partes que celebren alguno de los actos a que se refiere la Fracción anterior son responsables solidarios del pago de este impuesto, según sea el caso en los términos de la fracción I, de este artículo.
 IX.- Este impuesto deberá pagarse dentro del plazo que establece la fracción V de este artículo, aún cuando el contrato se celebre con reserva de dominio o la venta sea a plazo.
 El pago del impuesto deberá hacerse dentro del mismo plazo cuando se realice cualquiera de los supuestos que a continuación se señalan:
