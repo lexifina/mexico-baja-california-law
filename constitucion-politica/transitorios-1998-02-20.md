@@ -1,0 +1,3 @@
+P.O. 20 DE FEBRERO DE 1998.
+ARTICULO PRIMERO.- Aprobado que sea este Dictamen por la Honorable Asamblea, envíese a los Ayuntamientos del Estado la copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+ARTICULO SEGUNDO.- Agotado el trámite y pronunciada la declaratoria señalada por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las disposiciones de esta reforma, no afectarán la situación jurídica de los servidores públicos nombrados con anterioridad a su vigencia.
