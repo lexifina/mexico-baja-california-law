@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 10 DE OCTUBRE DE 1992)
+Artículo 307-TER.- Punibilidad.- A quien cometa el delito de tortura se aplicará prisión de tres a doce años, y de doscientos a quinientos días multa e inhabilitación para el desempeño de cualquier cargo, empleo o comisión pública, hasta por dos tantos del lapso de privación de libertad impuesta.
+Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves sean físicos o psíquicos a un detenido.
+No se consideran como causas excluyentes de responsabilidad del delito de tortura el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en la investigación o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
