@@ -1,0 +1,2 @@
+Capítulo II.
+ARTICULO QUINTO.- Se llevará un registro especial de Sociedades Mutualistas del Estado de Baja California, en la Secretaría General de Gobierno que tendrá a su cargo la inscripción de las Sociedades Mutualistas existentes, y en funcionamiento, en el momento de la promulgación de esta Ley, así como las altas que se constituyan en el futuro y las bajas por las que se liquiden o se fusionen con otras ya existentes.

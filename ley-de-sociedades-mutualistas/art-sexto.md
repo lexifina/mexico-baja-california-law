@@ -1,0 +1,1 @@
+ARTICULO SEXTO.- Para que se considere legalmente constituída una Sociedad Mutualista, deberán protocolizarse ante Notario Público su Acta Constitutiva y sus Estatutos, registrándose estos documentos en el Registro Público.
