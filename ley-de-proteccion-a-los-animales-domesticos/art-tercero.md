@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- Los Ayuntamientos integrarán los albergues de animales de conformidad a la presente ley, dentro de un término que no exceda de 90 días naturales contados a partir de la fecha de su entrada en vigor.

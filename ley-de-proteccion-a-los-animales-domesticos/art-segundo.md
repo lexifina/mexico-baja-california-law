@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.- Los Municipios del Estado, a través de sus Ayuntamientos, elaborarán el reglamento municipal respectivo en un término que no exceda de 90 días naturales, computados a partir de la fecha en que entre en vigor la presente Ley.

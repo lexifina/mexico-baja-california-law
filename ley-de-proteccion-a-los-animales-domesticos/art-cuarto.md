@@ -1,0 +1,1 @@
+ARTICULO CUARTO.- Se concede a los encargados de rastros, expendios de animales y demás personas a que se refiere esta ley, un plazo de seis meses para que se ajusten a las obligaciones que impone este ordenamiento.
