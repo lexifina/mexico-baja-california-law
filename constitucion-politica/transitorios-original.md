@@ -38,6 +38,7 @@ ARTICULO DECIMO SEXTO.- Durante el período que dure en su cargo el Gobernador P
 ARTICULO DECIMO SEPTIMO.- Se faculta al Gobernador Provisional para que mientras dure en su cargo, reciba, en representación del Estado, los bienes muebles e inmuebles a que se refiere el Artículo 10 del Decreto del H. Congreso de la Unión promulgado con fecha 10 de noviembre de 1952 y publicado en el Diario Oficial de la Federación de 21 de noviembre del propio año.
 ARTICULO DECIMO OCTAVO.- El Gobernador Provisional cesará el día en que, conforme a la presente Constitución, deba tomar posesión el Gobernador Constitucional electo.
 ARTICULO DECIMO NOVENO.- Por esta sola vez los términos a que se refieren los artículos 18 y 42 de esta Constitución se reducen a treinta días.
+Mexicali, B. Cfa., 15 de Agosto de 1953.
 Dip. Presidente,
 LIC. EVARISTO BONIFAZ GOMEZ
 Dip. Vicepresidente,
