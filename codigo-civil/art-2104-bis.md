@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1993)
+ARTICULO 2104 BIS.- Cuando alguno, explotando la ignorancia, notoria inexperiencia, extrema miseria o apremiante necesidad de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que el por su parte se obliga, el perjudicado tiene derecho a pedir la nulidad del contrato y, de ser ello imposible, a la reducción equitativa de su obligación, mas el pago de los correspondientes daños y perjuicios. El término para ejercitar la acción dura un año a partir de la celebración del acto.
