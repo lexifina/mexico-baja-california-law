@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- El Ejecutivo del Estado deberá elaborar el Reglamento de la Ley de Asistencia Social Para el Estado, dentro de los ciento ochenta días siguientes a partir de la entrada en vigor de esta Ley.

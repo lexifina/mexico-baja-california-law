@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- Los nombramientos del personal del Sistema Estatal para el Desarrollo Integral de la Familia de Baja California, expedidos al amparo de la ley que se abroga, mantendrán su vigencia en los mismos términos y condiciones en que fueron expedidos.
