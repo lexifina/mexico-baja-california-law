@@ -1,0 +1,4 @@
+P.O. 14 DE DICIEMBRE DE 1994.
+PRIMERO.- Remítase a los Ayuntamientos del Estado la presente Iniciativa para los efectos del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+SEGUNDO.- El Congreso del Estado a través de su Departamento Jurídico procederá a integrar una Mesa de Consensos en la que participen los representantes de las Fracciones Parlamentarias y del Ejecutivo del Estado, para que se aboque, en base a las nuevas disposiciones constitucionales a la elaboración de la Ley reglamentaria correspondiente.
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, salvo la reforma al Artículo 38 que entrará en vigor el día primero de octubre de mil novecientos noventa y cinco.
