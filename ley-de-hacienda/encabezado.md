@@ -1,0 +1,12 @@
+LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
+Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
+Milton Castellanos Everardo
+Gobernador Constitucional del Estado Libre y Soberano de Baja California, a sus habitantes sabed:
+Que la H. Legislatura del Estado, me ha dirigido para su promulgación el Ordenamiento Legal que sigue:
+LA H. VII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCIONES I Y XXX DE LA CONSTITUCION POLITICA LOCAL,
+DECRETA:
+LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
+TITULO I
+GENERALIDADES
+CAPITULO UNICO
+Disposiciones Generales
