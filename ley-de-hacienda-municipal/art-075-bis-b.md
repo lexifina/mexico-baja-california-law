@@ -4,16 +4,30 @@ I.- Están obligados al pago de este impuesto las personas físicas o morales qu
 El objeto de este impuesto es la adquisición de inmuebles y los derechos sobre los mismos. Cuando por acuerdo expreso o tácito de las partes, por determinación de la Ley o por resolución de las autoridades de trabajo, judiciales o administrativas, el enajenante se ve obligado al pago, el objeto de este impuesto será la Transmisión de Dominio.
 En ningún caso se gravará dos veces una misma operación con el impuesto a que se refiere el presente artículo, por lo que si se paga por la adquisición no se gravará la transmisión o la inversa, a excepción del contrato de permuta, en virtud de que mediante el se realizan dos adquisiciones.
 II.- El impuesto sobre adquisición de inmuebles no se causará cuando los adquirentes sean la Federación, el Estado y los Municipios y sean de los clasificados como bienes del dominio público por el último párrafo de la Fracción IV del Artículo 115 de la Constitución Federal de la República.
-III.- La base para determinar el importe a pagar por concepto de este impuesto, será el valor que resulte mayor entre el del precio pactado, el valor fiscal y el del avalúo que al efecto practique la autoridad Fiscal Municipal, después de deducirlo en 5 veces el salario mínimo general, elevado al año, que rija en el Estado en el momento en que realice el acto generador.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)
+No se pagará el Impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 1991)
+III.- La base para determinar el importe a pagar por concepto de este impuesto, será el que resulte mayor entre:
+(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)
+El avalúo que al efecto practique la autoridad fiscal municipal.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)
+El valor catastral.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)
+El valor del inmueble que resulte de actualizar el precio pactado por el factor que obtenga de dividir el Indice Nacional de Precios al Consumidor del mes inmediato anterior a aquel en que sea exigible el pago, entre el mencionado índice correspondiente al mes anterior a aquel en que se efectúo la adquisición. Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble referido en la fecha de la adquisición y cuando el valor que resulte de dicho avalúo, exceda en más de un 10% del precio pactado, este no se tomará en cuenta y el impuesto se calculará sobre el valor del avalúo, determinándose las diferencias de impuestos que resulten.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)
+En todo caso, se aplicará una deducción equivalente a un salario mínimo general elevado al año, que rija en el Estado en el momento en que se realice el acto generador.
 Para los fines de este artículo, se considera que el usufructo y la nuda propiedad tiene un valor, cada uno de ellos, del 50% del valor de la propiedad.
 La deducción a que se refiere el párrafo anterior, se realizará conforme a lo siguiente:
 a).- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la deducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir la verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiera adquirido con anterioridad, para que se ajuste el monto de la deducción, y pagará en su caso, la diferencia de impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
 b).- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere la fracción VII de este Artículo, la deducción se hará en la proporción que corresponda a dicha parte.
 c).- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la deducción por cada uno de ellos.
 d).- No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos aún cuando se utilicen para otros fines.
-Cuando del inmueble formen parte departamentos habitacionales, la deducción se hará sobre el valor de cada uno de ellos con excepción de los hoteles cuando por motivo de la adquisición el adquirente asuma la obligación de pagar una o mas deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
-Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique autoridad Fiscal Municipal. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiera pactado, sino el del avalúo a que se refiere este párrafo.
-IV.- El impuesto sobre adquisición de inmuebles, o transmisión de dominio a pagar, será el que resulten de aplicar a la base gravable la tasa que al efecto apruebe anualmente el Congreso del Estado en la Ley de Ingresos Municipal correspondiente.
+(REFORMADO, P.O. 30 DE JUNIO DE 1991)
+En tratándose de donaciones, herencias y legados que se celebren entre cónyuges en las que se realicen de padres a hijos o de hijos a padres y en las operaciones en que los adquirentes sean Asociaciones Civiles que no persigan fines de lucro, se considerará que el inmueble tiene valor nulo.
+(REFORMADO, P.O. 30 DE JUNIO DE 1991)
+Esta previsión no se aplicará a los adquirentes cuando los donatarios, herederos o legatarios cedan sus derechos sobre los bienes gravables;
+(REFORMADA, P.O. 30 DE JUNIO DE 1991)
+IV.- El Impuesto sobre Adquisición de Inmuebles y Transmisión de Dominio a pagar será el que resulte de aplicar a la base gravable la tasa del 2%.
 V.- Los sujetos obligados al pago de este impuesto, deberán enterarlo en la Recaudación de Rentas Municipal, en cuya jurisdicción se encuentre ubicado el inmueble, dentro de los 30 días siguientes de la fecha en que se realice el acto generador, mediante declaración utilizando las formas que al efecto apruebe la Tesorería Municipal, debiendo acompañar el avalúo practicado por perito autorizado.
 La falta de formas oficiales no exime al contribuyente de la obligación de enterar el pago en el plazo señalado en el párrafo que antecede.
 VI.- Los contribuyentes que estén obligados al pago de este impuesto no podrán ser sujetos de impuestos adicionales estatales, ni municipales, por lo que respecta al pago de dicho impuesto.
