@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1980)
-ARTICULO 135 BIS 1.- Tienen derecho a promover la aclaración, las personas a quienes se refiere o afecte el acto de que se trate.
+(REFORMADO, P.O. 10 DE MAYO DE 1983)
+ARTICULO 135 BIS 1.- Si de la documentación acompañada a una solicitud de rectificación aparecieren otros errores u omisiones, que no fueren señalados en dicha solicitud, el Jefe del Departamento del Registro Civil los tomará en cuenta de oficio al dictar la resolución que corresponda.
