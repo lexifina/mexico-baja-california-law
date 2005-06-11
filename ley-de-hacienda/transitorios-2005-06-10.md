@@ -1,0 +1,10 @@
+P.O. 10 DE JUNIO DE 2005.
+ARTÍCULO PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+ARTÍCULO SEGUNDO.- Las personas físicas y morales, que con anterioridad a la entrada en vigor de las presentes reformas, hubieren sido sujetas de los beneficios que se encontraban previstos en los incisos a) y c) del artículo 151-13 de esta Ley, seguirán gozando del mismo, siempre y cuando continúen realizando las operaciones por las que les correspondió dicho beneficio, en los siguientes porcentajes:
+I. Durante el ejercicio fiscal 2005 en un 100%;
+II. Durante el ejercicio fiscal 2006 en un 60%, y
+III. Durante el ejercicio fiscal 2007 en un 20%.
+Estos beneficios no serán aplicables a las Empresas que reciban un estímulo fiscal en los términos del artículo 175 de las presentes reformas.
+ARTÍCULO TERCERO.- Las personas físicas y morales, que con anterioridad a la entrada en vigor de las presentes reformas hubieren sido sujetas del beneficio que se encontraba previsto en el inciso b) del artículo 151-13 de esta Ley, continuarán gozando de éste hasta en tanto concluya el período por el cual se hicieron acreedores al mismo, siempre y cuando continúen realizando las operaciones por las que les correspondió, y no reciban un estímulo fiscal en los términos del artículo 175 de las presentes reformas.
+ARTÍCULO CUARTO.- Las Empresas que inicien la ejecución de un Proyecto de Inversión durante el ejercicio fiscal en el que entre (sic) en vigor las presentes reformas, podrán ser sujetas al otorgamiento de un Estímulo fiscal, siempre y cuando obtengan la puntuación requerida para tal efecto.
+ARTÍCULO QUINTO.- Asimismo las empresas que estén tratando aguas residuales y las reutilicen totalmente, durante el ejercicio fiscal en el que entre (sic) en vigor las presentes reformas, podrán ser sujetas al otorgamiento del Estímulo fiscal, previsto en el artículo 178 de esta Ley.
