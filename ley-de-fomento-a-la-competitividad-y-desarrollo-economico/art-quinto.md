@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Hasta en tanto se expida el Reglamento la Secretaría y la Secretaría de Planeación y Finanzas, podrán emitir las disposiciones de carácter general que consideren necesarias para la aplicación de la Ley.

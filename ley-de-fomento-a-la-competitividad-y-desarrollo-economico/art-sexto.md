@@ -1,0 +1,12 @@
+ARTÍCULO SEXTO.- Hasta en tanto se expida el Reglamento, el Comité acordará las medidas tendientes a regular su funcionamiento y el de sus órganos de trabajo.
+DADO.- En el Salón de Sesiones "Lic. Benito Juárez García" del Honorable Poder Legislativo, en la Ciudad de Mexicali, Baja California, a los diecinueve días del mes de mayo del año dos mil cinco.
+DIP. ABRAHAM CORREA ACEVEDO
+P R E S I D E N T E
+DIP. GILBERTO DANIEL GONZÁLEZ SOLÍS
+S E C R E T A R I O
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, IMPRIMASE Y PUBLIQUESE.
+MEXICALI, BAJA CALIFORNIA, A LOS TRES DIAS DEL MES DE JUNIO DEL AÑO DOS MIL CINCO.
+GOBERNADOR DEL ESTADO.
+EUGENIO ELORDUY WALTHER.
+SECRETARIO GENERAL DE GOBIERNO.
+BERNARDO H. MARTINEZ AGUIRRE.
