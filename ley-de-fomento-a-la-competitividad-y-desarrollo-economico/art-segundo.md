@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abrogan la Ley de Fomento Económico para el Estado de Baja California, publicada en el Periódico Oficial del Estado del 8 de noviembre de 1996 y el Reglamento de los Incentivos Previstos en la Ley de Fomento Económico para el Estado de Baja California, publicado en el Periódico Oficial del Estado el día 9 de mayo de 1997.
