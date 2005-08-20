@@ -1,4 +1,4 @@
-ARTICULO CUARTO.- El presente Código entrará en vigor a los treinta días siguientes al de su publicación en el Peródico (sic) Oficial, Organo del Gobierno del Estado.
+ARTICULO CUARTO.- El presente Código entrará en vigor a los treinta días siguientes al de su publicación en el Peródico (sic) Oficial, Órgano del Gobierno del Estado.
 D A D O en el Salón de Sesiones del H. Poder Legislativo, en la Ciudad de Mexicali, Baja California, a los veintiocho días del mes de abril de mil novecientos setenta y dos.
 MARTINIANO VALDEZ ESCOBEDO.
 Diputado Presidente.
