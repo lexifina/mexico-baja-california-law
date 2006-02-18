@@ -1,2 +1,1 @@
-(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2005)
-Artículo 178-BIS.- Violación Impropia Agravada.- Al que introduzca por vía vaginal o anal; cualquier objeto, instrumento o cualquier parte del cuerpo humano, distinto al miembro viril; a persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho o con capacidades diferentes; se le impondrá de diez a quince años de prisión y hasta quinientos días multa, sin perjuicio de las penas que resulten de la comisión de otro u otros delitos.
+Artículo 178 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)

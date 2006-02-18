@@ -1,9 +1,5 @@
-(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2005)
-CAPITULO II
-PORNOGRAFIA, PORNOGRAFIA INFANTIL Y TURISMO SEXUAL DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O PERSONAS QUE NO TENGAN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
-(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)
-Artículo 261-BIS.- Se impondrá de uno a cinco años de prisión y de veinte a cien días multa:
-I.- Al que fabrique reproduzca, publique comercie, distribuya, exponga, haya circular, trasporte, u oferte, libros, escritos, grabaciones o audio grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter pornográfico, reales o simulados, sea de manera física, o a través de cualquier medio;
-II.- Al que en sitio públicoo (sic) y por cualquier medio, ejecute o haga ejecutar por otras exhibiciones obscenas o lo haga en privado pero de manera que pueda ser visto;
-III.- Al que utilice a una persona en espectáculos exhibicionistas o pornográficos.
-Cuando el delito se corneta valiéndose de alguna relación de parentesco o autoridad sobre la víctima, la pena se aumentara en una tercera parte de la que corresponda.
+(REFORMADO, P.O. 17 DE FEBRERO DE 2006)
+Artículo 261 BIS.- Pornografía Infantil.- Al que procure, facilite, induzca, propicie u obligue a menores de edad o incapaces a realizar actos de desnudo corporal con fines lascivos o sexuales, o de exhibirlos de cualquier forma, filmarlos, videograbarlos o fotografiarlos, con o sin ánimo de obtener un lucro, se le aplicará de cinco a doce años de prisión y de mil a dos mil días multa.
+Se impondrá la misma pena al que por cualquier medio elabore, reproduzca, venda, arriende, exponga, publicite, transmita, fije, grabe, imprima o distribuya anuncios, impresos, videos, películas o fotografías, con o sin ánimo de lucro, en cuyo contenido aparezcan menores de edad o incapaces realizando actos desnudos con fines lascivos o sexuales.
+Se impondrá prisión de seis a catorce años y de dos mil a ocho mil días multa, a quien por si o a través de terceros, dirija, administre o supervise cualquier tipo de asociación delictuosa con el propósito de que se realicen las conductas previstas en los párrafos anteriores.
+En todos los casos previstos en este artículo se decomisarán los objetos, instrumentos y productos de los delitos.
