@@ -1,5 +1,1 @@
-(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)
-Artículo 180-BIS.- Al que ejecute o haga ejecutar en cuerpo propio o ajeno, actos eróticos sexuales a persona menor de dieciocho años de edad o persona que no tenga la capacidad para comprender el significado del hecho; se le aplicarán de tres a nueve años de prisión y hasta doscientos días multa.
-Si se hiciere uso de la violencia física o emocional, la pena será de cinco a diez años de prisión y hasta quinientos días multa.
-Cuando se realice la conducta a que se refiere este precepto de manera reiterada, siendo la víctima menor de catorce años, la pena será de seis a diez años de prisión y hasta de quinientos días multa.
-Cuando el delito de abuso sexual fuere cometido por alguna persona que tenga relación de parentesco por consanguinidad, afinidad, con la víctima o el ofendido, la pena se aumentará de uno a tres años. En los casos en que la ejerciere, el culpable perderá la patria potestad o la tutela, así como el derecho de heredar de la víctima o el ofendido.
+Artículo 180 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)

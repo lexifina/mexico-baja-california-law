@@ -1,2 +1,1 @@
-(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE NOVIEMBRE DE 2005)
-Artículo 177-BIS.- Reparación del daño.- Además de lo ya previsto en esta Ley, la reparación del daño en los casos de los artículos 176 y 177 de este Código, comprenderá los gastos derivados del delito a favor de la víctima y también los alimentos al hijo o hijos que de dicho delito resultare, observándose las reglas que sobre la forma y términos de pago fija el Código Civil.
+Artículo 177 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
