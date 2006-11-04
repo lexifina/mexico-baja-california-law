@@ -1,5 +1,5 @@
 (REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2002)
-Artículo 208 TER.- Robo equiparado de vehículo de motor.- Se impondrá prisión de dos a ocho años y de cien hasta quinientos días multa, a quien:
+Artículo 208-TER.- Robo equiparado de vehículo de motor.- Se impondrá prisión de dos a ocho años y de cien hasta quinientos días multa, a quien:
 (REFORMADA, P.O. 25 DE OCTUBRE DE 2002)
 I.- Venda, suministre o trafique, vehículo de motor robado;
 (REFORMADA, P.O. 25 DE OCTUBRE DE 2002)
