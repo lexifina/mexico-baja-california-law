@@ -1,1 +1,3 @@
-Artículo 180 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE FEBRERO DE 2007)
+Artículo 180 Bis.- Sub tipo y punibilidad.- Al que con o sin el consentimiento de una persona menor de catorce años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de cuatro a ocho años de prisión y hasta doscientos días de multa.
+Si se hiciere uso de la violencia física o moral o se realice la conducta a que se refiere este artículo de manera reiterada, la pena se aumentará de dos a cuatro años.
