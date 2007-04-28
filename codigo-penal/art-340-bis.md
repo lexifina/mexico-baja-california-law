@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE ABRIL DE 2007)
+Artículo 340-BIS.- A quien sin autorización de autoridad ambiental competente, extraiga, corte, tale o trasplante uno o varios árboles ubicados en áreas públicas de competencia estatal o municipal o en terrenos estatales forestales, se le impondrá pena de prisión de seis meses a siete años y multa de cincuenta a dos mil quinientos días de salario mínimo vigente en la entidad.
