@@ -1,3 +1,3 @@
-(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE FEBRERO DE 2006)
-Artículo 268 BIS.- Agravación de la pena.- Si la ejecución de los hechos a que se refiere el artículo anterior se realizar en centros educativos, de recreo, deportivos o en sus inmediaciones o cuando el delito se cometa al trasladarse el sujeto pasivo directamente de su domicilio a los lugares señalados anteriormente el de éstos a aquél, según sea el caso, se le aplicará una pena de cinco años a diez años de prisión, y multa de doscientos a quinientos días.
-Si se emplease violencia en la comisión del delito previsto en este capítulo, o el agente se valiese de la función pública que desempeñe o ejerza una profesión, oficio o cargo aprovechamiento los medios o circunstancias que ello le proporciona, la pena se agravará en una mitad más.
+(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)
+Artículo 268 BIS.- Inhabilitación. Los sujetos activos de los delitos a los que se refiere este Título quedaran inhabilitados para ser tutores o curadores.
+Los delitos contemplados en este Titulo sólo se perseguirán en su comisión dolosa.
