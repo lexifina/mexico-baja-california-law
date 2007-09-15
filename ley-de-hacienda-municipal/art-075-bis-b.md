@@ -4,8 +4,7 @@ I.- Están obligados al pago de este impuesto las personas físicas o morales qu
 El objeto de este impuesto es la adquisición de inmuebles y los derechos sobre los mismos. Cuando por acuerdo expreso o tácito de las partes, por determinación de la Ley o por resolución de las autoridades de trabajo, judiciales o administrativas, el enajenante se ve obligado al pago, el objeto de este impuesto será la Transmisión de Dominio.
 En ningún caso se gravará dos veces una misma operación con el impuesto a que se refiere el presente artículo, por lo que si se paga por la adquisición no se gravará la transmisión o la inversa, a excepción del contrato de permuta, en virtud de que mediante el se realizan dos adquisiciones.
 II.- El impuesto sobre adquisición de inmuebles no se causará cuando los adquirentes sean la Federación, el Estado y los Municipios y sean de los clasificados como bienes del dominio público por el último párrafo de la Fracción IV del Artículo 115 de la Constitución Federal de la República.
-(REFORMADO, P.O. 11 DE MARZO DE 1994)
-No se pagará este impuesto por la adquisición de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+(DEROGADO SEGUNDO PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2007)
 (REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 1991)
 III.- La base para determinar el importe a pagar por concepto de este impuesto, será el que resulte mayor entre:
 (REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 1991)
