@@ -1,5 +1,5 @@
 (ADICIONADO, P.O 31 DE DICIEMBRE DE 1988)
-ARTICULO 75 Bis-A.- Se establece el Impuesto Predial:
+ARTICULO 75 Bis A.- Se establece el Impuesto Predial:
 I.- Es objeto del Impuesto Predial:
 1.- La propiedad de predios urbanos y rústicos y las construcciones permanentes existentes en ellos.
 2.- La posesión de predios urbanos y rústicos y las construcciones permanentes existentes en ellos:
