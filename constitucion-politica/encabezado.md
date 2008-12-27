@@ -1,5 +1,5 @@
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
-Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
+Constitución publicada en el Periódico Oficial del Estado de Baja California, el día domingo 16 de agosto de 1953.
 Alfonso García González,
 GOBERNADOR PROVISIONAL DEL ESTADO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
 QUE LA H. LEGISLATURA CONSTITUYENTE DEL ESTADO SE HA SERVIDO DIRIGIRME LA SIGUIENTE:
