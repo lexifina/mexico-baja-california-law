@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Ejecutivo Estatal expedirá las demás disposiciones reglamentarias que requiera esta Ley, en un término que no excederá noventa días a partir de su publicación en el periódico oficial del Estado; mientras tanto, seguirán vigentes los actuales Reglamentos en lo que no se opongan a la misma.

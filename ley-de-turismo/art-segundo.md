@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley de Turismo del Estado de Baja California, publicada en el Periódico Oficial del Estado el día 7 de julio de 1995 y sus reformas, así como se derogan todas aquellas disposiciones que se opongan a la presente Ley.
