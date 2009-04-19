@@ -1,4 +1,5 @@
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
+N. DE E. DE CONFORMIDAD CON EL TRANSITORIO UNICO DEL DECRETO No. 422, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007, LA REFORMA AL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR 18 MESES DESPUES DE SU PUBLICACION.
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 Milton Castellanos Everardo
 Gobernador Constitucional del Estado Libre y Soberano de Baja California, a sus habitantes sabed:
