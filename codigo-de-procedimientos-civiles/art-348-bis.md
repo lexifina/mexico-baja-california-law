@@ -6,7 +6,7 @@ En caso de que el presunto progenitor sin causa justificada no comparezca a la d
 III.- El dictamen que rinda el perito responsable, deberá contener lo siguiente:
 a).- El señalamiento de las cuestiones que fueron materia de la pericia (sic).
 b).- Una relación detallada y explicativa de las operaciones o experimentos realizados para resolver las cuestiones periciales, señalando la fecha en que se produjeron y,
-c).- Las conclusiones o resultados obtenidos, especificando los principios de la ciencia, arte o técnica que sirvieron de apoyo.
+c).- Las conclusiones o resultados obtenidos, especificando los principios de la ciencia, arte o técnica que sirvieron de apoyo,
 Si faltare alguno de estos requisitos, el dictamen carecerá de valor probatorio.
 IV.- Rendido y ratificado el dictamen en los términos de esta Ley, se pondrá a la vista de las partes y demás interesados para su observación y en su caso impugnación.
 V.- Los honorarios del perito serán cubiertos por la parte que ofreció la prueba.

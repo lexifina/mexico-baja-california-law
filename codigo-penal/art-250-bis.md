@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)
+Artículo 250 BIS.- Del delito de lesividad social.- Se impondrá una pena de tres meses a tres años de prisión y multa de mil a tres mil veces el salario mínimo vigente en el Estado, a la persona que sin contar con el permiso correspondiente o alterando los términos y condiciones que se contengan en él, venda, almacene para su venta, o proporcione bebidas alcohólicas para su consumo o permita que se realicen estas actividades, en la vía pública o en un establecimiento o casa habitación de su posesión o respecto de la cual se conduzca como poseedor, con fines de lucro.
+La misma pena se impondrá a quien venda bebidas alcohólicas a menores de dieciocho años de edad.
