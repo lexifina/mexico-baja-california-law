@@ -1,2 +1,3 @@
-(ADICIONADO, P.O. 25 DE AGOSTO DE 2006)
-Artículo 201 BIS.- Tipo y punibilidad.- A quien cometa el delito de robo en terrenos rústicos, respecto de postes o alambres de las cercas, motores eléctricos o partes de éstos, tuberías para riego, cableado o fluido eléctrico que reutilicen para la actividad agropecuaria se le impondrá de tres a seis años de prisión y de cien hasta doscientos días multa.
+(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2007)
+Artículo 201 BIS.- Tipo y punibilidad.- A quien cometa el delito de robo en terrenos rústicos, además de las penas previstas en el artículo 201, se le impondrán de uno a cinco años de prisión y de cien hasta doscientos días multa, cuando este se realice respecto de semillas, frutos recolectados o pendientes de recolectar, postes o alambres de las cercas, motores eléctricos o partes de éstos, tuberías para riego, cableado o fluido eléctrico o cualesquiera otros artículos destinados al aprovechamiento agropecuario, pesquero o acuícola.
+En el presente artículo será aplicable la excluyente de pretensión punitiva, prevista en los términos del último párrafo del artículo 201 de este Código.
