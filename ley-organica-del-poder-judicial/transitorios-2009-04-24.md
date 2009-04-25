@@ -1,0 +1,5 @@
+P.O. 24 DE ABRIL DE 2009.
+PRIMERO.- Aprobada que sea esta Iniciativa de reforma por esta Honorable Asamblea, envíese esta a los Ayuntamientos del Estado, con copia de las actas de los debates que hubiere provocado, en cumplimiento a lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+SEGUNDO.- Aprobado (sic) la iniciativa de reforma por los Ayuntamientos del Estado, pronúnciese la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo cumplimiento del procedimiento que prescribe el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+CUARTO.- La reforma al primer párrafo del artículo 17 de la Ley Orgánica del Poder Judicial del Estado de Baja California entrará en vigor una vez cobre vigencia la reforma al artículo 66 de la Constitución Política del Estado Libre y Soberano de Baja California referida en los artículos transitorios antes citados.
