@@ -27,11 +27,8 @@ d).- El valor de avalúo que practique la autoridad fiscal municipal, cuando és
 (REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)
 2.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentra construido el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Oficina de Catastro determinará el valor que le corresponda a cada uno y éste entrará en vigor a partir del mes siguiente a la fecha en que se haya autorizado, previamente la Escritura de Constitución del Condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron.
 En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del mes siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado.
-(REFORMADA, P.O. 2 DE MAYO DE 1997)
-V.- La tasa inicial del Impuesto que corresponde pagar a los propietarios o poseedores de predios urbanos, suburbanos y rústicos que en los Reglamentos del Catastro Inmobiliario de los Municipios del Estado se clasifiquen como predios no edificados o baldíos y se encuentren comprendidos en éstos, los predios que teniendo construcciones se encuentren en estado de abandono, presentando condiciones de inseguridad y de improductividad, siempre y cuando cuenten con servicios de agua, electricidad y drenaje; entre tanto conserven esa calidad, será ascendente y aumentará automáticamente el 25% (veinticinco por ciento) cada año hasta completar diez años, al final de los cuales se interrumpe.
-Los efectos de esta Fracción no serán aplicables:
-1.- A los predios destinados para su venta o que vendan los fraccionamientos debidamente autorizados en tanto no sean recibidos por el Gobierno del Estado y Municipio.
-2.- Ni a los predios no edificados que formen parte de una unidad comercial o industrial.
+(REFORMADA, P.O. 28 DE AGOSTO DE 2009)
+V.- La tasa del Impuesto que corresponda pagar, será la que se determine en la Ley de Ingresos de cada Municipio del Estado, para el ejercicio fiscal correspondiente.
 (REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)
 VI.- La cuota del Impuesto que resulte con base en los avalúos y modificaciones entrará en vigor a partir del mes siguiente a la fecha en que éstos se hayan notificado.
 (REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)
