@@ -1,7 +1,7 @@
 (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 10 DE OCTUBRE DE 1992)
 CAPITULO IV
 HOSTIGAMIENTO SEXUAL
-(REFORMADO, P.O. 17 DE FEBRERO DE 2006)
-Artículo 184 BIS.- Tipo y punibilidad.- Al que confines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su 'posición jerárquica derivada de sus relaciones laborales; docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá sanción hasta de doscientos días multa.
+(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)
+Artículo 184 BIS.- Tipo y punibilidad.- Comete el delito de Hostigamiento Sexual, el que con fines lascivos asedie reiteradamente a persona de cualquier sexo, se le impondrá una penalidad de seis meses a un año de prisión y multa de cincuenta a cien días.
 Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o daño.
 Solo se procederá contra el hostigador, a petición de la parte ofendida.
