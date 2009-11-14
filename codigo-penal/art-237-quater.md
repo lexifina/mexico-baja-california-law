@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)
+Artículo 237 QUATER.- Persecución oficiosa.- El delito de sustracción de menores o incapaces previsto en el artículo 237 se perseguirá de oficio; excepto lo dispuesto en su segundo párrafo y las conductas a que se refieren los artículos 237 bis y 237 ter, las cuales se perseguirán por querella de la parte ofendida o de sus representantes legítimos, salvo que dichas conductas se hayan ejercitado con violencia.
