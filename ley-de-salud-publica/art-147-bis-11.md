@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)
+ARTÍCULO 147 BIS 11.- La Secretaría de Salud, mediante visitas sanitarias a los Centros de Desarrollo Infantil y Estancias Infantiles Familiares, deberá verificar que la construcción, equipamiento, sistemas de seguridad y prevención de siniestros, espacios y características arquitectónicas, servicios hidráulicos, eléctricos, sanitarios, de gas, de personal, alimentación y demás especiales, cumplen con la ley, reglamentos y normas oficiales mexicanas.
+La Secretaría de Salud para el desahogo de las visitas sanitarias, podrá solicitar el auxilio de peritos de las dependencias y entidades de las autoridades públicas estatales y municipales para verificar el cumplimiento de los aspectos señaladas (sic) en el párrafo que antecede.

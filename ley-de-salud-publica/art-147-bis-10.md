@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)
+ARTÍCULO 147 BIS 10.- La Secretaría de Salud, deberá elaborar programas de capacitación para el personal de los Centros de Desarrollo Infantil y Estancias Infantiles Familiares con el fin de mejorar la calidad de la prestación de sus servicios; e impartirlos por lo menos una vez al año a solicitud expresa de los interesados previo el pago de los derechos correspondientes.

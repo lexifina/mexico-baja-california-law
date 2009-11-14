@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)
+ARTÍCULO 147 BIS 6.- El proceso de revalidación tiene como objeto confirmar la autorización otorgada por la Secretaría de Salud para operar un Centro de Desarrollo Infantil o Estancia Infantil Familiar, en razón de que se cumplen con los requisitos que la ley, reglamentos, normas oficiales mexicanas y demás disposiciones aplicables requieren para su funcionamiento.
