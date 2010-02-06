@@ -1,0 +1,3 @@
+P.O. 5 DE FEBRERO DE 2010.
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+SEGUNDO.- La unidad administrativa respectiva, dentro del plazo de noventa días posteriores a la entrada en vigor del presente Decreto, deberá dictaminar si los criterios vigentes para determinar las penas convencionales en las Dependencias y Entidades del Estado o sus municipios, se encuentran actualizados a las condiciones generales del mercado, considerando la naturaleza de los bienes o servicios. De no ser así, procederá a actualizarlos en los términos del presente Dictamen.
