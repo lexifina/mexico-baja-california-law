@@ -1,5 +1,6 @@
 ARTÍCULOS TRANSITORIOS
-PRIMERO.- Inicio de Vigencia.- La presente ley entrará en vigor a las cero horas del día primero de febrero del año 2010.
+(REFORMADO, P.O. 22 DE ENERO DE 2010)
+PRIMERO.- Inicio de Vigencia.- La presente ley entrará en vigor a las cero horas del día tres de mayo del 2010.
 SEGUNDO.- Hasta en tanto entre en vigor esta Ley, seguirá vigente la ley de la Defensoría de Oficio del Estado de Baja California publicada el día 22 de agosto de 2003, en el Periódico Oficial del Estado.
 TERCERO.- A la entrada en vigor de esta Ley, todos los Defensores en funciones, salvo los que se adscriban al área penal para el nuevo sistema de justicia penal que se contiene en el Código al que alude el primer artículo transitorio de este Decreto, seguirán considerándose trabajadores de confianza de libre designación y remoción, en tanto se practiquen las evaluaciones que determine la Secretaría, para su ingreso al sistema profesional de carrera.
 Para estos efectos, la Secretaría deberá impartir cursos de capacitación en las materias objeto del cargo que desempeñen.
@@ -9,3 +10,4 @@ DIP. ENRIQUE MÉNDEZ JUAREZ
 P R E S I D E N T E
 DIP. GLORIA MARÍA LOZA GALVÁN
 S E C R E T A R I A
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
