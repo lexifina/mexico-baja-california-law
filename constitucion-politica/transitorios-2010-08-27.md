@@ -1,0 +1,6 @@
+P.O. 27 DE AGOSTO DE 2010.
+Primero.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+Segundo.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presentes reformas se declararán parte de esta Constitución.
+Tercero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Cuarto.- Las designaciones de los Consejeros señalados en las fracciones II, III, IV y V del artículo 64 de estas reformas deberán realizarse en alguna (s) fecha (s) que se encuentre (n) ubicada (s) entre la entrada en vigor de este Decreto y el día treinta de noviembre de 2010, surtiendo las designaciones sus efectos jurídicos el día 1 de diciembre de 2010.
+La persona o personas que al momento de la publicación de este Decreto detenten el carácter de Consejero o Consejeros de la Judicatura y su mandato exceda el día 30 de noviembre de 2010, cesará en esta función ese día, salvo que se trate de un Magistrado del Tribunal Superior de Justicia que sea designado Consejero de la Judicatura en los términos del artículo 64 fracción II de estas reformas para el periodo del Consejo que inicia el día primero de diciembre de 2010.
