@@ -1,0 +1,7 @@
+P.O. 10 DE SEPTIEMBRE DE 2010.
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- La Junta de Gobierno de la Universidad Autónoma de Baja California deberá nombrar al ciudadano que represente al Municipio de Playas de Rosarito dentro del Patronato Universitario como miembro de éste, quien fungirá en el cargo hasta el tiempo que se concluya el periodo de funciones para el que fueron nombrados sus actuales miembros.
+Para la elección del ciudadano que representará al Municipio de Playas de Rosarito en los términos del párrafo anterior, por esta ocasión, se seguirá el siguiente procedimiento:
+a) Dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto, el Ejecutivo del Estado remitirá ante la Junta de Gobierno de la Universidad Autónoma de Baja California, la propuesta de terna de candidatos ciudadanos que representará al Municipio de Playas de Rosarito en el Patronato Universitario.
+b) Una vez recibida la terna que se menciona en el párrafo anterior, la Junta de Gobierno contará con un plazo de 30 días naturales para la selección y aprobación del nombramiento del ciudadano que fungirá como nuevo miembro del Patronato Universitario.
+c) El ciudadano seleccionado por la Junta de Gobierno, se integrará en un plazo de cinco días hábiles al Patronato Universitario para iniciar sus funciones, formalizando su integración como miembro del mismo y su representación al Municipio de Playas de Rosarito.
