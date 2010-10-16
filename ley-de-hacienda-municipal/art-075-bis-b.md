@@ -1,3 +1,4 @@
+N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.
 (REFORMADO, P.O. 30 DE ABRIL DE 2010)
 ARTICULO 75 Bis B.- Se establece el Impuesto sobre adquisición de inmuebles, el cual se regirá de la siguiente forma:
 A.- Son sujetos del Impuesto previsto en este artículo, las personas físicas y morales que adquieran bienes inmuebles consistentes en el suelo, o en el suelo y las construcciones adheridas a él, ubicados en los Municipios del Estado, así como la adquisición de derechos reales o posesorios sobre los bienes inmuebles.
