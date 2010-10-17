@@ -1,10 +1,14 @@
 (ADICIONADO, P.O. 2 DE JULIO DE 2010)
 ARTICULO 16 QUARTER (SIC).- El Plan se elaborará, aprobará, controlará, evaluará y coordinará conforme a los siguientes procedimientos y plazos:
-I.- La Comisión de Régimen Interno y Prácticas Parlamentarias, es el órgano de trabajo del Congreso del Estado, encargado de organizar los trabajos para la elaboración del Plan;
+(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)
+I.- La Junta de Coordinación Política, es el órgano de gobierno del Congreso del Estado, encargado de organizar los trabajos para la elaboración del Plan;
 II.- Durante los meses de octubre y noviembre del primer periodo de sesiones del inicio de una Legislatura, cada Diputado a través de su Coordinador del Grupo Parlamentario correspondiente enviará sus propuestas para elaborar la Agenda Legislativa Básica;
-III.- La Agenda Legislativa Básica será consensuada y acordada por los integrantes de la Comisión de Régimen Interno y Prácticas Parlamentarias antes de concluir el primer período de sesiones de inicio de la Legislatura, para ser incorporada al Plan;
-IV.- La Comisión de Régimen Interno y Prácticas Parlamentarias deberá incorporar al Plan, las propuestas de los Órganos Técnico-Administrativos y del Órgano de Fiscalización Superior del Estado, para la mejora continua de sus funciones y servicios mediante la optimización de sus estructuras y organización técnica de los recursos materiales y humanos disponibles, antes de concluir el primer periodo de sesiones del inicio de la Legislatura;
-V.- Los integrantes de la Comisión de Régimen Interno y Prácticas Parlamentarias deberán procurar que el anteproyecto de Plan se encuentre completo al iniciar el segundo período de sesiones del inicio de la Legislatura, habiendo incluido los objetivos, estrategias y líneas de acción en materia de legislación, fiscalización del gasto público, gestoría comunitaria y modernización institucional;
+(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)
+III.- La Agenda Legislativa Básica será consensuada y acordada por los integrantes de la Junta de Coordinación Política antes de concluir el primer período de sesiones de inicio de la Legislatura, para ser incorporada al Plan;
+(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)
+IV.- La Junta de Coordinación Política podrá incorporar al Plan, las propuestas de la Biblioteca, los Institutos y el Órgano de Fiscalización del Estado, para la mejora continua de sus funciones y servicios mediante la optimización de sus estructuras y organización técnica de los recursos materiales y humanos disponibles, antes de concluir el primer período de sesiones del inicio de la Legislatura;
+(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)
+V.- Los integrantes de la Junta de Coordinación Política deberán procurar que el anteproyecto de Plan se encuentre completo al iniciar el segundo período de sesiones del inicio de la Legislatura, habiendo incluido los objetivos, estrategias y líneas de acción en materia de legislación, fiscalización del gasto público, gestoría comunitaria y modernización institucional;
 VI.- El Plan deberá aprobarse por el Pleno del Congreso del Estado, hasta antes de concluir el segundo periodo de sesiones del inicio de la Legislatura, y remitirse inmediatamente al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado;
 VII.- En la aplicación y ejecución del Plan deberán respetarse las disposiciones previstas en el Artículo 88 de esta Ley;
 VIII.- Para el control, seguimiento y evaluación del Plan, el Congreso del Estado podrá utilizar los indicadores que considere necesarios para el proceso de toma de decisiones, de conformidad con el Reglamento;

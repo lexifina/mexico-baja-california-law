@@ -6,5 +6,5 @@ El Director de Programación y Gasto Interno del Congreso del Estado, deberá pe
 El Director será auxiliado por los Departamentos y el personal que sea necesario para el adecuado y eficiente desempeño de sus funciones; designará y removerá directamente el personal a su cargo, conforme a las previsiones presupuestales.
 (ADICIONADO, P.O. 14 DE ENERO DE 2003)
 El Reglamento Interior fijará los requisitos que deberá reunir el titular de dicho órgano, así como las facultades y obligaciones que correspondan a las unidades y al personal que dependa del mismo.
-(ADICIONADO, P.O. 14 DE ENERO DE 2003)
-El desempeño de las atribuciones y obligaciones de la Dirección de Programación y Gasto Interno del Congreso del Estado, estará bajo la vigilancia y control de la Comisión de Vigilancia de Administración y Finanzas.
+(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)
+El desempeño de las atribuciones y obligaciones de la Dirección de Programación y Gasto Interno del Congreso del Estado, estará bajo la vigilancia y control de la Comisión de Administración y Finanzas.
