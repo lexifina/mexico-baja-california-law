@@ -1,0 +1,7 @@
+P.O. 27 DE DICIEMBRE DE 2010.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto de reforma.
+TERCERO.- Los ayuntamientos dispondrán de un plazo de tres meses, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones que correspondan a su respectiva reglamentación.
+CUARTO.- A las personas físicas o morales que hayan solicitado la autorización de horarios extraordinarios antes de la entrada en vigor del presente decreto, les serán aplicables las disposiciones vigentes en el momento de presentar dicha solicitud.
+QUINTO.- A las personas físicas o morales que se les haya otorgado permiso para operar establecimientos, locales o giros dedicados a la venta o venta para consumo de bebidas alcohólicas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones vigentes en el momento en que aquel les haya sido otorgado; pero para su revalidación, en su caso; se estará a lo dispuesto por este decreto.
+SEXTO.- Las solicitudes de permiso para operar establecimientos, locales o giros dedicados a la venta o venta para consumo de bebidas alcohólicas que se estén substanciando a la entrada en vigor del presente decreto, se seguirán conforme a las disposiciones vigentes al momento de la presentación de dicha solicitud, pero para su revalidación, en su caso, se estará a lo dispuesto por este decreto.
