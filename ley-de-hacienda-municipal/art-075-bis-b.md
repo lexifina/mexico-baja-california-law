@@ -1,4 +1,3 @@
-N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.
 (REFORMADO, P.O. 30 DE ABRIL DE 2010)
 ARTICULO 75 Bis B.- Se establece el Impuesto sobre adquisición de inmuebles, el cual se regirá de la siguiente forma:
 A.- Son sujetos del Impuesto previsto en este artículo, las personas físicas y morales que adquieran bienes inmuebles consistentes en el suelo, o en el suelo y las construcciones adheridas a él, ubicados en los Municipios del Estado, así como la adquisición de derechos reales o posesorios sobre los bienes inmuebles.
@@ -33,7 +32,8 @@ IV.- El impuesto sobre adquisición de inmuebles a pagar, será el que resulte d
 V.- Se aplicará a la base gravable la tasa del 0%, cuando la adquisición sea por alguno de los siguientes supuestos:
 a) Por donación, herencia o legado entre cónyuges;
 b) Por donación, herencia o legado que se realicen de padres a hijos o de hijos a padres;
-c) En las operaciones en que los adquirentes sean asociaciones civiles que no persigan fines de lucro; y,
+(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)(F. DE E., P.O. 29 DE JULIO DE 2011)
+c) En las operaciones en que los adquirentes sean asociaciones civiles, o asociaciones religiosas que no persigan fines de lucro, y;
 d) Por la adquisición de terrenos a través de títulos de propiedad, expedidos por el Registro Agrario Nacional que obtengan los ejidatarios.
 La tasa del 0% no será aplicable cuando los donatarios, herederos o legatarios cedan sus derechos sobre los bienes gravables, y cuando los adquirentes a que se refiere el inciso d) cedan sus derechos a personas distintas a las que se hace alusión en dicho inciso.
 VI.- Se estará exento del impuesto a que se refiere este artículo, cuando el adquirente sea la Federación, el Estado o el Municipio, y los bienes sean de los clasificados como del dominio público, de acuerdo al artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
