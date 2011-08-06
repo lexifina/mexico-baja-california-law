@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Los procesos de plebiscito y de referéndum a que se refiere esta Ley, sólo podrán ser solicitados y, en su caso, convocados con relación a actos o normas que se dicten a partir del día 5 de Febrero del año 2001.
