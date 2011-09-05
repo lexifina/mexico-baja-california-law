@@ -1,13 +1,13 @@
-(DEROGADO SEXTO PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)
-(DEROGADO SEPTIMO PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)
-(DEROGADO OCTAVO PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)
-(DEROGADO NOVENO PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)
-(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)
+(DEROGADO SEXTO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)
+(DEROGADO SÉPTIMO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)
+(DEROGADO OCTAVO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)
+(DEROGADO NOVENO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)
+(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)
 SECCION VII
 DE LA BIBLIOTECA DEL CONGRESO Y DE LOS INSTITUTOS DEL CONGRESO DEL ESTADO DE BAJA CALIFORNIA
-(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)
+(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE OCTUBRE DE 2010)
 ARTICULO 83 SEXIES.- El Congreso del estado cuenta con una Biblioteca a través de la cual se conservan, man tienen (sic) y acrecientan los acervos bibliográficos y de otros contenidos científico, cultural o informativo. Para contribuir al cumplimiento de las atribuciones del propio Congreso, sus comisiones y legisladores. Estos acervos tendrán carácter público.
-(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)
+(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)
 El Congreso del Estado contará con los siguientes Institutos:
 I. Instituto de Estudios Legislativos;
 II. Instituto de Estudios de Economía y Finanzas Públicas del Estado; y,
@@ -21,8 +21,8 @@ Corresponde al Presidente del Órgano Colegiado del Instituto de Estudios Legisl
 Al Órgano Colegiado del Instituto de Estudios Legislativos corresponde acordar y definir la dirección técnica y administrativa del Instituto; aprobar el Programa Anual de Actividades, de acuerdo con los objetivos y funciones del Instituto; remitir a la Mesa Directiva, un informe anual por escrito de los resultados obtenidos durante el período que corresponda; proponer las directrices generales para la conducción del Instituto y el cumplimiento de sus objetivos; aprobar la contratación de los servicios profesionales y especializados necesarios para el cumplimiento de los objetivos y funciones del Instituto, requiriendo, a su vez, la intervención de la Secretaría de Servicios Administrativos para los trámites a que haya lugar; nombrar y, en su caso, remover a los directores del Instituto; y, cumplir y hacer cumplir la Ley Orgánica del Congreso y del Reglamento específico.
 (REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2010)
 El Órgano Colegiado del Instituto de Estudios Legislativos tomará sus decisiones y acuerdos por el voto de la mayoría de sus integrantes, el Presidente tendrá voto de calidad.
-(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2010)
-El Instituto de Estudios Legislativos tendrá tres titulares de las Direcciones que dependerán del Órgano Colegiado y serán nombrados por el mismo a propuesta de cada uno de sus secretarios.
+(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2010)
+El Instituto de Estudios Legislativos tendrá tres titulares de las Direcciones que dependerán del Órgano Colegiado y serán nombrados por el mismo a propuesta de cada uno de sus secretarios. A fin de que las direcciones trabajen de manera armónica para alcanzar los objetivos contenidos en esta Ley Orgánica, en el Plan de Desarrollo Legislativo y en sus Planes de Trabajo, el Presidente del Instituto someterá a la aprobación de los integrantes del Órgano Colegiado la propuesta del Coordinador de Direcciones.
 (REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2010)
 A los directores les corresponde presentar los presupuestos y propuestas del área a su cargo e informar periódicamente al Órgano Colegiado sobre el avance de los mismos; elaborar y supervisar las investigaciones a su cargo, relacionadas con los temas y las prioridades del Plan de Desarrollo Legislativo; proporcionar de manera oportuna, a los diputados y a las Comisiones, información e investigaciones relacionadas con los temas y las prioridades de la Agenda Legislativa; promover, coordinar y supervisar que las investigaciones, vínculos institucionales y planes de trabajo estén enfocados a propiciar información y argumentación útil a las prioridades de la Agenda Legislativa; coordinar, supervisar, controlar y evaluar el avance de los proyectos asignados a su Dirección; responsabilizarse de los recursos asignados a la Dirección a su cargo; nombrar, previa autorización del Órgano Colegiado, a los investigadores, analistas y personal de apoyo del área a su cargo; y, las demás actividades que se les indiquen por el Órgano Colegiado y aquellas que deriven del Programa Anual de Trabajo.
 (REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)

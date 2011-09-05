@@ -1,4 +1,4 @@
-(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)
+(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)
 ARTICULO 83 TER.- Al frente de la Dirección de Programación y Gasto Interno del Congreso del Estado, estará como titular un Director; quien será nombrado y removido por la mayoría absoluta de los Diputados integrantes del Pleno del Congreso.
 (ADICIONADO, P.O. 14 DE ENERO DE 2003)
 El Director de Programación y Gasto Interno del Congreso del Estado, deberá permanecer en el ejercicio de sus funciones, hasta que sea designado su sucesor.
