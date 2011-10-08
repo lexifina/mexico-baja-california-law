@@ -1,0 +1,5 @@
+P.O. 7 DE OCTUBRE DE 2011.
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California, con las consideraciones que se establecen en los artículos subsecuentes, previo cumplimiento del procedimiento que prescribe el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+SEGUNDO.- El Congreso del Estado deberá adecuar las legislaciones secundarias, a más tardar dentro de los ciento ochenta días siguientes a la entrada en vigor de las presentes reformas. Tratándose de las adecuaciones a la Ley de Instituciones y Procedimientos Electorales del Estado y de la Ley del Régimen Municipal para el Estado, las reformas deberán aprobarse dentro de un plazo de noventa días siguientes a la entrada en vigor del presente Decreto.
+TERCERO.- Un distrito electoral de los diecisiete que tenga el Estado de Baja California corresponderá al Municipio de Playas de Rosarito.
+CUARTO.- Las reformas a los artículos 27, fracciones III y XXXII, 49, fracciones II y X, y 93 del presente Decreto, entrarán en vigor el primero de noviembre del año dos mil trece.
