@@ -16,7 +16,7 @@ III.- Son solidariamente responsables del pago del Impuesto Predial:
 1.- Los adquirentes por cualquier título de los predios mencionados en los Incisos 1 y 2 de la Fracción I de este Artículo.
 2.- Los propietarios de predios que hubieren prometido en venta o hubieren vendido con reserva de dominio en el caso a que se refiere el Inciso b) del número 2 de la Fracción I de este Artículo.
 IV.- La base del Impuesto es la siguiente:
-(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2001)
 1.- Tratándose de predios urbanos o rústicos:
 (REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)
 a) El valor catastral que resulte de la aplicación de la Tabla de Valores Catastrales Unitarios, Base del Impuesto Predial, autorizada para cada Municipio, el cual deberá ser equiparable al valor de mercado.
@@ -24,7 +24,7 @@ b).- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 1998)
 c).- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 1998)
 (REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)
 d).- El valor de avalúo que practique la autoridad fiscal municipal, cuando éste no se encuentre contemplado en la Tabla de Valores Catastrales Unitarios, Base del Impuesto Predial.
-(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2001)
 2.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentra construido el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Oficina de Catastro determinará el valor que le corresponda a cada uno y éste entrará en vigor a partir del mes siguiente a la fecha en que se haya autorizado, previamente la Escritura de Constitución del Condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron.
 En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del mes siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado.
 (REFORMADA, P.O. 28 DE AGOSTO DE 2009)
