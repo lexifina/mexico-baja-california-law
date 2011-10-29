@@ -1,5 +1,4 @@
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 29 DE JULIO DE 2011.
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 BRAULIO MALDONADO SANDEZ,
 Gobernador Constitucional del Estado Libre y Soberano de Baja California, a sus habitantes, sabed:

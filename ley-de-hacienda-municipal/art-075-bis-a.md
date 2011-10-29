@@ -31,8 +31,9 @@ En estos casos la base se aplicará a cada uno de los departamentos, despachos o
 V.- La tasa del Impuesto que corresponda pagar, será la que se determine en la Ley de Ingresos de cada Municipio del Estado, para el ejercicio fiscal correspondiente.
 (REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)
 VI.- La cuota del Impuesto que resulte con base en los avalúos y modificaciones entrará en vigor a partir del mes siguiente a la fecha en que éstos se hayan notificado.
-(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)
-VII.- El pago del Impuesto deberá cubrirse anualmente durante los dos primeros meses del año en la Oficina Recaudadora Municipal que corresponda, mediante declaración obligatoria que deberá presentar el contribuyente utilizando las formas que al efecto apruebe la Tesorería Municipal. El pago anticipado del Impuesto, no impide el cobro de diferencias que resulten por cambios en las bases gravables o variación de las cuotas del impuesto.
+(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)
+VII.- El pago del Impuesto deberá cubrirse anualmente en los plazos previstos por las leyes de ingresos municipales respectivas, en la Oficina Recaudadora Municipal que corresponda, mediante declaración obligatoria que deberá presentar el contribuyente utilizando las formas que al efecto apruebe la Tesorería Municipal. El pago anticipado del Impuesto, no impide el cobro de diferencias que resulten por cambios en las bases gravables o variación de las cuotas del Impuesto.
+Las leyes de ingresos municipales podrán prever el otorgamiento de estímulos a aquellos contribuyentes del Impuesto Predial que lo enteren oportunamente.
 (REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)
 VIII.- Los inmuebles responden preferentemente del pago del Impuesto Predial, aún cuando pasen a propiedad o posesión de terceros.
 (REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)
