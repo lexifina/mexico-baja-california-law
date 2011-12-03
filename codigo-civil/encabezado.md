@@ -1,4 +1,4 @@
-CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
+CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 MILTON CASTELLANOS EVERARDO
 Gobernador Constitucional del Estado Libre y Soberano de Baja California, a sus habitantes sabed:
