@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)
+ARTICULO 55 BIS.- En los términos del presente Capítulo se llevará a cabo el registro de niños o niñas entregados en las Instituciones Públicas de Salud del Estado, Albergues del Sistema Estatal para el Desarrollo Integral de la Familia y demás casas de asistencia social, designados por las autoridades competentes, siempre que se acredite que el menor no se encuentra registrado y que no se haya solicitado la devolución del menor por los padres biológicos, conjunta o separadamente en los términos previstos por el presente código.
