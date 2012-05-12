@@ -1,5 +1,5 @@
 P.O. 24 DE SEPTIEMBRE DE 2010.
-DECRETO NUMERO 429, POR EL QUE SE REFORMAN LOS ARTICULOS 58, 64 Y 109 DE LA CONSTITUCION POLITICA DE BAJA CALIFORNIA.
+DECRETO NÚMERO 429, POR EL QUE SE REFORMAN LOS ARTÍCULOS 58, 64 Y 109 DE LA CONSTITUCIÓN POLÍTICA DE BAJA CALIFORNIA.
 PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presentes reformas se declararán parte de esta Constitución.
 TERCERO.- Las reformas que se contienen en el párrafo quinto del artículo 58 entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, mientras que las reformas establecidas en el párrafo segundo del artículo 64 entrarán en vigor el día primero de diciembre de 2010.
