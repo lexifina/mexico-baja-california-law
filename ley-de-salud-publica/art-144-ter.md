@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE ENERO DE 2012)
+ARTÍCULO 144 TER.- Los establecimientos señalados en el artículo anterior, tienen prohibido realizar en sus instalaciones cualquier tipo de tratamientos o procedimientos invasivos como implantaciones, infiltraciones de sustancias o empleo de aparatos relacionados con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara o del cuerpo humano que requieran de intervención médica.
