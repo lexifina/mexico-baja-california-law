@@ -1,0 +1,4 @@
+P.O. 20 DE ABRIL DE 2012.
+DECRETO No. 186, POR EL QUE SE APRUEBA LA REFORMA A LA FRACCIÓN XXV Y LA CREACIÓN DE LA FRACCIÓN XXVI AL ARTÍCULO 4, LA REFORMA A LA FRACCIÓN XIII DEL ARTÍCULO 73, LA REFORMA A LA FRACCIÓN V DEL ARTÍCULO 74, LA ADICIÓN A LA DENOMINACIÓN DEL CAPÍTULO NOVENO, LA CREACIÓN DE LA SECCIÓN V CORRESPONDIENTE AL CAPÍTULO NOVENO, ASÍ COMO LA CREACIÓN DEL ARTÍCULO 106 QUÁTER, TODOS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+Primero.- Las presentes reformas entrará (sic) en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+Segundo.- El Ejecutivo del Estado, contará con un plazo de 180 días, contados a partir de la publicación del presente Decreto, para realizar las adecuaciones reglamentarias, administrativas y presupuestales que correspondan.
