@@ -5,7 +5,10 @@ II.- Recibir los avisos de los responsables sanitarios y de los comités interno
 III.- Fomentar y vigilar el cumplimiento de las normas oficiales mexicanas en materia de órganos, tejidos y células, así como la donación y trasplante de estos respecto de los establecimientos en los que se realicen los actos relativos;
 IV.- Operar y mantener actualizado el registro estatal de trasplantes;
 V.- Decidir y vigilar dentro de su ámbito de competencia la asignación de órganos, tejidos y células de seres humanos;
-VI.- Fomentar y promover la cultura de donación, por métodos propios o en coordinación con el Consejo Estatal de Trasplantes;
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)
+VI.- Elaborar y llevar a cabo campañas permanentes de concientización sobre la importancia de la donación y los trasplantes, por métodos propios o en coordinación con las instituciones públicas del Sistema Nacional de Salud o con el Consejo Estatal de Trasplantes.
+Corresponde al Gobierno del Estado, determinar los mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.
 VII.- Vigilar y autorizar las investigaciones en las que en su desarrollo se utilicen órganos y tejidos de seres humanos con excepción de la sangre, así como de injerto y trasplantes que se pretendan realizar con fines de investigación, sin perjuicio de las atribuciones de otros organismos en estas actividades;
 VIII.- Constituir una Unidad Operativa de Procuración de Órganos y Tejidos, que tendrá como objetivo principal facilitar y gestionar los procesos para la obtención de órganos, tejidos y células de seres humanos con fines de trasplantes, dentro de las diferentes instituciones de salud establecidas en el Estado.
 IX.- Vigilar que los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en trasplantes se ajusten a las disposiciones legales aplicables en la materia;
