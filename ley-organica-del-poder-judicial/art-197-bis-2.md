@@ -17,5 +17,5 @@ XII.- Entregar y recibir bajo inventario los bienes y valores a que se refieren 
 XIII.- Asignar, conforme a las disposiciones que expida el Presidente del Consejo de la Judicatura, a uno o varios Jueces de Garantía, a las unidades judiciales donde deban ejercer su jurisdicción.
 (REFORMADA, P.O. 1 DE JULIO DE 2011)
 XIV.- Ejercer las facultades y aplicar los procedimientos previstos en las fracciones l, II y IV de este artículo cuando los Jueces de Garantía actúen en calidad de Jueces de Ejecución.
-(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)
-XV.- Ejercer las demás funciones que le sean asignadas por el Presidente del Consejo de la Judicatura.
+(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)
+XV.- Las demás que determinen las disposiciones legales.
