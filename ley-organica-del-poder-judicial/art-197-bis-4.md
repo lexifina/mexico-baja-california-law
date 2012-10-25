@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 2 DE JULIO DE 2010)
-ARTICULO 197 Bis-4.- Para ser administrador judicial se requiere:
+ARTICULO 197 BIS-4.- Para ser administrador judicial se requiere:
 I.- Ser mexicano en pleno ejercicio de sus derechos civiles y políticos;
 II.- Tener edad mínima de treinta y cinco años;
 III.- Tener título profesional de Licenciatura en Sistemas Computacionales, Administración, Ingeniero Industrial o carrera afín;

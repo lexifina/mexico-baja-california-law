@@ -1,5 +1,5 @@
 (REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)
-ARTICULO 197 Bis-2.- El administrador judicial estará adscrito a la Presidencia del Consejo de la Judicatura y ejercerá las siguientes facultades:
+ARTICULO 197 BIS-2.- El administrador judicial estará adscrito a la Presidencia del Consejo de la Judicatura y ejercerá las siguientes facultades:
 I.- Dirigir las labores administrativas, para que las audiencias que presidan los Jueces de Garantía y los Tribunales de Juicio Oral se desarrollen adecuadamente.
 II.- Realizar las actividades administrativas que sean necesarias, para la buena marcha del despacho y las audiencias que presidan los Jueces de Garantía y los Tribunales de Juicio Oral.
 III.- Supervisar las funciones del personal que tenga adscrito y a su cargo y evaluar su desempeño.
