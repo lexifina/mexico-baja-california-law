@@ -1,0 +1,2 @@
+(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE NOVIEMBRE DE 2012)
+Artículo 201 TER.- Tipo y punibilidad.- A quien se apodere o sustraiga sin derecho y sin consentimiento de la persona que pueda disponer de él, cableado de energía eléctrica derivado del material de cobre, o algún otro metal utilizado en instalaciones eléctricas o hidráulicas, partes de medidores de energía eléctrica y gas, así como equipamiento industrial y de la construcción de obras, se impondrá de uno a cinco años de prisión y de cincuenta hasta doscientos días multa.
