@@ -1,0 +1,4 @@
+P.O. 23 DE NOVIEMBRE DE 2012.
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- A la entrada en vigor del presente decreto, el Titular del Ejecutivo Estatal a través de la Secretaría de Planeación y Finanzas, contará hasta con 90 días naturales para hacer los ajustes presupuestales y ejecutar la campaña permanente de donación altruista de sangre. En el mismo plazo emitirá el reglamento correspondiente para el funcionamiento del Banco Estatal de Sangre.
+TERCERO.- Para los efectos de la organización y funcionamiento del Banco Estatal de Sangre, las erogaciones que deban realizarse para ese fin, se sujetaran a los recursos aprobados en el presupuesto de egresos asignado a la Secretaría de Planeación y Finanzas para el ejercicio fiscal 2013.
