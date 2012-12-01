@@ -1,4 +1,4 @@
-(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)
+(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)
 ART. 272 BIS.- Es deber del juez conciliar a las partes, durante cualquier etapa del procedimiento, hasta antes de citación a sentencia.
 (REFORMADO, P.O. 19 DE OCTUBRE DE 2007)
 En los juicios ordinarios civil, se realizará una audiencia conciliatoria obligatoria, la cual será desahogada oralmente en forma previa a la audiencia de pruebas y alegatos, o bien, dentro de la primera audiencia de desahogo de pruebas que se hayan ofrecido por escrito.
