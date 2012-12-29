@@ -1,0 +1,13 @@
+ARTÍCULO TRANSITORIO
+ÚNICO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+DADO en el Salón de Sesiones "Lic. Benito Juárez García" del H. Poder Legislativo del Estado de Baja California, en la Ciudad de Mexicali, B.C., a los seis días del mes de diciembre del año dos mil doce.
+DIP. CLAUDIA JOSEFINA AGATÓN MUÑIZ
+P R E S I D E N T E
+DIP. FAUSTO ZARATE ZEPEDA
+S E C R E T A R I O
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCIÓN I DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, IMPRÍMASE Y PUBLÍQUESE.
+MEXICALI, BAJA CALIFORNIA, A LOS DIECINUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DOCE.
+JOSÉ GUADALUPE OSUNA MILLÁN
+GOBERNADOR DEL ESTADO.
+FRANCISCO ANTONIO GARCÍA BURGOS
+SECRETARIO GENERAL DE GOBIERNO.
