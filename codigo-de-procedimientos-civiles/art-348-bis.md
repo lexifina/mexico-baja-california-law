@@ -1,7 +1,7 @@
 (ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)
 ART. 348 BIS.- En las acciones de investigación de paternidad o maternidad, cuando estas se nieguen o se ponga en duda las mismas, podrá pedirse y decretarse la prueba biológica molecular de la caracterización del ácido desoxirribonucleico de las células, también denominada ADN que se practicará conforme a las siguientes reglas:
-(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)
-I.- El Juez designará perito único, nombramiento que deberá recaer en una institución certificada para este tipo de pruebas por la Secretaría de Salud del Estado, o bien, se podrá designar a un Perito del Instituto de Ciencias Forenses del Estado de Baja California;
+(REFORMADA, P.O. 25 DE ENERO DE 2013)
+I.- El Juez designará perito único, nombramiento que deberá recaer en una institución certificada para este tipo de pruebas por la Secretaría de Salud del Estado;
 II.- El Juez con la presencia de las partes interesadas, sus representantes legales, del Ministerio Público y de la Procuraduría para la Defensa de las Personas Menores e (sic) Dieciocho Años de Edad y la Familia en su caso, y del perito designado, presidirá la diligencia en la cual se tomarán las muestras físicas del presunto progenitor.
 En caso de que el presunto progenitor sin causa justificada no comparezca a la diligencia para la práctica de la prueba o se niegue expresamente a proporcionar las muestras necesarias para su práctica, se presumirá la filiación, salvo prueba en contrario.
 III.- El dictamen que rinda el perito responsable, deberá contener lo siguiente:
