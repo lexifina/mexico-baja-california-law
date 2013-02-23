@@ -4,3 +4,4 @@ SEGUNDO.- La Secretaría de Turismo, propondrá al Ejecutivo Estatal en un plazo
 TERCERO.- Los Ayuntamientos dictarán, o en su caso, adecuarán los Bandos de Policía y Gobierno, Reglamentos, Circulares y disposiciones administrativas que correspondan para que en sus respectivas circunscripciones se cumplan las previsiones de esta Ley.
 CUARTO.- A partir de la entrada en vigor de la presente Ley la Secretaría, en un término que no exceda de ciento veinte días, deberá lanzar la convocatoria para la instalación del Consejo Consultivo Estatal de Filmaciones.
 QUINTO.- Dentro de los sesenta días siguientes a la instalación del Consejo Consultivo Estatal de Filmaciones, se deberá expedir el reglamento en el que se establezcan las normas de organización y operación interna.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
