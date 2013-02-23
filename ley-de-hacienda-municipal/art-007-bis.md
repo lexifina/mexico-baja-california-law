@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)
+ARTICULO 7 BIS.- Las contribuciones que perciban los Organismos Descentralizados, Concesionarios, Empresas de Participación Municipal o Paramunicipales, por la prestación de un servicio público, ya sea de los establecidos como Derechos o cualquier otra denominación hacendaria, se fijarán mediante cuotas o tarifas que en su caso corresponda. Ninguna contribución mencionada en el presente artículo podrá recaudarse si no está prevista en la Ley de Ingresos Municipal respectiva, o por una ley posterior que lo establezca.
+Asimismo, deberán incluir las Entidades mencionadas en el párrafo anterior, todos los servicios que generen una obligación de cobro.
