@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE JUNIO DE 2013)
+ARTÍCULO 50 QUINQUIES.- La Secretaría promoverá con los Ayuntamientos en donde se desarrollan actividades turísticas, la celebración de acuerdos destinados a la adopción de las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, así como todos los servicios orientados a la prestación de una atención integral al turista.
