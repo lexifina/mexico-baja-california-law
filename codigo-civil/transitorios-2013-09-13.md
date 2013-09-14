@@ -1,0 +1,3 @@
+P.O. 13 DE SEPTIEMBRE DE 2013.
+DECRETO NÚMERO 511, POR EL QUE SE REFORMAN LOS ARTÍCULOS 55 Y 377 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA…
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Baja California.
