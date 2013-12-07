@@ -1,0 +1,5 @@
+P.O. 6 DE DICIEMBRE DE 2013.
+Artículo Primero.- Aprobada que sea esta iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado, copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+Artículo Segundo.- Agotado el trámite y pronunciada la declaratoria señalada en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas del artículo 27 de la Constitución Política y de los artículos 18 y 41 de la Ley Orgánica de la Administración Pública, ambos ordenamientos legales para el Estado de Baja California, al Poder Ejecutivo para su publicación.
+Artículo Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+Artículo Cuarto.- En un término que no exceda de 60 días a partir de la vigencia del presente Decreto, el Congreso del Estado realizará las adecuaciones necesarias a los ordenamientos legales que se vean impactados por la presente reforma.
