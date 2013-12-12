@@ -11,7 +11,7 @@ c).- Las conclusiones o resultados obtenidos, especificando los principios de la
 Si faltare alguno de estos requisitos, el dictamen carecerá de valor probatorio.
 IV.- Rendido y ratificado el dictamen en los términos de esta Ley, se pondrá a la vista de las partes y demás interesados para su observación y en su caso impugnación.
 V.- Los honorarios del perito serán cubiertos por la parte que ofreció la prueba.
-El valor de la prueba será plena, siempre y cuando concurran las condiciones antes señaladas y las observaciones o impugnaciones que en su caso se hicieron no estén justificadas a criterio del Juez.
+El valor de esta prueba será plena, siempre y cuando concurran las condiciones antes señaladas y las observaciones o impugnaciones que en su caso se hicieron no estén justificadas a criterio del Juez.
 Serán aplicables a esta prueba, en lo conducente las reglas generales de la prueba pericial.
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 SECCION V
