@@ -1,0 +1,3 @@
+P.O. 31 DE DICIEMBRE DE 2013.
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- No se encontrarán obligados a la realización de la verificación vehicular exigida conforme a la Ley de Protección al Ambiente para el Estado de Baja California, y a la Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California, los propietarios o poseedores de vehículos con domicilio y registro vehicular en los valles de Ensenada, San Felipe, el Valle de Mexicali Y Delegaciones Municipales del Municipio de Tecate, dado que no existen centros de verificación vehicular en dichas localidades.
