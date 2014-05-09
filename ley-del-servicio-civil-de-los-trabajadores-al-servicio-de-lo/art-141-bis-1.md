@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 8 DE MAYO DE 2014)
+ARTICULO 141 BIS 1.- El trabajador podrá solicitar que se cite a absolver posiciones a los servidores públicos que ejerzan funciones de dirección y administración en la Autoridad Pública, así como a los miembros de la directiva de los sindicatos, cuando los hechos que dieron origen al conflicto les sean propios y se les hayan atribuido en la demanda o contestación, o bien que por razones de sus funciones les deban ser conocidos.
+Los servidores públicos pertenecientes a las Autoridades Públicas, desde jefes de departamento o sus equivalentes hasta los titulares, podrán desahogar la prueba mediante oficio, por el absolvente o por conducto de su representante o apoderado legal.
