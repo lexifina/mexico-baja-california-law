@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 8 DE MAYO DE 2014)
+ARTICULO 141 BIS 19.- Se reputa autor de un documento privado al que lo suscribe. Se entiende por suscripción, la colocación al pie del escrito de la firma o huella digital que sean idóneas, para identificar a la persona que suscribe.
+La suscripción hace plena fe de la formulación del documento por cuenta del suscriptor cuando sea ratificado en su contenido y firma o huella digital; excepto en los casos en que el contenido no se repute proveniente del autor, circunstancia que deberá justificarse con prueba idónea.
+La ratificación de contenido y firma o huella digital señalada en el párrafo anterior no será necesaria para otorgarle plena fe al documento, cuando el que suscribió el mismo, es parte en el juicio y no se haya objetado la autenticidad de la firma o huella digital.

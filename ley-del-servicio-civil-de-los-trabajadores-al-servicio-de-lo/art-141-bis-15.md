@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 8 DE MAYO DE 2014)
+ARTICULO 141 BIS 15.- Si el documento privado consiste en copia simple o fotostática se podrá solicitar, en caso de ser objetado, la compulsa o cotejo con el original; para este efecto, la parte oferente deberá precisar el lugar donde el documento original se encuentre.
