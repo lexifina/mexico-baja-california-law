@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)
+ARTÍCULO 106 TER.- Corresponde al Estado y a los municipios generar las acciones necesarias a fin de crear áreas verdes urbanas que permitan mejorar la calidad de vida y convivencia social de sus habitantes. Dichas áreas serán consideradas como espacios públicos de conservación, mejoramiento y crecimiento.
+El Estado y los municipios procurarán el incremento de áreas verdes urbanas en proporción al número de habitantes, de conformidad con las disposiciones reglamentarias aplicables. Para tal efecto, podrá tomarse como referencia parámetros internacionales.
