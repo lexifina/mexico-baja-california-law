@@ -1,7 +1,8 @@
 TRANSITORIOS
-Artículo Primero.- Vigencia.- La presente Ley entrará en vigor a las cero horas del día primero de octubre del año dos mil once en el partido judicial de Mexicali y en forma sucesiva, en los demás partidos judiciales del Estado, conforme al siguiente orden:
-I. Ensenada, a partir de las cero horas del día tres de mayo del año dos mil doce.
-II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil trece.
+(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)
+Artículo Primero.- Vigencia.- La presente Ley entrará en vigor a las cero horas del día primero de octubre del año dos mil doce en el partido judicial de Mexicali y en forma sucesiva, en los demás partidos judiciales del Estado, conforme al siguiente orden:
+I. Ensenada, a partir de las cero horas del día tres de mayo del año dos mil trece.
+II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil catorce.
 Artículo Segundo.- Adecuación reglamentaria.- Dentro del plazo previsto para la entrada en vigor de la presente Ley, el Ejecutivo del Estado, por conducto de las instituciones y autoridades estatales correspondientes, deberá expedir los reglamentos necesarios para la adecuada instrumentación de las normas contenidas en la presente Ley.
 Artículo Tercero.- Aplicación de la Ley de Justicia para Adolescentes del Estado de Baja California 2006.- La Ley de Justicia para Adolescentes del Estado de Baja California, publicada en el Periódico Oficial No. 45, de fecha 27 de octubre de 2006, se seguirá aplicando:
 I.- En los Municipios del Estado en los que no haya entrado en vigor la presente Ley, conforme a los momentos que se señalan en el artículo primero transitorio.
@@ -24,3 +25,4 @@ JOSÉ GUADALUPE OSUNA MILLÁN.
 GOBERNADOR DEL ESTADO.
 CUAUHTÉMOC CARDONA BENAVIDES.
 SECRETARIO GENERAL DE GOBIERNO.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.
