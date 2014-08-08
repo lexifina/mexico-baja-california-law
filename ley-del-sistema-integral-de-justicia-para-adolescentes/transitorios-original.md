@@ -1,12 +1,11 @@
 TRANSITORIOS
-(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)
-Artículo Primero.- Vigencia.- La presente Ley entrará en vigor a las cero horas del día once de agosto del año dos mil catorce en el partido judicial de Mexicali y en forma sucesiva, en los demás partidos judiciales del Estado, conforme al siguiente orden:
-I. Ensenada, a partir de las cero horas del día tres de mayo del dos mil quince.
-II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del dos mil dieciséis.
+(REFORMADO, P.O. 8 DE AGOSTO DE 2014)
+Artículo Primero.- Vigencia.- La presente ley entrará en vigor a las cero horas del día 18 de junio de 2016.
 Artículo Segundo.- Adecuación reglamentaria.- Dentro del plazo previsto para la entrada en vigor de la presente Ley, el Ejecutivo del Estado, por conducto de las instituciones y autoridades estatales correspondientes, deberá expedir los reglamentos necesarios para la adecuada instrumentación de las normas contenidas en la presente Ley.
 Artículo Tercero.- Aplicación de la Ley de Justicia para Adolescentes del Estado de Baja California 2006.- La Ley de Justicia para Adolescentes del Estado de Baja California, publicada en el Periódico Oficial No. 45, de fecha 27 de octubre de 2006, se seguirá aplicando:
-I.- En los Municipios del Estado en los que no haya entrado en vigor la presente Ley, conforme a los momentos que se señalan en el artículo primero transitorio.
-II.- En los Municipios del Estado, en los que habiendo entrado en vigor la presente Ley, se trate de hechos delictivos y procedimientos penales, cometidos o iniciados con anterioridad a ese momento.
+I.- (DEROGADA, P.O. 8 DE AGOSTO DE 2014)
+(REFORMADA, P.O. 8 DE AGOSTO DE 2014)
+II.- En los hechos delictivos y procedimientos penales que se hubieran cometido o se encuentren en trámite, con anterioridad a la entrada en vigor de la presente ley.
 III.- Siempre que no se opongan a lo previsto por esta Ley, las disposiciones relativas a la organización, funcionamiento y atribuciones de la Subsecretaría y los Centros de Ejecución de Medidas y de Diagnóstico, con excepción de lo relativo a la solicitud, elaboración y remisión del diagnostico integral de personalidad a cargo del Centro de Diagnóstico.
 Será aplicables las normas que se refiere esta fracción solo hasta en tanto no entren en vigor las disposiciones relativas a la organización de la autoridades penitenciarias, en la legislación que corresponda, de conformidad con lo previsto en el Artículo 28 de esta Ley.
 La Ley de Justicia para Adolescentes del Estado de Baja California, publicada en el Periódico Oficial No. 45, de fecha 27 de octubre de 2006, podrá seguir siendo reformada o adicionada hasta en tanto se siga actualizando alguno de los supuestos contenidos en las fracciones anteriores.
