@@ -3,5 +3,5 @@ ARTÍCULO 98 BIS.- La Secretaría de Salud del Estado, llevará la operación y 
 I.- Determinar la incidencia de la parálisis cerebral infantil;
 II.- Conocer los factores condicionantes o causales de parálisis cerebral infantil;
 III.- Dar seguimiento al desarrollo de la parálisis cerebral infantil;
-IV.- Planificar, acercar, evaluar y mejorar la atención médica, así como los servicios asistencia (sic) social que se deban otorgar; y
+IV.- Planificar, acercar, evaluar y mejorar la atención médica, así como los servicios (sic) asistencia social que se deban otorgar; y
 V.- Recabar cualquier otra información que se estime necesaria para la prevención y rehabilitación de la parálisis cerebral infantil.
