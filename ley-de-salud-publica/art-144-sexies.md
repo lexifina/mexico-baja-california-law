@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)
+ARTÍCULO 144 SEXIES.- La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud especializados en dichas materias, de conformidad con lo que establece el artículo 52 y 144 QUÁTER de esta Ley.

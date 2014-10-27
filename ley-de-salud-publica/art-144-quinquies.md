@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)
+ARTÍCULO 144 QUINQUIES.- Para la expedición de la cédula de médico especialista, la Secretaría de Educación y Bienestar Social solicitará la opinión del Comité Estatal Interinstitucional para la Formación y Capacitación de Recursos Humanos e Investigación en Salud, órgano consultivo de la Administración Pública Estatal, creado por Decreto publicado en el Periódico Oficial de fecha 12 de julio de 2013.
