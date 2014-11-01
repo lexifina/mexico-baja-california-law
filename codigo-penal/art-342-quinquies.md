@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)
+Artículo 342 QUINQUIES.- Se exceptúan de las disposiciones de este capítulo, las corridas de toros, novillos y festivales taurinos, así como las faenas camperas como tientas y acoso y derribo, necesarias para el ganado de lidia. En igual forma, las peleas de gallos, charreadas, jaripeos, coleadores.
+Asimismo, se exceptúa la caza, la pesca, las buenas prácticas pecuarias, las de control animal y salubridad llevadas a cabo por autoridad competente, así como las actividades científicas, de investigación y demás similares, siempre que se realicen en términos de las disposiciones que resulten aplicables.

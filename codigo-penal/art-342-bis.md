@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)
+Artículo 342 BIS.- Para efectos del presente capítulo, se entenderá por animal, al organismo vivo, no humano, sensible, que no constituya plaga, que posee movilidad propia, y capacidad de respuesta a los estímulos del medio ambiente perteneciente a una especie doméstica o silvestre.
+Para los efectos del presente capítulo se entenderá por plaga, la población excesiva de alguna especie animal que tiene un efecto dañino sobre el medio ambiente, otras poblaciones animales, o el ser humano.
+No se consideraran como plaga, los animales que habiendo estado bajo el cuidado y protección del ser humano queden abandonados o sin el cuidado o protección de sus propietarios o poseedores, así como los que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, y sus descendencias.
