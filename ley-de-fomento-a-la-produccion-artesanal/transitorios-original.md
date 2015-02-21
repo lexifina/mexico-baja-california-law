@@ -1,6 +1,6 @@
 ARTÍCULOS TRANSITORIOS
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-SEGUNDO.- Se abroga la Ley de de Fomento a las Artesanías Indígenas para el Estado de Baja California.
+SEGUNDO.- Se abroga la Ley de Fomento a las Artesanías Indígenas para el Estado de Baja California.
 DADO en el Salón de Sesiones "Lic. Benito Juárez García" del H. Poder Legislativo del Estado de Baja California, en la Ciudad de Mexicali, B.C., a los diez días del mes de enero del año dos mil doce.
 LIC. MÁXIMO GARCÍA LÓPEZ
 DIPUTADO PRESIDENTE
@@ -12,3 +12,4 @@ JOSÉ GUADALUPE OSUNA MILLÁN
 GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 SECRETARIO GENERAL DE GOBIERNO
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
