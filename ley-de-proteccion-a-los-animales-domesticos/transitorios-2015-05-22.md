@@ -1,0 +1,7 @@
+P.O. 22 DE MAYO DE 2015.
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- La Secretaría de Protección al Ambiente, en coordinación con la Secretaría de Salud, deberá expedir el Manual de Operación de Fosas de Cadáveres de Animales en un término no mayor al de 180 días contados a partir de la publicación del presente decreto.
+TERCERO.- Las autoridades municipales tendrán hasta un año, contado a partir de la expedición del Manual de Operación de Fosas de Cadáveres de Animales, para expedir las disposiciones reglamentarias correspondientes, y para llevar a cabo las adecuaciones que sean necesarias para el efectivo acopio, traslado y envío de los cadáveres de animales a la fosa para su inhumación, así como para capacitar al personal que realizará dichas actividades.
+CUARTO.- Las autoridades municipales tendrán hasta un año, contado a partir de la expedición del reglamento municipal correspondiente, para diseñar, construir, organizar, operar y mantener una fosa exclusivamente para la inhumación de cadáveres de animales, bajo los lineamientos establecidos en el referido Manual.
+QUINTO.- Respecto al costo del servicio al que se refiere el Artículo 52 de esta Ley, los Ayuntamientos del Estado de Baja California deberán realizar las adecuaciones conducentes a sus respectivas Leyes de Ingresos, a efecto de la correcta aplicación de la presente reforma.
+SEXTO.- Se derogan todas aquellas disposiciones contrarias a las presentes reformas.
