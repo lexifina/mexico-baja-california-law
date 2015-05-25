@@ -1,7 +1,6 @@
-(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)
-ARTICULO 81 BIS.- Los Jueces de Garantía, ejercerán las facultades que determinen las disposiciones normativas aplicables.
-Para el nuevo sistema de justicia penal, se contará con el número de Jueces de Garantía que sean indispensables para la adecuada aplicación del citado sistema y de conformidad con la disponibilidad presupuestal.
-(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)
-Los Jueces de Garantía estarán investidos de fe pública para constancia y certificación de sus actos.
-(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2011)
-Los Jueces de Garantía podrán desempeñarse como Jueces de Ejecución dentro del Partido Judicial correspondiente, con la condición de que no hayan conocido de ese asunto como Juez de Garantía o Tribunal de Juicio Oral.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 22 DE MAYO DE 2015)
+ARTICULO 81 BIS.- Los Jueces de Control, ejercerán las facultades que determinen las disposiciones normativas aplicables.
+Para el nuevo sistema de justicia penal, se contará con el número de Jueces de Control que sean indispensables para la adecuada aplicación del citado sistema y de conformidad con la disponibilidad presupuestal.
+Los Jueces de Control estarán investidos de fe pública para constancia y certificación de sus actos.
+En cada uno de los partidos judiciales en el Estado, de acuerdo a la disponibilidad presupuestal y las necesidades del servicio, se contará por lo menos con un Juez Especializado en Ejecución de Sentencia que ejercerá las facultades que determinen las disposiciones normativas aplicables.
