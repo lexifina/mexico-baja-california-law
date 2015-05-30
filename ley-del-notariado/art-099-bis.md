@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 29 DE MAYO DE 2015)
+ARTICULO 99 BIS.- Cuando exista queja sobre un acto o hecho jurídico celebrado ante notario o se impugne la escritura o acta notarial respectiva, el notario deberá remitir copia certificada por él mismo, al Director del Archivo General de Notarías, de los folios o volumen donde conste dicho acto o hecho, según sea el caso, así como de los apéndices correspondientes, quedando dichos folios o volumen a disposición para consulta.
+En el caso de que el volumen donde conste la escritura o acta impugnada ya se encuentre cerrado, se deberá remitir dicho volumen junto con su respectivo apéndice a la Dirección del Archivo General de Notarías para su guarda definitiva, con independencia del plazo del artículo anterior.

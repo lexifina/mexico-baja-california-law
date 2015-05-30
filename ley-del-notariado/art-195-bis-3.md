@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 29 DE MAYO DE 2015)
+ARTICULO 195 BIS 3.- Una vez recibida la queja o terminada la etapa de investigación administrativa en la que se hubiesen agregado las visitas y, en su caso, agotada la conciliación; si se considera que hay causa razonable para continuar el procedimiento para determinar la responsabilidad del notario, se procederá conforme a lo previsto por el artículo siguiente; en caso contrario, se dictará el acuerdo archivo y se tendrá el asunto como totalmente concluido.
