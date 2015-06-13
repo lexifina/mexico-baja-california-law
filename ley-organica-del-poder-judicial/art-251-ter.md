@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)
-ARTICULO 251 TER.- Las Salas Unitarias del Tribunal son competentes para sustanciar y resolver exclusivamente las denuncias o quejas a que se refiere la fracción 11 del artículo 245 de esta Ley, conforme al procedimiento previsto en la Ley Electoral del Estado.
+ARTICULO 251 TER.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
