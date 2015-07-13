@@ -1,5 +1,5 @@
-(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)
-CAPITULO SEGUNDO
+(REFORMADO, P.O. 10 DE JULIO DE 2015)
+CAPÍTULO SEGUNDO
 DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA
 (REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO PRIMER PÁRRAFO], G.P. 14 DE OCTUBRE DE 2010)
 ARTICULO 169 BIS.- Como sujeto obligado en materia de transparencia y acceso a la información política gubernamental, el Congreso del Estado garantiza el acceso de toda persona a la información de que dispone, en los términos de la Constitución y ley de la materia del estado, y de esta Ley y su Reglamento.

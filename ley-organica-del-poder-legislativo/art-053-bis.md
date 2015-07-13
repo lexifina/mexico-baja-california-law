@@ -1,4 +1,4 @@
-(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)
+(REFORMADO, P.O. 10 DE JULIO DE 2015)
 ARTICULO 53 BIS.- Son atribuciones del Secretario Escrutador:
 I. Auxiliar al Presidente en el desempeño de sus funciones;
 II. A solicitud del Presidente, en las sesiones del Congreso recoger y computar las votaciones y proclamar sus resultados, cuando así lo disponga el Presidente; y,
