@@ -1,0 +1,5 @@
+P.O. 17 DE ABRIL DE 2015.
+PRIMERO.- La presente reforma entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- El Ejecutivo del Estado deberá publicar el Acuerdo de adscripción de las instituciones de salud del Estado a las Oficialías del Registro Civil, así como la normatividad para la operación del registro de nacimientos.
+Asimismo, deberá tomar las providencias necesarias a fin de adecuar el Sistema para la Inscripción y Certificación de los Actos del Estado Civil, para la incorporación de la participación de las instituciones de salud en el registro de menores.
+TERCERO.- Toda dependencia y entidad de la administración pública estatal, a la que impacte esta reforma, deberá elaborar los planes y programas necesarios para su adecuada y correcta implementación, así como establecer dentro de los proyectos de presupuesto respectivos, las partidas indispensables para atender la ejecución de esos programas, equipamiento, la contratación de personal, la capacitación, y todos los demás requerimientos que sean necesarios.

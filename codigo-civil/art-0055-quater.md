@@ -1,0 +1,5 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(ADICIONADO, P.O. 17 DE ABRIL DE 2015)
+ARTICULO 55 QUATER.- Una vez que la Oficialía del Registro Civil, reciba la declaración de nacimiento referida en el artículo anterior, verificará que los datos expresados son correctos y coincidentes con los contenidos en las bases de datos a cargo del Registro Civil y procederá al levantamiento del Acta de Nacimiento.
+Cuando la información proporcionada por la institución de salud se encuentre incompleta o con datos imprecisos, la Oficialía del Registro Civil requerirá, al momento en que se presente el interesado a recoger la primera copia certificada del acta de nacimiento, la información necesaria para concluir el registro del menor.
+En caso de que la Oficialía del Registro Civil, advierta que se pudiera haber proporcionado información con el propósito de alterar la filiación del menor, hará la denuncia penal correspondiente.
