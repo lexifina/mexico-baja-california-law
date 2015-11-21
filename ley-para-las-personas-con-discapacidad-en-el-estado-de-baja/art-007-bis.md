@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 6 DE ENERO DE 2012)
+ARTÍCULO 7 BIS.- Las dependencias y entidades del Gobierno Estatal y de los Municipios, en el ámbito de sus respectivas competencias, así como, las personas físicas o morales de los sectores social y privado que presten servicios a las personas con discapacidad, constituyen el Sistema Estatal para el Desarrollo y la Inclusión de las Personas con Discapacidad.
+El Sistema tiene como objeto la coordinación y seguimiento continuo de los programas, acciones y mecanismos interinstitucionales públicos y privados, que permitan la ejecución de las políticas públicas para el desarrollo y la inclusión de las personas con discapacidad.

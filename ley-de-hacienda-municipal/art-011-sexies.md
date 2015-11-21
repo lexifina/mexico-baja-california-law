@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)
+ARTICULO 11 SEXIES.- Son ingresos derivados de financiamientos los ingresos obtenidos por la celebración de empréstitos internos y externos, autorizados o ratificados por el H. Congreso del Estado. Siendo principalmente los créditos por instrumento de emisiones en los mercados nacionales e internacionales de capital, organismos financieros internacionales, créditos bilaterales y otras fuentes. Asimismo, incluye los financiamientos derivados del rescate y/o aplicación de activos financieros.
