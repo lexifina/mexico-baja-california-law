@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)
+ARTICULO 11 QUÁTER.- Son participaciones y aportaciones los recursos recibidos en concepto de participaciones y aportaciones por los municipios. Incluye los recursos que se reciben y están destinados a la ejecución de programas federales y estatales mediante la reasignación de responsabilidades y recursos presupuestarios, en los términos de los convenios que se celebren.

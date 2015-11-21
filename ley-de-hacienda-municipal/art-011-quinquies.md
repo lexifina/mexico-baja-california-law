@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)
+ARTICULO 11 QUINQUIES.- Son transferencias, asignaciones, subsidios y otras ayudas los recursos recibidos en forma directa o indirecta por los sectores público, privado y externo, organismos y empresas municipales y apoyos como parte de su política económica y social, de acuerdo a las estrategias y prioridades de desarrollo para el sostenimiento y desempeño de sus actividades.

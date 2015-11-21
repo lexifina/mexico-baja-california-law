@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)
+ARTICULO 8 BIS.- Son cuotas y aportaciones de seguridad social las contribuciones establecidas en ley a cargo de personas que son sustituidas por el Ayuntamiento en el cumplimiento de obligaciones fijadas por la ley en materia de seguridad social o a las personas que se beneficien en forma especial por servicios de seguridad social proporcionados por el mismo Ayuntamiento.
