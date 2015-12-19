@@ -1,0 +1,9 @@
+P.O. 18 DE DICIEMBRE DE 2015.
+[N. DE E. TRANSITORIOS DEL ARTÍCULO PRIMERO DEL "DECRETO NO. 406 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 35, FRACCIONES VI, VII Y 42 FRACCIÓN VIII, ADICIONANDO UNA FRACCIÓN IX, DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá emitir, en un plazo no mayor (sic) noventa días naturales, las modificaciones a los Reglamentos correspondientes.
+TERCERO. A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal por conducto de la Secretaría de Seguridad Pública del Estado emitirá en un plazo no mayor a ciento veinte días naturales, los lineamientos para la operación del (sic) Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+[N. DE E. TRANSITORIOS DEL ARTÍCULO SEGUNDO DEL "DECRETO NO. 406 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 35, FRACCIONES VI, VII Y 42 FRACCIÓN VIII, ADICIONANDO UNA FRACCIÓN IX, DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá emitir, en un plazo no mayor (sic) noventa días naturales, las modificaciones a los Reglamentos correspondientes.
+TERCERO.- A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal por conducto de la Secretaría de Seguridad Pública del Estado emitirá en un plazo no mayor a ciento veinte días naturales, los lineamientos para la operación del (sic) Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
