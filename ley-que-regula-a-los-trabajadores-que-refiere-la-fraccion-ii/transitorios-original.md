@@ -6,17 +6,21 @@ II.- Generación actual, aquellos trabajadores que a la fecha de entrada en vigo
 TERCERO.- Los requisitos para pensionarse por jubilación, serán los siguientes:
 Generación Actual
 Requisito: 30 años de servicio e igual tiempo de contribución al Instituto y al menos contar con la edad mínima que se señala en la siguiente tabla de gradualidad:
-AÑO DE JUBILACIÓNEDAD MÍNIMA REQUERIDA
-2014 y 2015No Aplica
-2016-201752 años
-2018-201953 años
-2020-202154 años
-2022-202355 años
-2024-202556 años
-2026-202757 años
-2028-202958 años
-2030-203159 años
-2032 en adelante60 años
+(REFORMADA, P.O. 11 DE MARZO DE 2016)
+AÑO DE JUBILACIÓNEDAD MÍNIMA
+REQUERIDA
+201651 años
+2017-201852 años
+2019-202053 años
+2021-202254 años
+2023-202455 años
+2025-202656 años
+2027-202857 años
+2029-203058 años
+2031-203259 años
+2033 en adelante60 años
+(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MARZO DE 2016)
+El trabajador que en el año de jubilación cumpla con el requisito de 30 años de servicio e igual tiempo de contribución al Instituto, la edad mínima requerida que le marca el año de jubilación quedará fija para tales efectos.
 Monto: 100% del salario regulador.
 Plazo: Vitalicia con transmisión por fallecimiento.
 Nuevas Generaciones
@@ -93,3 +97,4 @@ FRANCISCO ARTURO VEGA DE LAMADRID
 GOBERNADOR DEL ESTADO.
 FRANCISCO RUEDA GÓMEZ
 SECRETARIO GENERAL DE GOBIERNO
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
