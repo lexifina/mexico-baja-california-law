@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE MARZO DE 2016)
+Artículo 44 BIS. Corresponderá a la Secretaría de Desarrollo Social, en su ámbito de competencia, fomentar el desarrollo social utilizando las herramientas necesarias para proteger de manera integral los derechos fundamentales de las mujeres, garantizarles una vida libre de violencia promoviendo su plena participación en todos los ámbitos de la vida buscando que mejoren las condiciones de aquellas que se encuentra en situación de exclusión y pobreza.
