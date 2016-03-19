@@ -1,0 +1,2 @@
+(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MARZO DE 2016)
+Artículo 293 BIS.- El servidor público que en el ejercicio de sus funciones, ejecute, produzca o coadyuve en la implantación, alteración o en ambos casos, en el manejo de la evidencia, de forma dolosa, que tenga como objetivo producir una afectación directa a una o varias personas, ya sea en su integridad física, emocional, jurídica o en su esfera patrimonial, se le impondrá de cuatro a doce años de prisión.
