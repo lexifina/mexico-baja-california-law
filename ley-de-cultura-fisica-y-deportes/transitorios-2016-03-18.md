@@ -1,0 +1,3 @@
+P.O. 18 DE MARZO DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 445 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 31, EN LA FRACCIÓN VI, ADICIONANDO UNA FRACCIÓN VII A LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
