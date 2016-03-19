@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE MARZO DE 2016)
+Artículo 11 Bis. Se entiende por violencia política a las acciones o conductas cometidas directamente o a través de terceros en contra de las mujeres candidatas, electas, designadas o en ejercicio de la función político-pública para acortar, suspender, impedir o restringir el ejercicio de sus derechos políticos así como para inducirla u obligarla a que realice, en contra de su voluntad, una acción o incurra en una omisión, en el cumplimiento de sus funciones.
