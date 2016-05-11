@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2015)
+ART. 926 BIS.- En el caso del concebido fuera de matrimonio o de concubinato, la mujer embarazada tiene el derecho de exigir ante el Juez de lo Familiar el pago o el aseguramiento de alimentos, quien deberá acreditar su estado con el certificado médico de embarazo emitido por institución de salud pública y siempre que se encuentre acreditada la filiación en relación con el padre en los términos previstos por el artículo 357 del Código Civil para el Estado de Baja California.
