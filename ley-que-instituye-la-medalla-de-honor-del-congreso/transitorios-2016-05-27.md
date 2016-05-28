@@ -1,0 +1,4 @@
+P.O. 27 DE MAYO DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 481 MEDIANTE EL CUAL SE APRUEBAN LA REFORMA AL CAPÍTULO PRIMERO PARA DENOMINARLO "DISPOSICIONES GENERALES", ASÍ COMO LOS ARTÍCULOS 1, 2, 3, 4, 6, 7, 8 Y 9 DE LA LEY QUE INSTITUYE LA MEDALLA DE HONOR DEL CONGRESO DEL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+SEGUNDO.- Por única ocasión, a partir de la entrada en vigor de la presente Iniciativa y hasta el término de la XXI Legislatura, la Junta de Coordinación Política presentará al Pleno una propuesta consensada en dicho Órgano de Gobierno, de la persona que consideran tiene los méritos suficientes para ser acreedor a la Medalla de Honor que instituye el Congreso del Estado en el marco de una Sesión Ordinaria o Extraordinaria de esta Soberanía
