@@ -1,5 +1,0 @@
-P.O. 23 DE MAYO DE 1997.
-ARTICULO PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
-ARTICULO SEGUNDO.- Se deroga la fracción VI del artículo 72 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, así como todas las disposiciones vigentes que se opongan y contravengan el contenido del presente decreto.
-ARTICULO TERCERO.- El Consejo de la Judicatura y la Dirección de Control y Evaluación Gubernamental, en un plazo no mayor de 30 días, contados a partir de la fecha de publicación del presente decreto, establecerán los mecanismos y plazos para que le sean entregados a la Contraloría del Poder Judicial, los expedientes con las declaraciones de Situación Patrimonial de los servidores públicos obligados del Poder Judicial del Estado, así como, las reglas de coordinación en materia de inhabilitación.
-ARTICULO CUARTO.- La Unidad Administrativa denominada Contraloría del Poder Judicial empezará a ejercer sus funciones una vez que se incluya en el presupuesto que corresponda en los términos de ley.
