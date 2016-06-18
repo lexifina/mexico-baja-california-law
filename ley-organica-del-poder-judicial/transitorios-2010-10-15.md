@@ -1,4 +1,0 @@
-P.O. 15 DE OCTUBRE DE 2010.
-DECRETO NÚMERO 440, SEGUNDO POR EL QUE SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 95 BIS Y SE REFORMAN LOS ARTÍCULOS 81 BIS, 81 TER Y 197 BIS-2 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
-Primero.- La presente adición y las reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-Segundo.- Hasta en tanto este vigente el periodo de la reserva a que se refiere el artículo sexto transitorio del Decreto No. 144 publicado en el Periódico Oficial del Estado de fecha 14 de noviembre de 2008 y que se modifica a través de este Decreto de reformas, las faltas temporales de los Jueces de Garantía serán cubiertas por quienes designe el Pleno del Tribunal Superior de Justicia de entre las personas que forman parte de la citada reserva.
