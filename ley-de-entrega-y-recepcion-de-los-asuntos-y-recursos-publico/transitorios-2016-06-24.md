@@ -1,0 +1,4 @@
+P.O. 24 DE JUNIO DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 502 MEDIANTE EL CUAL SE APRUEBA INICIATIVA CON PROYECTO DE DECRETO POR EL QUE SE REFORMA Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS, PARA EL ESTADO DE BAJA CALIFORNIA. ASÍ COMO ADENDA A LA INICIATIVA EN CUESTIÓN, LA CUAL REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ENTREGA Y RECEPCIÓN EN CITA, ASÍ COMO LOS ARTÍCULOS 46 Y 60 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DE ESTADO DE BAJA CALIFORNIA".]
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+SEGUNDO.- Los órganos de control interno a que se refiere la presente Ley, tendrán un plazo de 30 días naturales, para efectuar en sus reglamentos, manuales y demás normatividad que rija la materia, las actualizaciones que deriven de las reformas aprobadas mediante el presente decreto.
