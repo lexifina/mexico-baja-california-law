@@ -1,0 +1,3 @@
+P.O. 15 DE JULIO DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 498 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LAS FRACCIONES VII Y VIII, ASÍ COMO LA ADICIÓN DE LA FRACCIÓN IX AL ARTÍCULO 77 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+ARTÍCULO ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
