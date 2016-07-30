@@ -1,6 +1,6 @@
 (ADICIONADO, P.O. 18 DE DICIEMBRE DE 2015)
 Artículo 38 Bis. Corresponde a la Secretaría de Seguridad Pública:
-l. Capacitar al personal del cuerpo de policía estatal y promover la capacitación de los cuerpos municipales en cuanto a la atención de casos de violencia en contra de las mujeres;
+I. Capacitar al personal del cuerpo de policía estatal y promover la capacitación de los cuerpos municipales en cuanto a la atención de casos de violencia en contra de las mujeres;
 II. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
 III. Integrar, administrar y operar la Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
 IV. Emitir los lineamientos necesarios para determinar e integrar la información que contendrá la Base Estatal de Datos;
