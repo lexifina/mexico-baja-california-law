@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)
+ARTICULO 109 BIS.- Son sesiones abiertas aquéllas en las que exclusivamente el Congreso del Estado reciba directamente de los ciudadanos opiniones, propuestas, peticiones o proyectos relacionados con temas de interés general, a efecto de que sean atendidos y en su caso turnados a los Órganos de Gobierno correspondientes para su análisis y trámite respectivo conforme a este artículo.
+A propuesta de la Junta de Coordinación Política el Congreso del Estado podrá llevar a cabo una sesión abierta por mes, conforme al orden del día aprobado previamente para tal efecto por el Pleno en sesión ordinaria.
+La propuesta del orden del día estará conformada por las solicitudes de los ciudadanos que hayan sido recibidas por la Presidencia de la Mesa Directiva y acordadas por la Junta de Coordinación Política.
+Aprobado por el Pleno del Congreso el orden del día de la sesión abierta, la Presidencia de la Mesa Directiva citará personalmente a los ciudadanos respectivos a efecto de que asistan a la sesión abierta, con derecho a voz exclusivamente y se colocarán en la mesa de comparecientes.
