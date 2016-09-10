@@ -1,0 +1,4 @@
+P.O. 9 DE SEPTIEMBRE DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 546 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 13, 49 FRACCIONES III, X Y XI; 19 BIS 1, 19 BIS 2, 19 BIS 3 Y 19 BIS 4, DEL CAPÍTULO SEGUNDO BIS DENOMINADO DEL PADRÓN DE PROVEDORES (SIC) DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO.- Las presentes reformas a la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California entrarán en vigor al día siguiente de su publicación.
+SEGUNDO.- Los poderes del Estado, los órganos constitucionales autónomos y los Ayuntamientos, en un plazo no mayor a 90 días contados a partir de la entrada en vigor del presente decreto deberán modificar los Reglamentos correspondientes de la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California.

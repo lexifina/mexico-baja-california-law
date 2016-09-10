@@ -1,0 +1,2 @@
+(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2016)
+ARTÍCULO 19 BIS 4.- En el mes de enero de cada año, los sujetos obligados por conducto del órgano o unidad que indique el reglamento respectivo, mandara publicar en el Periódico Oficial del Estado y en la página oficial de internet, los nombres de las personas físicas o morales registradas en el padrón de proveedores; así mismo informará a las dependencias y entidades de las inscripciones, suspensiones y cancelaciones que se lleven a cabo con posterioridad a dicha publicación.
