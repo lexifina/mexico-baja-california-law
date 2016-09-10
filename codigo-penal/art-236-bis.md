@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2016)
+Artículo 236 BIS.- Simulación de ingresos para cumplir con las obligaciones alimentarias.- Al que dolosamente simule la percepción de sus ingresos, con el propósito de eludir la obligación de ministración correcta de alimentos al acreedor o acreedores alimentarios conforme lo determina la Ley, se le impondrá prisión de dos a siete años, así como el pago de todas las cantidades que por concepto de alimentos hubiere dejado de ministrar correctamente conforme a los (sic) dispuesto por la Ley.
+El Delito previsto en este artículo se perseguirá por querella de la parte ofendida o de su legítimo representante y, a falta de éste, el Ministerio Público procederá de oficio, a reserva de que promueva la designación de un tutor especial.
