@@ -2,7 +2,7 @@
 Artículo 234 BIS.- Agravación de la punibilidad.- Las penas señaladas en los artículos 208 BIS y 208 TER se incrementarán hasta en una tercera parte, cuando el autor haya sido integrante de alguna institución de seguridad pública o corporación policíaca.
 (REFORMADO, P.O. 3 DE FEBRERO DE 2012)
 Las penas señaladas en el artículo 224, se incrementarán hasta en una mitad más, cuando el autor sea o haya sido servidor público, hasta un año después de haber concluido el empleo, cargo o comisión, y se hayan utilizado los medios o circunstancias proporcionados por éstos.
-(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2012)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2012) (REPUBLICADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2016)
 Asimismo, las penas señaladas en el artículo 232 se incrementarán:
 I. Hasta en una mitad más cuando:
 a) Se trate de objetos que de los mismos o por su naturaleza se advierta que pertenecen a algún órgano público estatal o municipal, o que se trata de bienes destinados a la prestación de un servicio público, siempre que la adquisición, recepción o guarda de los referidos objetos no se respalde en términos de lo dispuesto por la fracción I, del artículo 232 de este Código, y

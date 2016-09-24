@@ -4,3 +4,9 @@ l. Se utilice como medio comisivo la vía telefónica, el correo electrónico o 
 II. El autor del delito se ostente por cualquier medio como Miembro de la Delincuencia Organizada, en los términos de la ley de la materia;
 III. El autor del delito obtenga o manifieste su pretensión de continuar obteniendo, en forma continua o permanente, dinero o bienes por concepto de cobro de cuotas de cualquier índole, adicionales a los conseguidos originalmente por el ilícito;
 IV. La víctima del delito sea persona menor de dieciocho años de edad, o de persona que no tienen capacidad para comprender el significado del hecho, o de persona que no tiene capacidad para resistirlo, o persona mayor de sesenta años de edad.
+(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2016)
+V. Se emplee violencia física;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2016)
+VI. El autor del delito sea o haya sido, o se ostente como integrante de alguna institución de seguridad pública o corporación policiaca;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2016)
+VII. El autor del delito sea o haya sido, o se ostente como servidor público, y se hayan utilizado los medios o circunstancias proporcionados por éstos;
