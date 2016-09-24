@@ -1,0 +1,3 @@
+P.O. 23 DE SEPTIEMBRE DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 562 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 320 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
