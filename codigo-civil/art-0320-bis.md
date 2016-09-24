@@ -1,2 +1,4 @@
 (REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2016)
 ARTICULO 320 BIS.- Toda persona a quien, por su cargo, le corresponda atender la orden de descuento de los alimentos o proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a dar trámite a dichas órdenes de descuento y/o a suministrar los datos exactos que le solicite el juez de lo Familiar, dando respuesta dentro del término de tres días; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles.
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2016)
+El deudor alimentario deberá de informar al juez de lo familiar y al acreedor alimentista cualquier cambio de condiciones a efecto de que continúe cumpliendo con la pensión alimenticia decretada y no incurrir en alguna responsabilidad.
