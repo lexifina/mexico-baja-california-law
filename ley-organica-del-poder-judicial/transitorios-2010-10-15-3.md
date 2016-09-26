@@ -1,0 +1,3 @@
+P.O. 15 DE OCTUBRE DE 2010.
+DECRETO NÚMERO 450, POR EL QUE SE REFORMAN LOS ARTÍCULOS 156 Y 157 Y SE DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 253 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado."
