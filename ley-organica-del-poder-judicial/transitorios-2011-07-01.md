@@ -1,0 +1,3 @@
+P.O. 1 DE JULIO DE 2011.
+PRIMERO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Los jueces penales de primera instancia ejercerán las facultades y observarán las obligaciones que la Ley de Ejecución de Penas y Medidas Judiciales para el Estado señala para el Juez de Ejecución, en todo aquello que sea compatible con las disposiciones normativas que se contienen en el Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado de fecha 20 de agosto de 1989 o en su caso, conforme a las disposiciones normativas anteriores a este Código.
