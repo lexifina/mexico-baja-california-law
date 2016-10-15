@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2013)
-Artículo 237 TER.- Las mismas penas señaladas en el artículo anterior, se impondrán al padre o la madre que retenga a su hijo menor de 18 años de edad o incapaz, con el fin de:
+(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2016)
+Artículo 237 Ter.- Las mismas penas señaladas en el artículo anterior, se impondrán al padre o la madre que sustraiga, retenga u oculte a su hijo menor de 18 años de edad o incapaz, con el fin de:
 (ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)
 I.- Impedir que el otro ascendiente ejerza el derecho a convivir con su hijo menor de edad o incapaz en los términos decretado por resolución o convenio judicial.
 (ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)
