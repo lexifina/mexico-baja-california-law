@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)
+ARTÍCULO 40 BIS.- La construcción, mantenimiento, operación y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades podrán aplicar las tecnologías factibles y ambientalmente adecuadas para promover mayor autosuficiencia, sustentabilidad y salud ambiental, además, se sujetará a las normas oficiales mexicanas expedidas para tal efecto, sin perjuicio de la intervención que corresponda a otras autoridades.
