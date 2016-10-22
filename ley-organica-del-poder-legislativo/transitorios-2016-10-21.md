@@ -1,0 +1,3 @@
+P.O. 21 DE OCTUBRE DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 680 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO, ARTÍCULO 28 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
