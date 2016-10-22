@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 1 DE JULIO DE 2011)
-ARTÍCULO 116 BIS.- La Secretaría de Salud del Estado ejercerá el control sanitario de los establecimientos que se dediquen a la prestación de servicios funerarios, asimismo, verificarán que los locales en que se presten los servicios reúnan las condiciones sanitarias exigibles en los términos de los reglamentos correspondientes.
+(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)
+ARTÍCULO 116 BIS.- La Secretaría de Salud del Estado ejercerá el control sanitario de los establecimientos que se dediquen a la prestación de servicios funerarios, asimismo, verificarán que la prestación del servicio, los locales y el equipo con que se preste dicho servicio reúna las condiciones sanitarias exigibles en los términos de esta Ley y los reglamentos correspondientes.
