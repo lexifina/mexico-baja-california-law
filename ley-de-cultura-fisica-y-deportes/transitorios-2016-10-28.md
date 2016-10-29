@@ -1,0 +1,3 @@
+P.O. 28 DE OCTUBRE DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 677 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 31 FRACCIÓN VII ADICIONADO (SIC) UNA FRACCIÓN VIII A LA LEY DE CULTURA FÍSICA Y DEPORTES PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
