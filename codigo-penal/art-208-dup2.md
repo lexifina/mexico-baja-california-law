@@ -1,5 +1,5 @@
 (REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)
-Artículo 208-QUATER.- Excluyente de la acción penal.- Será causa excluyente de la acción penal el contar con documento expedido por la Procuraduría General de Justicia del Estado, que haga constar que en sus registros no se encuentra denuncia o reporte de robo de vehículo de motor de que se trate o de cualquiera de las partes de éste, o bien el comparecer voluntariamente ante ésta autoridad a presentar un vehículo de motor, o bien, alguna o algunas de sus partes, con el objeto de cerciorarse de su legítima procedencia.
+Artículo 208-QUARTER.- Excluyente de la acción penal.- Será causa excluyente de la acción penal el contar con documento expedido por la Procuraduría General de Justicia del Estado, que haga constar que en sus registros no se encuentra denuncia o reporte de robo de vehículo de motor de que se trate o de cualquiera de las partes de éste, o bien el comparecer voluntariamente ante ésta autoridad a presentar un vehículo de motor, o bien, alguna o algunas de sus partes, con el objeto de cerciorarse de su legítima procedencia.
 (REFORMADO, P.O. 25 DE OCTUBRE DE 2002)
 Será también excluyente de delito, acreditar con la documentación correspondiente:
 I.- Haber adquirido el vehículo o cualquiera de sus partes en subasta pública;
