@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)
-ARTICULO 40 BIS.- El Órgano de Fiscalización Superior del Estado, es el órgano del Congreso del Estado con autonomía técnica y de gestión en el ejercicio de sus atribuciones para decidir sobre su organización interna, recursos, funcionamiento y resoluciones. Contará con las atribuciones y obligaciones que establecen la Constitución Local y la Ley de la materia.
+(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2016)
+ARTICULO 40 BIS.- Las Unidades Auxiliares del Congreso del Estado, como órganos Técnicos y Administrativos, son áreas a las que les corresponden tareas de apoyo al órgano de gobierno y a las Comisiones, para el cumplimiento de sus atribuciones constitucionales y legales.
