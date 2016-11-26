@@ -1,5 +1,5 @@
-(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)
-SECCION V
-DE LA DIRECCIÓN DE PROGRAMACIÓN Y GASTO INTERNO
-(REFORMADO, G.P. 27 DE AGOSTO DE 2013)
-ARTICULO 83 BIS.- La Dirección de Programación y Gasto Interno del Congreso del Estado, es el órgano administrativo al cual le corresponde realizar tareas de apoyo que permitan el estudio y planeación de asuntos de naturaleza presupuestal relativas del Poder Legislativo, de conformidad con esta Ley y el Reglamento Interior.
+(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2016)
+SECCION VIII
+DE LA UNIDAD DE COMUNICACIÓN SOCIAL
+(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)
+ARTICULO 83 BIS.- La Unidad de Comunicación Social tiene como función atender, estudiar, diseñar y ejecutar las estrategias de comunicación social para el Poder Legislativo del Estado; así como difundir las actividades legislativas, fortalecer la imagen del Congreso y de los Diputados en sus relaciones con los medios de comunicación, de conformidad con la Ley y Reglamento.

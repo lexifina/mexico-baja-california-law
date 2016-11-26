@@ -1,1 +1,9 @@
-ARTICULO 81 TER.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2016)
+ARTICULO 81 TER.- Corresponde a la Unidad de Contraloría Interna, el despacho de los siguientes asuntos:
+I. Recibir y registrar las declaraciones patrimoniales que deban presentar los Diputados, servidores públicos de las Direcciones y Unidades Auxiliares y del Órgano de Fiscalización Superior del Congreso y, verificar las investigaciones que fueren pertinentes de acuerdo con las Leyes y Reglamentos;
+II. Conocer e investigar los actos, omisiones o conductas de los servidores públicos de las Direcciones y Unidades Auxiliares y del Órgano de Fiscalización Superior del Congreso, para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que señale (sic) las leyes de la materia, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público prestándole para tal efecto la colaboración que le fuere requerida;
+III. Atender las quejas o denuncias que se presenten con motivo del incumplimiento de las obligaciones de los servidores públicos del Congreso del Estado;
+IV. Desarrollar las tareas de revisión, inspección y auditoría interna del ejercicio del presupuesto de egresos del Congreso del Estado;
+V. Proponer a la Comisión de Administración y Finanzas, las políticas, manuales de organización y funciones de las Direcciones y Unidades Auxiliares, que permitan optimizar y eficientar los recursos humanos y materiales, así como la calidad de los servicios que se prestan;
+VI. Las demás, que le señale el Reglamento y la Ley en la materia.
+El desempeño de las atribuciones de la Unidad de Contraloría Interna estará bajo la vigilancia y control de la Mesa Directiva. Corresponde a la Junta de Coordinación Política realizar ante el pleno del Congreso la propuesta de nombramiento correspondiente.
