@@ -1,0 +1,3 @@
+P.O. 6 DE ENERO DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 44 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 60, LA DEROGACIÓN DE LA SECCIÓN CUARTA DENOMINADA DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS DEL CAPÍTULO TERCERO Y DEL ARTÍCULO 83 TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- Las presentes reformas deberán publicarse en la Gaceta del Poder Legislativo, y entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
