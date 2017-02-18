@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)
+ART. 926 TER.- En los juicios del orden familiar el juzgador podrá ordenar la separación y depósito de personas, atendiendo a las circunstancias del caso, situación de los hijos, posibilidades económicas y necesidades de los miembros de la familia, privilegiando el interés superior del menor y de las personas discapacitadas o que no tengan la capacidad de comprender el significado del hecho.
+El juez podrá decretar quien deberá habitar el domicilio conyugal y en su caso quien deberá retirarse de la misma, considerando las medidas compensatorias al decidir los demás rubros de la pensión alimenticia, pudiendo también decretar medidas de protección a las partes.
