@@ -1,0 +1,3 @@
+P.O. 28 DE OCTUBRE DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 634 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN AL ARTÍCULO 926 TER, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial.
