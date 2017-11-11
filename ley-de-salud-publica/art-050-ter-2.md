@@ -5,7 +5,6 @@ II.- Recibir los avisos de los responsables sanitarios y de los comités interno
 III.- Fomentar y vigilar el cumplimiento de las normas oficiales mexicanas en materia de órganos, tejidos y células, así como la donación y trasplante de estos respecto de los establecimientos en los que se realicen los actos relativos;
 IV.- Operar y mantener actualizado el registro estatal de trasplantes;
 V.- Decidir y vigilar dentro de su ámbito de competencia la asignación de órganos, tejidos y células de seres humanos;
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)
 VI.- Elaborar y llevar a cabo campañas permanentes de concientización sobre la importancia de la donación y los trasplantes, por métodos propios o en coordinación con las instituciones públicas del Sistema Nacional de Salud o con el Consejo Estatal de Trasplantes.
 Corresponde al Gobierno del Estado, determinar los mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.

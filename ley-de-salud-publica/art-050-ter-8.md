@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)
 ARTÍCULO 50 TER 8.- Las instituciones que realicen trasplantes deberán contar con un Comité Interno de Trasplantes, cuyas atribuciones tendrá (sic) carácter interdisciplinario, teniendo las siguientes atribuciones:
 I.- Verificar que los trasplantes se realicen de conformidad con los requisitos que establece la Ley General de Salud, el presente Ordenamiento y las normas técnicas que emita la Secretaría de Salud del Estado de Baja California;
