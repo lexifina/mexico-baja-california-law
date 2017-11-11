@@ -1,0 +1,3 @@
+P.O. 10 DE NOVIEMBRE DE 2017.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 142 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 8, 21, 27 Y 42 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico del Estado de Baja California.
