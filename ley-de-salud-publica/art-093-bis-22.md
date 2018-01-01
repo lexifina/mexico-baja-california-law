@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)
+ARTÍCULO 93 BIS 22.- Las Autoridades Sanitarias comunicaran a las autoridades en materia de desarrollo social estatal para que previamente a la realización de un estudio socio económico, determinen los apoyos que en cada caso se brindarán; lo anterior, sin perjuicio de los beneficios que el Ejecutivo Estatal apruebe otorgar mediante disposiciones de carácter general, de conformidad con los ordenamientos fiscales y demás que resulten aplicables.
