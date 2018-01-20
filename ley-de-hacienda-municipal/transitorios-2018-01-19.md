@@ -1,0 +1,3 @@
+P.O. 19 DE ENERO DE 2018.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 179 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA QUE ADICIONA LOS INCISOS A) Y B) A LA FRACCIÓN V DEL ARTÍCULO 75 BIS A, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO (SIC): La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
