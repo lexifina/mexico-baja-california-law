@@ -29,6 +29,11 @@ d).- El valor de avalúo que practique la autoridad fiscal municipal, cuando és
 En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del mes siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado.
 (REFORMADA, P.O. 28 DE AGOSTO DE 2009)
 V.- La tasa del Impuesto que corresponda pagar, será la que se determine en la Ley de Ingresos de cada Municipio del Estado, para el ejercicio fiscal correspondiente.
+(ADICIONADO CON LOS INCISOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2018)
+Los Municipios podrán proponer para sus Leyes de Ingresos una tasa única para los siguientes casos:
+a) Los inmuebles propiedad de los Organismos de la Sociedad Civil registrados ante el Gobierno del Estado, cuyo objeto sea la asistencia social sin fines de lucro, siempre que los inmuebles se destinen a los fines de los mismos y que en éstos no se realicen actividades lucrativas o de negocios.
+b) Los inmuebles propiedad de las Asociaciones Religiosas que tengan registro constitutivo otorgado por la Secretaría de Gobernación.
+c) Los predios que por ser de interés público hubiesen sido declarados área natural protegida, en términos de lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como las áreas o zonas consideradas como de amortiguamiento.
 (REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)
 VI.- La cuota del Impuesto que resulte con base en los avalúos y modificaciones entrará en vigor a partir del mes siguiente a la fecha en que éstos se hayan notificado.
 (REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2015)
