@@ -7,4 +7,5 @@ III.- Se encuentren unidos por vínculos de padrinazgo o madrinazgo;
 IV.- Se incorporen a un núcleo familiar aunque no tengan parentesco con ninguno de sus integrantes;
 V.- Tengan relación con los hijos de su pareja, siempre que no los hayan procreado en común, y
 VI.- Tengan relación con la pareja de alguno de sus progenitores.
-Este delito se perseguirá por querella.
+(REFORMADO, P.O. 19 DE ENERO DE 2018)
+La comisión de este delito se perseguirá de oficio por la representación social.
