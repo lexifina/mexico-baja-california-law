@@ -1,0 +1,5 @@
+P.O. 16 DE FEBRERO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 188 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO.- Aprobada que sea la presente reforma, túrnense a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional y la publicación en el Periódico Oficial del Estado.
+TERCERO.- La reforma al último párrafo del apartado C del artículo 55, de la Constitución Política del Estado Libre y Soberano de Baja California, correspondiente al Decreto número 97, publicado en el Periódico Oficial del Estado en fecha 28 de julio del 2017, entrará en vigor el mismo día en (sic) entre en vigor la reforma prevista en el Decreto número 97 en mención y, de conformidad con lo que establece su artículo QUINTO transitorio.
