@@ -1,0 +1,5 @@
+P.O. 23 DE FEBRERO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 190 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 3, 7 Y 15; ASÍ COMO LA ADICIÓN DEL CAPÍTULO III DENOMINADO "DE LA PERSONALIDAD JURÍDICA" AL TÍTULO PRIMERO, ADICIONÁNDOSE LOS ARTÍCULOS 6 TER, 6 QUÁTER, 6 QUINQUIES Y 6 SEXIES; SE ADICIONA EL CAPÍTULO IV DENOMINADO "GOBIERNO INCLUYENTE" AL TÍTULO TERCERO, ADICIONÁNDOSE EL ARTÍCULO 62 BIS A LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA".
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- El Ejecutivo del Estado y los Ayuntamientos, deberá realizar las modificaciones necesarias a sus reglamentos a más tardar setenta días naturales contados a partir de la publicación de la presente reforma.
+TERCERO.- En un plazo no mayor a ciento ochenta días contados a partir de la publicación de la presente reforma, los sujetos obligados darán cumplimiento a lo establecido en el artículo 62 BIS.

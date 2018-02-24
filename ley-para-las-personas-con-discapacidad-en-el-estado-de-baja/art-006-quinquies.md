@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)
+ARTÍCULO 6 QUINQUIES.- La Procuraduría y la Defensoría Pública del Estado en ejercicio de sus competencias, apoyarán jurídicamente a las niñas, niños y adolescentes y en general a las personas con discapacidad que así lo requieran, a efecto de que puedan ejercer su capacidad jurídica a través de sus representantes, en términos de la legislación de la materia.
