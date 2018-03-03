@@ -1,0 +1,3 @@
+P.O. 2 DE MARZO DE 2018.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 191 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 116; ASÍ COMO LA DENOMINACIÓN DE LA SECCIÓN III DEL CAPÍTULO DÉCIMO DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
