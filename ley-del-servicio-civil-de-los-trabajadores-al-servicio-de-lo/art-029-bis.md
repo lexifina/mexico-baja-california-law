@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 2 DE MARZO DE 2018)
+ARTICULO 29 BIS.- Las mujeres y hombres trabajadores tendrán permiso de un día al año, con goce de sueldo íntegro, para someterse a la realización de exámenes médicos de prevención de cáncer de mama, cervicouterino o de próstata, según sea el caso; para lo cual deberán presentar el certificado médico correspondiente expedido por una institución de salud pública o privada.
