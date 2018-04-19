@@ -1,4 +1,3 @@
 P.O. 30 DE DICIEMBRE DE 2011.
 DECRETO No. 168 POR EL QUE REFORMAN LOS ARTÍCULOS 156, 156-15, PRIMERO TRANSITORIO DEL DECRETO No. 18, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA EL DIA 31 DE DICIEMBRE DE 2010, 172 Y 173 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA.
-ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el
-Periódico Oficial del Estado de Baja California.
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
