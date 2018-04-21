@@ -1,0 +1,4 @@
+P.O. 20 DE ABRIL DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 234 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 73 DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+SEGUNDO.- La autoridad estatal y municipales previstas por esta Ley, impulsarán a las organizaciones de la sociedad civil para que cumplan con el programa interno de protección civil, brindándoles la asesoría necesaria. Cuando conforme a los estudios socioeconómicos que la autoridad les practique requieran del apoyo para solventar su programa interno de protección civil, la autoridad competente, subsidiariamente les apoyará con los dictámenes que formen parte del Programa.
