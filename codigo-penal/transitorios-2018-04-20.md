@@ -1,0 +1,4 @@
+P.O. 20 DE ABRIL DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 207 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ADICIONAR LOS ARTÍCULOS 307-QUINQUIES Y ARTICULO 307 SEXTIES A UN CAPÍTULO XV, DENOMINADO USO ILÍCITO DE ATRIBUCIONES Y FACULTADES DEL SERVICIO PÚBLICO, AL TÍTULO SEGUNDO, DENOMINADO DELITOS COMETIDOS POR SERVIDORES PÚBLICOS, DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+ARTÍCULO PRIMERO.- Aprobada que sea (sic) las presentes reformas, túrnese a (sic) Poder Ejecutivo para su publicación en el Periódico Oficial del Estado, para los efectos legales correspondientes.
+ARTÍCULO SEGUNDO.- La presente reforma entrara en vigor al día siguiente de su publicación.
