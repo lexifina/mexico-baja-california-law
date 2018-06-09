@@ -1,18 +1,6 @@
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2018)
-CAPÍTULO XV
-USO ILÍCITO DE ATRIUCIONES Y FACULTADES DEL SERVICIO PÚBLICO
-(ADICIONADO, P.O. 20 DE ABRIL DE 2018)
-Artículo 307 QUINQUIES.- Comete el delito de uso indebido de atribuciones y facultades:
-I.- El servidor público que ilícitamente:
-A) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado;
-B) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico;
-C) Otorgue franquicias, exenciones deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o presentados en la Administración Pública Estatal.
-D) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos;
-E) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos.
-II.- El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
-A) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento, o
-B) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación.
-III.- Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen referencia la fracción anterior o sea parte en las mismas, y
-IV.- El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
-Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
-Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y de treinta a ciento cincuenta días multa.
+(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2018)
+CAPITULO XV
+DELITOS CONTRA EL DESARROLLO URBANO
+(REFORMADO, P.O. 8 DE JUNIO DE 2018)
+ARTÍCULO 307-QUINQUIES.- Al servidor público que expida alguna licencia, permiso, autorización, constancia o dictamen para realizar cualquier tipo de construcción, obra de infraestructura, equipamiento urbano, acción de urbanización o asentamiento humano sin observar o contraviniendo el Atlas de Riesgos correspondiente, se le impondrán de dos a ocho años de prisión y hasta cuatrocientos días multa.
+Las mismas penas se aplicarán a quien a sabiendas de que la licencia, permiso, autorización, constancia o dictamen fueron expedidos contraviniendo el Atlas de Riesgo, realice o permita cualquier tipo de construcción, obra de infraestructura, equipamiento urbano, acción de urbanización o asentamiento humano.

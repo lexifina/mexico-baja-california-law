@@ -1,6 +1,7 @@
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 1992)
 CAPITULO XIII
 PREVENCION Y SANCION DE LA TORTURA
+(NOTA: EL 23 DE ABRIL DE 2020 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 57/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE JUNIO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 (ADICIONADO, P.O. 10 DE OCTUBRE DE 1992)
 Artículo 307 BIS.- Tipo.- Comete el delito de tortura, cualquier servidor público del Estado o del Municipio que, por sí, o valiéndose de un tercero, que con motivo de sus atribuciones, inflija a una persona dolores o sufrimientos graves, sean físicos o psíquicos, con el fin de obtener, del torturado o de un tercero, información o una confesión, de inducirla a un comportamiento determinado o de castigarla por un acto que haya cometido o se sospeche ha cometido.
 No se considerarán torturas las penalidades o sufrimientos que sean consecuencias únicamente de sanciones legales, que sean inherentes o incidentales a éstas, o derivadas de un acto legítimo de autoridad.
