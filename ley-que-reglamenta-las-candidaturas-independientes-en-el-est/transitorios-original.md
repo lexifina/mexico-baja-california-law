@@ -16,3 +16,4 @@ En suplencia por la ausencia del Gobernador del Estado, con fundamento en los ar
 LORETO QUINTERO QUINTERO
 OFICIAL MAYOR DE GOBIERNO
 En suplencia del Secretario General de Gobierno, con fundamento en el artículo 54 de la Constitución Política del Estado Libre y Soberano de Baja California.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
