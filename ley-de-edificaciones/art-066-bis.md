@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE JULIO DE 2018)
+ARTICULO 66 BIS. Toda solicitud de construcción para plantas de almacenamiento, centros de distribución y estaciones de carburación de gas licuado de petróleo, se acompañará del Estudio de Integración Vial y de la Manifestación de Impacto Social de la acción urbana de que se trate, y deberá presentarse ante la autoridad municipal correspondiente para su análisis, debiéndose solventar todo tipo de afectación o causa de problema a la vía pública, por acceso o salida del predio, donde se pretenda establecer dichas instalaciones.
