@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE JULIO DE 2018)
+ARTICULO 66 QUINQUIES. Los establecimientos de almacenamiento, distribución y comercialización relacionados con el gas licuado de petróleo, se sujetará a lo dispuesto en la presente legislación, las normas oficiales y los reglamentos municipales aplicables. Ante la existencia de normatividad faltante en la materia de urbanización, edificación e instalaciones que no se contemplen o que se contraríen entre sí, se aplicarán las disposiciones que garanticen mayor higiene, acondicionamiento y seguridad para la población.
