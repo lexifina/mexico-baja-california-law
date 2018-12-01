@@ -1,0 +1,3 @@
+P.O. 30 DE NOVIEMBRE DE 2018.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 273 MEDIANTE EL CUAL SE APRUEBA (SIC) REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
