@@ -1,0 +1,3 @@
+P.O. 30 DE NOVIEMBRE DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 277 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 18 DE LA LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
