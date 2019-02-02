@@ -1,5 +1,2 @@
-(ADICIONADO, P.O. 12 DE JUNIO DE 2015)
-ARTÍCULO 141 BIS.- La Secretaría podrá promover instrumentos económicos a favor de fabricantes o distribuidores de productos plásticos desechables o de un sólo uso que sean de pronta biodegradación, reciclables o reciclados.
-(DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2007)
-SECCIÓN III
-Residuos Industriales y Residuos Sólidos Municipales
+(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE FEBRERO DE 2019)
+ARTÍCULO 141 BIS.- La Secretaría, en coordinación con Municipios, diseñará y realizará campañas permanentes de información para concientizar y sensibilizar a la población sobre los peligros y efectos nocivos que, para el medio ambiente, representa el uso de popotes y utensilios de plástico, con objeto de desincentivar su utilización en el hogar y en restaurantes, bares y todo tipo de establecimientos en los que se comercialice y/o se ofrezcan alimentos y bebidas.
