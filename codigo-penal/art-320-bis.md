@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 22 DE FEBRERO DE 2019)
+Artículo 320 BIS.- Tipo y punibilidad.- Comete el delito de uso indebido de medios de comunicación de emergencia y denuncia, la persona que de forma dolosa reporte hechos falsos a instituciones públicas que presten servicios de emergencia, protección civil, bomberos o seguridad pública y provoque la movilización y presencia de elementos de dichas instituciones, a la que se le impondrá de tres meses a dos años de prisión y multa de diez a cien días del valor de la unidad de medida y actualización vigente.
+En caso de reincidencia se impondrá de dos a cuatro años de prisión y multa de quinientos a mil días del valor de la unidad de medida y actualización vigente.
