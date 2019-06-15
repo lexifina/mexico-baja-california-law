@@ -1,0 +1,3 @@
+P.O. 14 DE JUNIO DE 2019.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 340 MEDIANTE EL CUAL SE APRUEBA (SIC) DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES EN (SIC) UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 14 DE JUNIO DE 2019)
+Artículo 38 Ter. Las Organizaciones de la Sociedad Civil especializadas en atención a mujeres víctimas de violencia, podrán proporcionar datos obtenidos de la atención que presenten en sus centros, los cuales la Secretaría de Seguridad Pública valorará y de ser necesario los ingresará e integrará a la base de datos que se refiere la fracción III del artículo 38 Bis de esta Ley.

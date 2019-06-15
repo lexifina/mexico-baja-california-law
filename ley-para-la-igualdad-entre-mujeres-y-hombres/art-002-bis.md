@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 14 DE JUNIO DE 2019)
+Artículo 2 Bis.- El principio de igualdad de trato y oportunidades entre mujeres y hombres permeará con carácter transversal, en la actuación de todos los Poderes Públicos del Estado, Organismos Públicos Descentralizados y Municipios. Estos integrarán dicho principio en la adopción y ejecución de sus disposiciones normativas, en la definición y presupuestación de sus políticas públicas destinadas a hacer efectivo el derecho a la igualdad, a la no discriminación y el respeto a la dignidad humana.
