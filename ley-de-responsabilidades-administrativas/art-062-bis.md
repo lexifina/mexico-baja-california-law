@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 11 DE OCTUBRE DE 2019)
+Artículo 62 Bis. El servidor público que no entregue, incumpla, retrase, oculte, destruya, altere, deforme, inutilice total o parcialmente la información pública que de acuerdo a la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos para el Estado de Baja California, esté obligado a proporcionar, en los plazos, términos y formas previstas en la legislación.
