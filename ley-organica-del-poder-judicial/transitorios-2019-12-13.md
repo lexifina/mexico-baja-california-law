@@ -1,0 +1,6 @@
+P.O. 13 DE DICIEMBRE DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 03 MEDIANTE EL CUAL SE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA PARA CREAR UN ARTÍCULO 294".]
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+SEGUNDO.- El Consejo de la Judicatura, deberá expedir el Reglamento relativo al Haber de Retiro, dentro de un término de 60 días posteriores a la entrada en vigor de la presente reforma.
+TERCERO.- La expedición de la Reglamentación deberá establecer el monto de las aportaciones que deberán hacer los Jueces del Poder Judicial del Estado al Fondo correspondiente sin excepción alguna y establecerá en su caso el mecanismo para compensar las aportaciones de los años en que no lo hubieren hecho.
+CUARTO.- El Consejo de la Judicatura del Poder Judicial del Estado deberá gestionar en su momento la viabilidad financiera ante la autoridad correspondiente sobre la base de que el Fondo para el pago del Haber de Retiro de los Jueces del Poder Judicial del Estado sea autofinanciable y no dependa del subsidio estatal ordinario que aporta el Poder Ejecutivo del Gobierno del Estado y no genere endeudamiento de ninguna especie.
