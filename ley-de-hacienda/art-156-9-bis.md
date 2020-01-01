@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)
+ARTICULO 156-9 BIS.- Los operadores de los establecimientos en los que se realicen los juegos con apuestas o en los que se instalen las máquinas de juegos, en adición a la obligación de recaudar y enterar el impuesto a que se refiere el artículo 156-8 QUATER, están obligados a expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga, que otorguen a quienes utilicen las máquinas de juegos, en la que conste expresamente y por separado el importe recaudado.
