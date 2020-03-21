@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE MARZO DE 2020)
+ARTICULO 14 BIS.- Serán autoridades fiscales las Comisiones Estatales de Servicios Públicos de los Municipios de Mexicali, Tijuana, Tecate y Ensenada, así como las Subrecaudaciones de Rentas adscritas a las referidas Comisiones, en relación al procedimiento administrativo de determinación o ejecución de créditos fiscales o en materia de obras que ejecuten conforme a las leyes aplicables y los convenios que celebren ante ellas.
