@@ -1,8 +1,7 @@
 (REFORMA SU DENOMINACIÓN, P.O. 24 DE MAYO DE 2019)
 CAPÍTULO V
 PRESTACIÓN ILÍCITA DEL SERVICIO PÚBLICO DE TRANSPORTE DE PASAJEROS
-(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2019)
-Artículo 250 Ter.- A quien preste el servicio público de transporte de pasajeros sin concesión, permiso o autorización correspondiente se le impondrá de uno a cinco años de prisión y de treinta a ciento cincuenta días multa, y suspensión por un año del derecho de manejar.
-Se exceptúa de la comisión de este delito, a quienes presten el servicio de transporte vía plataformas tecnológicas.
-Las sanciones previstas en este artículo se impondrán sin perjuicio de las medidas que disponga la legislación administrativa y las sanciones que correspondan, en su caso.
-Este delito se perseguirá por querella de la dependencia u Órgano Estatal o Municipal del ramo.
+(NOTA: EL 9 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 3/2024, DECLARÓ LA INCONSTITUCIONALIDAD DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE JUNIO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 77, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(REFORMADO, P.O. 20 DE JUNIO DE 2020)
+Artículo 250 Ter.- Comete el delito de transportación ilegal de pasajeros o de carga, el que, sin contar con la concesión, permiso o autorización expedidos por el Instituto para tales efectos, preste el servicio público o privado de transporte de pasajeros o de carga en el Estado de Baja California.
+A quien cometa el delito de transporte ilegal de pasajeros a (sic) de carga, se impondrá de seis meses a dos años de pena privativa de libertad, incautación de los vehículos en cuestión y una multa de trescientas a ochocientas veces la Unidad de Medida y Actualización (UMA) vigente, por lo que las autoridades competentes perseguirán de oficio el delito mencionado.
