@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE JUNIO DE 2020)
+Artículo 250 Ter 1.- Se sancionará con pena privativa de libertad de tres a seis años y multa de setecientos (sic) a mil veces la Unidad de Medida y Actualización (UMA) vigente, a quien dirija, organice, incite, induzca, compela o patrocine a otro u otros, a prestar el servicio público de transporte de pasajeros o de carga, sin contar con la concesión, permiso o autorización correspondiente, dicho delito se perseguirá de oficio.
