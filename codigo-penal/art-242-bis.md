@@ -1,9 +1,8 @@
 (REFORMADA SU DENOMINACIÓN, P.O. 24 DE ENERO DE 2003)
 CAPITULO VII
 VIOLENCIA FAMILIAR
-(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)
-Artículo 242 Bis.- Tipo y punibilidad.- Al que dolosamente ejerza actos de violencia física o psicológica, o incurra en la omisión grave de cumplir con un deber, en contra de su cónyuge, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, adoptante o adoptado, se le impondrá de seis meses a cuatro años de prisión y multa de veinticuatro a trescientos días, además se sujetará al agresor a tratamiento integral psicológico o psiquiátrico especializado dirigido a su rehabilitación, así también deberá de pagar este tipo de tratamiento hasta la recuperación total de la víctima, sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este Código aplicándose para ello las reglas de concurso de delitos.
-Las mismas penas se aplicarán al que realice cualquiera de las conductas a que se refiere este precepto, en contra de su concubina o concubino, pariente colateral o afín hasta el cuarto grado.
+(REFORMADO, P.O. 20 DE JUNIO DE 2020)
+ARTÍCULO 242 BIS.- Tipo y punibilidad.- Comete el delito de violencia familiar quien lleve a cabo actos o conductas de dominio, control o agresión física, psicológica, patrimonial, o económica, a alguna persona con la que se encuentre o haya estado unida por vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o una relación de pareja dentro o fuera del domicilio familiar. A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión y perderá el derecho de pensión alimenticia, además se sujetará al agresor a tratamiento integral psicológico o psiquiátrico especializado dirigido a su rehabilitación, así también deberá de pagar este tipo de tratamiento hasta la recuperación total de la víctima.
 Así mismo se le podrá imponer las siguientes medidas de seguridad:
 a).- La prohibición de ir a lugar determinado.
 b).- Otorgar caución de no ofender.
@@ -11,9 +10,11 @@ c).- La prohibición de ofender por cualquier medio de comunicación, telefónic
 Cuando proceda, el agente del Ministerio Público podrá solicitar a la autoridad judicial correspondiente el embargo de sueldos o salarios al agresor, a efecto de garantizar las obligaciones alimentarias.
 Para los efectos del presente artículo se entiende por:
 I.- Violencia física: A todo acto intencional en el que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro;
-II.- Violencia psicológica: toda acción u omisión reiterada, ejecutada por cualquier medio distinto al contacto físico, que con el propósito de perturbar, degradar o controlar la conducta de una persona le afecte psíquica o emocionalmente;
+II.- Violencia psicológica: toda acción u omisión reiterada, ejecutada por cualquier medio distinto al contacto físico, que, con el propósito de perturbar, degradar o controlar la conducta de una persona le afecte psíquica o emocionalmente;
+III.- Violencia patrimonial: Toda acción u omisión que, de manera directa o indirecta, se dirija a ocasionar un menoscabo al patrimonio de la víctima, a través de:
+a) La perturbación de la posesión, tenencia o propiedad de sus bienes.
+b) La pérdida, sustracción, destrucción o retención indebido (sic) de objetos, instrumentos de trabajo, documentos personales, bienes, valores y derechos patrimoniales.
+IV.- Violencia económica: Toda acción u omisión orientada al abuso económico que, de manera directa o indirecta, cause una limitación o afectación de los recursos económicos destinados a la satisfacción de las necesidades básicas o medios indispensables para una vida digna de la víctima.
 La comisión de este delito se perseguirá de oficio por la Representación Social.
-(REFORMADO, P.O. 18 DE MAYO DE 2018)
-Cuando exista reincidencia por parte del activo, o cuando la acción se realice en contra de persona con discapacidad o adulto mayor, la pena mínima y máxima se aumentará hasta una mitad y en su caso, atendiendo a la gravedad de la conducta a juicio del juzgador se le condenará a la suspensión o pérdida del ejercicio de la patria potestad, tutela o guarda y cuidado del menor de dieciocho años de edad, adulto mayor o persona con discapacidad, a quien tenga el ejercicio de ésta, por resolución judicial. En ningún caso el Ministerio Público remitirá para mediación, o proceso alternativo de solución a las Víctimas de Violencia familiar.
-(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2016)
+Cuando exista reincidencia por parte del activo, o cuando la acción se realice en contra de persona con discapacidad o adulto mayor, la pena mínima y máxima se aumentará hasta una mitad y en su caso, atendiendo a la gravedad de la conducta a juicio del juzgador se le condenará a la suspensión o pérdida del ejercicio de la patria potestad, tutela o guarda y cuidado del menor de dieciocho años de edad, adulto mayor o persona con discapacidad, a quien tenga el ejercicio de ésta, por resolución judicial. En ningún caso el Ministerio Público remitirá para mediación o proceso alternativo de solución a las Víctimas de Violencia familiar.
 En los casos previstos en este Capítulo, la víctima, bajo protesta de decir verdad, acudirá ante el Ministerio Público o el Juez para solicitar que se decrete alguna de las órdenes de protección señaladas en el Código Nacional de Procedimientos Penales.
