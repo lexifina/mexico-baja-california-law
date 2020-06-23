@@ -1,0 +1,4 @@
+P.O. 22 DE JUNIO DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 76 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA; CÓDIGO FISCAL PARA EL ESTADO DE BAJA CALIFORNIA; CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO 2020".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Los Organismos Operadores del Agua dentro de un plazo que no excederá de noventa días naturales contados a partir de la entrada en vigor de la presente reforma, realizarán las adecuaciones administrativas y reglamentarias necesarias para la implementación de la presente reforma.
