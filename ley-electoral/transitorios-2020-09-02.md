@@ -1,0 +1,5 @@
+P.O. 2 DE SEPTIEMBRE DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO No. 102 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA Y A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+SEGUNDO. El Instituto Estatal Electoral, contará con un plazo de 30 días naturales contados a partir de la vigencia del presente Decreto, para adecuar sus disposiciones reglamentarias conforme a lo dispuesto en el mismo.
+TERCERO. Los procedimientos sancionadores iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán rigiéndose por las disposiciones vigentes al momento de su inicio.
