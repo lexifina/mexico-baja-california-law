@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 16 DE OCTUBRE DE 2020)
+ARTÍCULO 148 TER 2.- Sólo se realizarán tatuajes, micropigmentaciones o perforaciones a personas mayores de edad, que acrediten tal carácter con documento oficial, que no se encuentren bajo el influjo de drogas y/o alcohol y no padezcan enfermedades mentales o alguna enfermedad transmisible. Los menores de edad, para realizarse tatuajes, micropigmentaciones o perforaciones, deberán presentarse en compañía de alguno de sus padres o de su tutor, siendo necesario acreditar tal carácter.
