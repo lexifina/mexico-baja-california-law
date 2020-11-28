@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2020)
+Artículo 15 Bis. Las dependencias y entidades de la Administración Pública Estatal, los Poderes Legislativo y Judicial, los Órganos Constitucionalmente Autónomos y los Gobiernos Municipales, procurarán implementar y adaptar en sus instalaciones un análisis de riesgo y un plan de manejo para el uso y aprovechamiento de fuentes de energías renovables.
+Para ello, los proyectos de infraestructura deberán sujetarse a un manifiesto de impacto ambiental, un análisis de riesgo y un plan de manejo para subsanar el impacto ambiental, en términos de la legislación aplicable.
