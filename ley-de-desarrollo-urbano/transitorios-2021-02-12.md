@@ -1,0 +1,3 @@
+P.O. 12 DE FEBRERO DE 2021.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 180 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 223, 224, 226, 227 Y 230 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
