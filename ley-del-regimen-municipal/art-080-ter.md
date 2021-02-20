@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)
+Artículo 80 Ter. Para dar cumplimiento a ala (sic) responsabilidad del Gobierno Estatal en cuanto a los productores rurales de bajos ingresos afectados por contingencias climatológicas, el Ejecutivo Estatal deberá vigilar la instrumentación de un programa, para la atención de fenómenos naturales perturbadores que afecten los activos productivos y su previsión presupuestal.
