@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 28 DE ABRIL DE 2021)
+Artículo 24 BIS. Fiscalía Especializada para la Atención de Delitos Electorales. La Fiscalía Especializada para la atención de Delitos Electorales es un órgano dependiente de la Fiscalía General del Estado con autonomía técnica y operativa. Estará a cargo de un Fiscal Especializado para la Atención de Delitos Electorales, que será competente para la investigación, prevención y persecución de los delitos electorales.
+Los requisitos para ocupar el cargo, la duración en el mismo, así como el nombramiento y remoción de su titular, será de conformidad a lo establecido en la Constitución Política del Estado Libre y Soberano de Baja California.
+La estructura orgánica, las atribuciones y facultades específicas estarán determinadas en la presente Ley, las leyes aplicables y el Reglamento correspondiente.

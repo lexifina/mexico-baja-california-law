@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 28 DE ABRIL DE 2021)
+Artículo 24 TER. Fiscalía Especializada en Combate a la Corrupción. La Fiscalía Especializada en Combate a la Corrupción es un órgano dependiente de la Fiscalía General del Estado con autonomía técnica y operativa. Estará a cargo de un Fiscal Especializado en Combate a la Corrupción, que será competente para la investigación, prevención y persecución de los delitos contenidos en el Título Segundo, Sección Cuarta del Libro Segundo del Código Penal para el Estado de Baja California.
+Los requisitos para ocupar el cargo, la duración en el mismo, así como el nombramiento y remoción de su titular, será de conformidad a lo establecido en la Constitución Política del Estado Libre y Soberano de Baja California.
+La estructura orgánica, las atribuciones y facultades específicas estarán determinadas en la presente Ley, las leyes aplicables y el Reglamento correspondiente.
