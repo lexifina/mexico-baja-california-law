@@ -1,0 +1,3 @@
+P.O. 7 DE MAYO DE 2021.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 224 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA A LOS ARTÍCULOS 11, 19 Y 94 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS".]
+ÚNICO: El presente decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
