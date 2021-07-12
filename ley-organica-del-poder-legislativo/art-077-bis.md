@@ -16,7 +16,7 @@ IX. Proporcionar el auxilio operativo a los Diputados para el buen desarrollo de
 X. Supervisar los servicios de seguridad y protección que comprenden la vigilancia y cuidado de bienes muebles e inmuebles, seguridad y control de accesos, así como el personal que al efecto se requiera;
 XI. Resguardar y manejar la agenda de eventos en las instalaciones del Congreso del Estado, así como la administración de los recursos humanos y materiales que sean necesarios para el funcionamiento de las mismas;
 XII. Implementar las políticas, manuales de organización de los órganos técnicos y administrativos del Congreso del Estado;
-XIII. Recibir, registrar y llevar un control de los asuntos y documentos que se remitan al Congreso del Estado, debiendo mantener permanentemente informado y dentro de los plazos legales correspondiente (sic) al asunto que se trate, a los Órganos Técnicos y Administrativos;
+XIII. (DEROGADA, P.O. 9 DE JULIO DE 2021)
 XIV. Coordinar el servicio de Biblioteca;
 XV. Implementar el programa de desarrollo ambiental dentro del Congreso del Estado; y
 XVI. Las demás que la Ley y el Reglamento le confieran.

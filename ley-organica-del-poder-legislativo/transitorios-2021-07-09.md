@@ -1,0 +1,4 @@
+P.O. 9 DE JULIO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 239 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO.- Toda vez que las presentes reformas solo implican modificaciones al régimen interno del Poder Legislativo, entrarán en vigor al momento de su aprobación por la mayoría calificada del Pleno de este Honorable Congreso del Estado, las cuales se publicarán en la Gaceta Parlamentaria del Poder Legislativo y se remitirán al Poder Ejecutivo solo para su publicación.
+SEGUNDO.- Con la finalidad de no generar afectaciones presupuestales y en salvaguarda de derechos laborales, las coordinaciones instruidas en el artículo 77 QUINQUIES serán asignadas por la Presidencia de la Mesa Directiva a los trabajadores que actualmente ejercen dichas funciones.
