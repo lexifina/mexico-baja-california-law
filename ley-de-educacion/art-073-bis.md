@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE AGOSTO DE 2021)
+Artículo 73 Bis. Con la finalidad de preservar la salud y estabilidad psicoemocional de niñas, niños y adolescentes en nivel básico y medio superior, la Secretaría de Educación en coordinación con la Secretaría de Salud del Estado, en el marco de sus respectivas competencias, promoverán la implementación de acciones, programas o protocolos de actuación tendientes a prevenir, detectar, identificar y canalizar necesidades especiales en niñas, niños y adolescentes.
