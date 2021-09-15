@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 28 DE JUNIO DE 2013)
-ARTÍCULO 50 QUARTER.- La Secretaría, considerando la viabilidad técnica, económica y financiera de los Proyectos Turísticos que promuevan organismos o empresas de los sectores social y privado, auxiliará en la gestión de estímulos, para que proporcionen instalaciones y servicios que tengan en cuenta todos los aspectos de accesibilidad para las personas con discapacidad ante las Autoridades Federales, Estatales y Municipales.
+(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)
+ARTÍCULO 50 QUARTER.- La Secretaría, considerando la viabilidad técnica, económica y financiera de los Proyectos Turísticos que promuevan organismos o empresas de los sectores social y privado, auxiliará en la gestión de estímulos, para que proporcionen instalaciones y servicios que tengan en cuenta todos los aspectos de accesibilidad para las personas con discapacidad y las adultas mayores ante las Autoridades Federales, Estatales y Municipales
