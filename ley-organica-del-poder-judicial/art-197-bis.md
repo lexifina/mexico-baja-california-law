@@ -9,7 +9,10 @@ ARTICULO 197 BIS.- El Centro Estatal de Justicia Alternativa será el órgano au
 I.- Instrumentar y operar servicios de mediación y conciliación extrajudicial, en los asuntos susceptibles de transacción cuyo conocimiento está encomendado por la Ley a los tribunales del Poder Judicial del Estado, y en materia penal tramitar los mecanismos de mediación, conciliación y de junta restaurativa en los términos que señala el Código Nacional de Procedimientos Penales y la Ley Nacional de Mecanismos Alternativas de Solución de Controversias Penales;
 II.- Substanciar procedimientos de mediación y conciliación que pongan fin a las controversias judiciales, a petición expresa de parte interesada en los términos de la Ley de la materia;
 III.- Promover la mediación y la conciliación como alternativas de prevención y solución de controversias, y
-IV.- Las demás que establezcan los ordenamientos legales.
+(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2021)
+IV.- Instrumentar y substanciar procedimientos de conciliación respecto de controversias que se encuentren planteadas ante los Tribunales Laborales del Poder Judicial del Estado, siempre y cuando, siendo viables de resolverse en dicha vía alterna, así lo soliciten las partes.
+(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE OCTUBRE DE 2021)
+V.- Las demás que establezcan los ordenamientos legales.
 [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.]
 (REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2016)
 Salvo en la materia penal, los servicios a que aluden las fracciones anteriores también podrán ser prestados por mediadores o conciliadores privados en los términos de esta Ley y la Ley de la materia.
