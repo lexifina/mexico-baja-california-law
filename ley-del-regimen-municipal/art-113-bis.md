@@ -1,4 +1,0 @@
-(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)
-Artículo 113 Bis. Los inspectores durante el ejercicio de sus funciones y en los términos señalados en la orden de inspección, tendrán libre acceso a los edificios, establecimientos comerciales, industriales y de servicios, transportes y, en general, a todos los lugares en que sea necesario practicar visitas.
-Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de los transportes sujetos a verificación, estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor, previo informe de los inspectores de los motivos de la visita.
-Las inspecciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo tratándose de caso fortuito.
