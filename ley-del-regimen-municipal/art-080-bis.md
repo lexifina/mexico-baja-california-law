@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)
-Artículo 80 Bis. Es responsabilidad del Gobierno Estatal y de los Municipios, atender los efectos negativos provocados por los fenómenos climatológicos extremos en el sector rural. En este sentido, se deberá contar con los mecanismos que permitan atender de manera ágil y oportuna, mediante apoyos directos y contratación de seguros catastróficos a los productores agrícolas, pecuarios, acuícolas y pesqueros de bajos ingresos, afectados por contingencias climatológicas extremas.
