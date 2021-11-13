@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2021)
+ARTÍCULO 50 DECIES.- El personal médico de salud a quien corresponda practicar la interrupción legal del embarazo y cuyas creencias religiosas o convicciones personales sean contrarias a dicho procedimiento, podrá ser objetor de conciencia y por tal razón, excusarse de intervenir en la interrupción del embarazo, teniendo la obligación de canalizar a la mujer para que sea atendida por personal médico no objetor, sin dilación alguna.
+No podrá invocarse la objeción de conciencia, cuando sea urgente la interrupción del embarazo para salvaguardar la salud o la vida de la mujer, así como tampoco en la atención sanitaria posterior al aborto.
+Las instituciones de salud, deberán disponer permanentemente de personal médico y de enfermería no objetor de conciencia que proporcionen a las mujeres los servicios sanitarios solicitados.
+El incumplimiento de las obligaciones establecidas en el presente capítulo, podrán dar lugar a responsabilidades de carácter civil, administrativa o penal, según corresponda.
