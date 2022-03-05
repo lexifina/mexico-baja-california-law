@@ -1,0 +1,3 @@
+P.O. 4 DE MARZO DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 81 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 3 Y 19 DE LA LEY PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
