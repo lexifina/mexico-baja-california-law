@@ -1,0 +1,3 @@
+P.O. 18 DE ABRIL DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 88 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA EL TERCER PÁRRAFO DEL ARTÍCULO 184-TER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO. La presente reforma entrará en vigor el día siguiente a su publicación en el Periódico Oficial el Estado (sic).
