@@ -1,0 +1,9 @@
+P.O. 2 DE SEPTIEMBRE DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 122 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO. La reforma a los artículos entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. El Poder Legislativo del Estado, deberá aprobar la ampliación del presupuesto de egresos del Poder Judicial del presente ejercicio fiscal sujeto a la viabilidad presupuestal correspondiente, a efecto de que cuente con los recursos adicionales y suficientes para la creación de los Juzgados Especializados en Violencia Familiar contra las Mujeres.
+TERCERO. Las reformas a los artículos 1, 2, 53, 69 y 90 DECIES de la Ley Orgánica del Poder Judicial del Estado de Baja California, respecto de los Juzgados Especializados en Violencia Familiar contra las Mujeres, entrarán en vigor a partir de la Declaratoria que emita el Congreso del Estado, una vez que se hayan realizado las modificaciones presupuestales respectivas.
+CUARTO. El Poder Judicial del Estado contará con un plazo de 180 días, contados a partir de la Declaratoria, para realizar las gestiones administrativas necesarias para poner en funcionamiento los Juzgados Especializados en Violencia Familiar contra las Mujeres, así como los diversos cambios estructurales derivados del presente decreto.
+QUINTO. Las Centrales de Actuario, comenzarán a funcionar en el orden y fechas que determine el Pleno del Consejo de la Judicatura Estatal, conforme a las posibilidades presupuestales y necesidades del servicio.
+SEXTO. El Consejo de la Judicatura deberá expedir el Reglamento de las Centrales de Actuarios, dentro de un término de 60 días posteriores a la entrada en vigor de la presente reforma.
+SÉPTIMO. Las presentes reformas no afectarán los derechos adquiridos y demás prestaciones reconocidas a los trabajadores con anterioridad al presente Decreto.
