@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)
-ARTÍCULO 106 TER 1.- El Estado y los municipios podrán celebrar convenios con los vecinos de las Áreas Verdes para que participen en su mantenimiento, mejoramiento y crecimiento.
+(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)
+ARTÍCULO 106 TER 1.- El Estado y los municipios podrán celebrar convenios con los vecinos y los sectores social y productivo para los objetivos a que se refiere el artículo anterior.
