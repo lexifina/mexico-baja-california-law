@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)
+Artículo 270 BIS.- Al médico que realice una intervención quirúrgica sin contar con el consentimiento informado o autorización del paciente o de quien legítimamente pueda otorgarlo, salvo casos de urgencia en términos del artículo 51 Bis 2 de la Ley General de Salud, se impondrá de seis meses a cinco años de prisión, multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización, y suspensión de un mes a dos años para ejercer la profesión.
