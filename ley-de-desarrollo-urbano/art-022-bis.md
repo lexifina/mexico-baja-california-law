@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 23 DE JULIO DE 2021)
-ARTICULO 22 BIS.- Se crea la Comisión Intersecretarial de Desarrollo Integral Regional quien, para el mejor desempeño de sus atribuciones, se encargará de aprobar los dictámenes técnicos de congruencia respecto de los permisos y licencias de uso del suelo y edificaciones, licencias de construcción y acciones de urbanización que por su importancia y trascendencia estatal le sean remitidos por la Secretaría.
