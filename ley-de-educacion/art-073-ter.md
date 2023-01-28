@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE ENERO DE 2023)
+Artículo 73 Ter. Con la finalidad de promover la salud y estabilidad psicoemocional de niñas y adolescentes en nivel básico y media superior, la Secretaría de Educación en coordinación con la Secretaría de Salud del Estado, en el marco de sus respectivas competencias, promoverán la implementación de acciones, programas o protocolos de actuación tendientes a potenciar acciones para dignificar y normalizar el proceso de menstruación de niñas, mujeres y personas menstruantes, tendiente a evitar ausentismo.
