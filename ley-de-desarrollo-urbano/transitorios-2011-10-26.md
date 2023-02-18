@@ -1,9 +1,0 @@
-G.G. 26 DE OCTUBRE DE 2011.
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-TERCERO.- El Procurador General de Justicia del Estado de México, dentro del plazo de seis meses siguientes a la entrada en vigor de este Decreto, deberá expedir el acuerdo respectivo para la recepción de denuncias y querellas a través de los medios electrónicos y sistemas de información, así como tramitar la firma electrónica de los servidores públicos y sello electrónico que establece la Ley para el Uso de Medios Electrónicos del Estado de México.
-CUARTO.- Se deroga el artículo 77 de la Ley que Crea el Instituto de Servicios Periciales del Estado de México.
-El Procurador expedirá el acuerdo por el que se establezca el sistema informático de consulta de antecedentes penales a que se refiere el artículo 13 bis de esta Ley, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
-QUINTO.- El Instituto de Prevención del Delito del Estado de México, dependiente de la Procuraduría General de Justicia del Estado de México, seguirá operando con las atribuciones establecidas, hasta que entre en operación el Centro Estatal de Prevención del Delito a que se refiere la Ley de Seguridad del Estado de México.
-SEXTO.- El Instituto de Formación profesional y capacitación dependiente de la Procuraduría General de Justicia del Estado de México, seguirá operando con las atribuciones establecidas, hasta que entre en operación la instancia estatal de profesionalización de las instituciones de seguridad ciudadana.
-SÉPTIMO.- Los procedimientos de separación y remoción que se encuentren en curso o trámite a la fecha de entrada en vigor de este Decreto, se concluirán de conformidad con las disposiciones vigentes al momento de su inicio.
