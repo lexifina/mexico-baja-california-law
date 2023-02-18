@@ -1,0 +1,3 @@
+P.O. 12 DE JULIO DE 2019.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 347 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
