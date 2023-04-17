@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE FEBRERO DE 2023)
+ARTÍCULO 19 BIS.- Cada una de las instituciones públicas de salud del Estado contará con una Comisión de Vigilancia de Servicios de Salud Pública, órgano colegiado cuyo objeto es identificar las necesidades materiales, humanas y económicas de dichas instituciones, a fin de satisfacer de manera eficaz y oportuna las necesidades de la población que accede a sus servicios.
