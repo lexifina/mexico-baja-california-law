@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)
-ARTÍCULO 116 BIS.- La Secretaría de Salud del Estado ejercerá el control sanitario de los establecimientos que se dediquen a la prestación de servicios funerarios, asimismo, verificarán que la prestación del servicio, los locales y el equipo con que se preste dicho servicio reúna las condiciones sanitarias exigibles en los términos de esta Ley y los reglamentos correspondientes.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)
+ARTÍCULO 116 BIS.- La Secretaría de Salud del Estado a través del Instituto de Servicios de Salud Pública del Estado de Baja California ejercerá el control sanitario de los establecimientos que se dediquen a la prestación de servicios funerarios; asimismo, verificará que la prestación del servicio, locales y el equipo con que se preste el mismo reúna las condiciones sanitarias exigibles en los términos de esta Ley y los reglamentos correspondientes.

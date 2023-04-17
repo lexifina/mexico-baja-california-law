@@ -1,0 +1,5 @@
+P.O. 30 DE DICIEMBRE DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 194 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 4, 11, 51, 116 BIS, 116 QUÁTER, 122, 149, 150, 151, 154, 155, 157, 158, 162, 168, 169, 171, 173, 174, 175, 176, 179, 185, 188, 189, 190, 191, 192 Y 194, COMO TAMBIÉN EL CAMBIO DE DENOMINACIÓN DEL CAPÍTULO DÉCIMO PRIMERO, DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO. El presente Decreto de reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. El Poder Ejecutivo del Estado y, en su caso, los Ayuntamientos, dentro de los tres meses siguientes al inicio de la vigencia de las presente reformas, emitirán las disposiciones administrativas que sean necesarias para su debida observancia.
+TERCERO. Las menciones que se hagan en otros ordenamientos a la Comisión Estatal para la Protección Contra Riesgos Sanitarios, se entenderán referidas al Instituto de Servicios de Salud Pública del Estado de Baja California y a la unidad administrativa de este último que se determine en su Reglamento Interno.
