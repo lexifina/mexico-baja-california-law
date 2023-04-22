@@ -1,0 +1,6 @@
+P.O. 21 DE ABRIL DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 224 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 8, 10, 24, 50 Y 54 DE LA LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Los asuntos, actos o trámites relacionados con las concesiones que se encuentren en curso o que hayan sido otorgadas con anterioridad a la entrada en vigor de la presente reforma, así como aquellas promovidas a partir de su inicio de vigencia, serán sustanciados, resueltos, concluidos y atendidos por la Comisión Especial de Concesiones prevista en el artículo 50 de la Ley General de Bienes, materia de la presente reforma.
+TERCERO.- Dentro de los quince días naturales siguientes a la entrada en vigor de la presente reforma, la Secretaría General de Gobierno en representación y en su calidad de titular de la presidencia de la comisión especial de concesiones, hará entrega de los asuntos que a la entrada en vigor del presente decreto se encuentren en curso y aquellos relacionados con las mismas.
+CUARTO.- La persona titular del Poder Ejecutivo del Estado deberá expedir dentro de un plazo de ciento ochenta días, la reglamentación correspondiente acorde al presente Decreto.

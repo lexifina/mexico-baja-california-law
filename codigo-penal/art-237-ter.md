@@ -1,9 +1,9 @@
 (REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2016)
 Artículo 237 Ter.- Las mismas penas señaladas en el artículo anterior, se impondrán al padre o la madre que sustraiga, retenga u oculte a su hijo menor de 18 años de edad o incapaz, con el fin de:
-(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)
-I.- Impedir que el otro ascendiente ejerza el derecho a convivir con su hijo menor de edad o incapaz en los términos decretado por resolución o convenio judicial.
-(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)
-II.- Impedir la guarda y custodia compartida en los términos de la resolución o convenio judicial.
+(REFORMADA, P.O. 21 DE ABRIL DE 2023)
+I.- Impedir injustificadamente que la persona menor de edad o incapaz conviva con el otro ascendiente.
+(REFORMADA, P.O. 21 DE ABRIL DE 2023)
+II.- Impedir injustificadamente el desarrollo de la guarda y custodia compartida respecto de la persona menor de edad o incapaz.
 (REFORMADO, P.O. 8 DE MARZO DE 2013)
 Si el agente devuelve al menor o incapaz espontáneamente, dentro de las cuarenta y ocho horas siguientes a la consumación del delito, se le aplicará una tercera parte de las penas arriba señaladas.
 (ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)
