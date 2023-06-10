@@ -1,0 +1,2 @@
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 29], P.O. 9 DE JUNIO DE 2023)
+Artículo 29 BIS. La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos de que persista su inestabilidad física, psicológica o su situación de riesgo, siendo sujetas a evaluación por el personal médico, psicológico y jurídico del refugio. En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.

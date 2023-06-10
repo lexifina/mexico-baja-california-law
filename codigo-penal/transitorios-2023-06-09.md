@@ -1,0 +1,3 @@
+P.O. 9 DE JUNIO DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 238 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 113 BIS Y SE DEROGA EL ARTÍCULO 114 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
