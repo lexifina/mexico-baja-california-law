@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 13 DE AGOSTO DE 2021)
-Artículo 113 BIS.- Los plazos para la prescripción de la acción penal en el caso de los delitos previstos por los artículos 176, 177, 178, 180, 180 BIS, 184 QUATER, 238, 261, 262 y 264 de este Código, empezarán a computarse a partir de que la víctima cumpla 18 años de edad.
+(REFORMADO, P.O. 9 DE JUNIO DE 2023)
+Artículo 113 BIS.- En el caso de los delitos previstos por los artículos 123, 176, 177, 178, 180, 180 BIS, 184 QUATER, 238, 261, 262, 262 TER, 262 QUARTER y 264 de este Código, la acción penal será imprescriptible cuando se cometan contra persona menor de dieciocho años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo.

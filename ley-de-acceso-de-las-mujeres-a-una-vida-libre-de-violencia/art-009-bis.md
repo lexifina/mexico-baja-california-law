@@ -1,0 +1,2 @@
+(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTÍCULO 9], P.O. 9 DE JUNIO DE 2023)
+Artículo 9 BIS. Constituye violencia laboral: la negativa ilegal a contratar a la Víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, las conductas referidas en la Ley Federal del Trabajo, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley y todo tipo de discriminación por condición de género

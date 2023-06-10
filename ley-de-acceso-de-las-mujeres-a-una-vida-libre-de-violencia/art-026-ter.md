@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 9 DE JUNIO DE 2023)
+Artículo 26 TER. Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional que emita las órdenes de protección, realizarán las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegará de los recursos materiales y humanos necesarios, asimismo podrá solicitar la colaboración de las autoridades competentes.
