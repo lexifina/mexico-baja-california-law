@@ -1,0 +1,3 @@
+P.O. 7 DE JULIO DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO No 247 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 Y 4 DE LA LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO. La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
