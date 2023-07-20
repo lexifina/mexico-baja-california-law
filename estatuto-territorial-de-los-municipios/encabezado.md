@@ -1,0 +1,4 @@
+ESTATUTO TERRITORIAL DE LOS MUNICIPIOS DEL
+ESTADO DE BAJA CALIFORNIA
+Publicada en el Periódico Oficial No. 1,
+de Fecha 03 de enero de 2020, Tomo CXXVII.
