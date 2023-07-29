@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE JULIO DE 2023)
+Artículo 63 BIS. Será responsable de atentar contra el desarrollo urbano y los asentamientos humanos, la persona servidora o servidor público que, contraviniendo el Atlas de Riesgos o los planes o programas de desarrollo urbano expedidos en términos de las leyes aplicables, expida licencia, permiso, autorización, constancia o dictamen para realizar cualquier tipo de construcción, obra de infraestructura, equipamiento urbano, acción de urbanización o asentamientos humanos.
