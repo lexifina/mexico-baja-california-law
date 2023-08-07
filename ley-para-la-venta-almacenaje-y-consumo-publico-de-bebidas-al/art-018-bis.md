@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 9 DE MAYO DE 2023)
+ARTÍCULO 18 BIS.- Obligaciones Adicionales para venta de bebidas en envase abierto.- Además de las obligaciones señaladas en el artículo anterior, las personas permisionarias cuya actividad preponderante sea principalmente la venta de bebidas alcohólicas en envase abierto o para consumo en el local, deberán cumplir con las siguientes obligaciones:
+I.- Contar con un sistema de videograbación en todas las entradas y salidas del establecimiento, incluyendo las de seguridad o emergencia, conforme a los lineamientos y manuales del sistema de video vigilancia emitidos y autorizados por la Secretaría de Seguridad Ciudadana;
+II.- Contar con botones de pánico dentro del establecimiento o giro y en su estacionamiento, de forma visibles y señalizados para uso tanto de personas empleadas como consumidoras, para reportar de la posible comisión de un hecho delictuoso de forma inmediata, conforme a los lineamientos que expida la Secretaría de Seguridad Ciudadana;
+III.- Instalar arcos detectores o detectores portátiles de metales para controlar el acceso a sus instalaciones;
+IV. Contar con personal de seguridad capacitado por la Secretaría de Seguridad Ciudadana; y,
+V. Denunciar o dar aviso inmediato a la autoridad correspondiente sobre cualquier presunto delito cometido dentro del establecimiento, estacionamiento, o inmediaciones, incluyendo aquellos que sean reportados por las y los consumidores que soliciten auxilio, en términos del artículo 222 del Código Nacional de Procedimientos Penales.
