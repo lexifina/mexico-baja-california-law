@@ -1,0 +1,6 @@
+ARTÍCULOS TRANSITORIOS
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Los asuntos que a la entrada en vigor de esta Ley se encuentren en proceso se resolverán conforme a las disposiciones vigentes al momento en que iniciaron. Lo anterior, sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios del presente Decreto.
+TERCERO. El Consejo General del Instituto Estatal dictará las disposiciones necesarias para hacer efectivo lo establecido en esta Ley, dentro de los sesenta días siguientes a su entrada en vigor.
+CUARTO. El Consejo General del Instituto Estatal, dentro de los diez días siguientes a la entrada en vigor de la presente Ley, deberá verificar si los partidos políticos locales dieron cumplimiento a lo dispuesto en los artículos transitorios Quinto y Sexto de la Ley General de Partidos Políticos; en caso de incumplimiento deberá dentro del plazo antes indicado, requerir a los partidos políticos locales a que procedan en un plazo de diez días a su acatamiento. Lo anterior con independencia de las sanciones a que haya lugar.
+QUINTO. Se respetarán, conforme a la Ley, los derechos de los partidos políticos.
