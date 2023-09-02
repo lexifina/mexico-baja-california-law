@@ -1,5 +1,6 @@
-(ADICIONADO, P.O. 24 DE JULIO DE 2020)
-Artículo 27 BIS.- El Consejo General integrará un sistema de listas, una para mujeres y otra para hombres respecto a las candidatas y candidatos que se encuentren en el supuesto del artículo anterior. La asignación de diputaciones por este principio se hará de manera alternada garantizando en todo momento la paridad de género.
+(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)
+Artículo 27 Bis.- El Consejo General integrará un sistema de listas, una para mujeres y otra para hombres respecto a las candidatas y candidatos que se encuentren en el supuesto del artículo anterior. La asignación de diputaciones por el principio de representación se hará de manera alternada garantizando en todo momento la paridad de género.
+La primera asignación, según el partido político de que se trate, iniciará con el género femenino o masculino con mayor porcentaje de votación válida en el distrito, a que se refiere el artículo anterior.
 TÍTULO TERCERO
 Del Poder Ejecutivo
 CAPÍTULO ÚNICO
