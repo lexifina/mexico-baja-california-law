@@ -1,0 +1,2 @@
+Artículo 18 TER.- Cuando la Procuraduría deje de cumplir con sus fines u objeto para el que fue creado o su funcionamiento no resultare conveniente para la economía o interés público, o de la comunidad, la Persona Titular de la Secretaría de Hacienda, atendiendo a la opinión de la dependencia coordinadora de sector, propondrá a la Persona Titular del Poder Ejecutivo del Estado la disolución, liquidación o extinción. Asimismo, podrá proponer su fusión, cuando su actividad combinada redunde en un crecimiento de eficiencia y productividad.
+Artículo Adicionado
