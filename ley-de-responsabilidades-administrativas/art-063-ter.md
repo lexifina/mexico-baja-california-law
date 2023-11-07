@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)
+Artículo 63 TER. La persona servidora pública que incumpla o retrase la entrega de los Informes de Avance de Gestión de la Entidad Fiscalizada, en los plazos, términos y formas previstas en la legislación; o en su caso, oculte, destruya, altere, deforme, inutilice total o parcialmente la información y documentación que integra estos informes.
+Asimismo, la persona servidora pública que incumpla o retrase la entrega de la Cuenta Pública de la Entidad Fiscalizada, en los plazos, términos y formas previstas en la legislación; o en su caso, oculte, destruya, altere, deforme, inutilice total o parcialmente la información y documentación que integra la Cuenta Pública.
