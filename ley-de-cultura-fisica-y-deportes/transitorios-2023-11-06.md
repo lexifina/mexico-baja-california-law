@@ -1,0 +1,3 @@
+P.O. 6 DE NOVIEMBRE DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 300 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LA FRACCIÓN X DEL ARTÍCULO 4 Y LA FRACCIÓN XXIV DEL ARTÍCULO 14 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.

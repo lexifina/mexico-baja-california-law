@@ -1,0 +1,11 @@
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE NOVIEMBRE DE 2023)
+CAPITULO XIII
+VIOLENCIA OBSTÉTRICA
+(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)
+Artículo 160 SEXTIES.- Comete el delito de violencia obstétrica el personal médico, paramédico, de enfermería y administrativo de las instituciones de salud públicas o privadas que, durante el embarazo, parto, puerperio o en emergencias obstétricas:
+I.- Altere el proceso natural del parto de bajo riesgo, a través del uso de técnicas de aceleración, sin obtener su consentimiento voluntario, expreso e informado o, en su caso, de la persona que ejerza la patria potestad, tutela, guarda o custodia sobre la niña, adolescente o la mujer o persona gestante a menos que se ponga en riesgo la vida del producto o de la mujer o persona gestante;
+II.- No obstante existir condiciones para el parto, practique cesárea sin obtener el consentimiento voluntario, expreso e informado o, en su caso, de la persona que ejerza la patria potestad, tutela, guarda o custodia sobre la niña, adolescente o la mujer, a menos que estas pongan en riesgo la vida del producto o de la mujer o persona gestante;
+III.- Acose o presione física, psicológica u ofensivamente a la niña, adolescente, mujer o persona gestante, con el fin de inhibir la libre decisión de su maternidad, cuerpo y sexualidad;
+IV.- Obstaculice el apego del niño o la niña con su madre, sin causa médica justificada, a través de la negación de la posibilidad de cargarle o de amamantarle inmediatamente después de nacer; o,
+V.- Aun cuando existan los medios necesarios para la realización del parto vertical, las obligue a parir en forma distinta a la que sea propia de sus usos, costumbres y tradiciones obstétricas, a menos que estas pongan en riesgo la vida del producto o de la madre o persona gestante.
+Con independencia de las lesiones causadas, la persona responsable de las conductas señaladas en las fracciones I, II y V, se le impondrán de tres a seis años de prisión y de cien a quinientos días multa, y a quien incurra en los supuestos descritos en las fracciones III y IV será sancionado con prisión de uno a tres años y de cien a trescientos días multa, así como suspensión de la profesión, cargo u oficio, por un término igual al de la pena privativa de libertad impuesta, y el pago de la reparación integral del daño.
