@@ -6,8 +6,8 @@ I.- La Junta de Coordinación Política, es el órgano de gobierno del Congreso 
 II.- Durante el primer período de sesiones del inicio de una Legislatura, cada Diputado a través de su Coordinador del Grupo Parlamentario correspondiente enviará sus propuestas para elaborar la Agenda Legislativa Básica;
 (REFORMADA, P.O. 10 DE JULIO DE 2015)
 III.- La Agenda Legislativa Básica será consensuada y acordada por los integrantes de la Junta de Coordinación Política antes de concluir el primer período de sesiones de inicio de la Legislatura, para ser incorporada al Plan;
-(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)
-IV.- La Junta de Coordinación Política deberá incorporar al Plan, las propuestas de las Direcciones y Unidades Auxiliares del Congreso, así como del Órgano de Fiscalización Superior del Estado, para la mejora continua de sus funciones y servicios mediante la optimización de sus estructuras y organización técnica de los recursos materiales y humanos disponibles, antes de concluir el primer período de sesiones del inicio de la legislatura;
+(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)
+IV.- La Junta de Coordinación Política deberá incorporar al Plan, las propuestas de las Direcciones y Unidades Auxiliares del Congreso, así como de la Auditoría Superior del Estado, para la mejora continua de sus funciones y servicios mediante la optimización de sus estructuras y organización técnica de los recursos materiales y humanos disponibles, antes de concluir el primer período de sesiones del inicio de la legislatura;
 (REFORMADA, P.O. 10 DE JULIO DE 2015)
 V.- Los integrantes de la Junta de Coordinación Política deberán procurar que el anteproyecto de Plan se encuentre completo al iniciar el segundo período de sesiones del inicio de la Legislatura, habiendo incluido los objetivos, estrategias y líneas de acción en materia de legislación, fiscalización del gasto público, gestoría comunitaria y modernización institucional;
 (ADICIONADA, P.O. 2 DE JULIO DE 2010)
