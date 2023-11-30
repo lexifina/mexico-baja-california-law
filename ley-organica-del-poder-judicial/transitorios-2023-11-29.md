@@ -1,0 +1,11 @@
+P.O. 29 DE NOVIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 329 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1, 2, 53, 69, 90 UNDECIES Y 90 DUODECIES, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO XI DEL TÍTULO QUINTO PARA LLAMARSE "DE LA ORGANIZACIÓN DE LOS JUZGADOS ESPECIALIZADOS EN MATERIA HIPOTECARIA", TRASLADÁNDOSE AL MISMO TÍTULO LA DENOMINACIÓN Y CONTENIDO DE DICHO CAPÍTULO A UN CAPÍTULO XII IDENTIFICADO COMO "CENTRALES DE ACTUARIOS"; Y QUE ADICIONA LOS ARTÍCULOS 58 BIS Y 90 TERDECIES, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, con salvedad de lo dispuesto en los siguientes artículos transitorios.
+SEGUNDO.- Las reformas relativas a los Juzgados de Primera Instancia Especializados en Materia Hipotecaria entraran en vigor a los 90 días naturales, contados a partir de la publicación de las presentes reformas.
+TERCERO.- Durante el Plazo a que se refiere el artículo segundo transitorio, el Poder Judicial deberá realizar las acciones siguientes:
+I. Efectuar las adecuaciones presupuestales necesarias;
+II. Llevar a cabo las gestiones administrativas que estime pertinentes para reclutar y capacitar a las personas servidoras públicas que forman parte de los Juzgados de nueva creación; y,
+III. Concretar las modificaciones reglamentarias, acciones administrativas y demás que resulten imprescindibles.
+CUARTO.- La implementación y funcionamiento de los Juzgados de Primera Instancia Especializados en Materia Hipotecaria y de los Juzgados Itinerantes, estará sujeta a la viabilidad presupuestal con que cuente el Poder Judicial del Estado.
+QUINTO.- Los asuntos en materia hipotecaria presentados con anterioridad a la entrada en vigor de las presentes reformas, se seguirán sustanciando hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio, en los Juzgados que los conocieron en su primer momento.
+SEXTO.- Las presentes reformas no afectaran los derechos adquiridos y demás prestaciones reconocidas a las personas servidoras públicas que hubieren iniciado funciones con anterioridad a la entrada en vigor de las mismas.

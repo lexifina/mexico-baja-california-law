@@ -1,6 +1,11 @@
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2022)
-CAPÍTULO XI
-DE LAS CENTRALES DE ACTUARIOS
-(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2022)
-ARTÍCULO 90 UNDECIES.- En los Partidos Judiciales en que existan dos o más juzgados de la misma materia, podrán crearse Centrales de Actuarios, cuando las necesidades del servicio así lo ameriten, a juicio del Consejo de la Judicatura.
-Las Centrales de Actuarios serán los órganos encargados de llevar el control de las diligencias cuya realización ordenen las autoridades jurisdiccionales a cargo de las y los actuarios del Poder Judicial del Estado, fuera de la sede judicial, debiendo turnárseles de forma aleatoria. Las Centrales de Actuarios funcionarán conforme a las bases de organización y funcionamiento que sean establecidas en el reglamento y lineamientos que al efecto emita el Consejo de la Judicatura.
+(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], P.O. 29 DE NOVIEMBRE DE 2023)
+CAPITULO XI
+DE LA ORGANIZACIÓN DE LOS JUZGADOS ESPECIALIZADOS EN MATERIA HIPOTECARIA
+(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2023)
+ARTICULO 90 UNDECIES.- Los Juzgados Especializados en Materia Hipotecaria conocerán:
+I. De los juicios especiales hipotecarios establecidos en el Código de Procedimientos aplicable;
+II. De los juicios contenciosos que versen sobre acciones hipotecarias, siempre que el valor de estos exceda el valor de 2000 veces la unidad de medida y actualización;
+III. De los juicios sumarios que se promuevan con motivo de las acciones hipotecarias que tengan como finalidad constituir, ampliar y registrar una hipoteca;
+IV. De los juicios ejecutivos que se promuevan en relación a una acción hipotecaria;
+V. De las diligencias de exhortos, suplicatorias, requisitorias y despachos relacionados con algún procedimiento hipotecario; y,
+VI. De los demás asuntos que les encomienden las leyes.
