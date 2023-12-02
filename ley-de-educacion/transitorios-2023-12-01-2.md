@@ -1,0 +1,5 @@
+P.O. 1 DE DICIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 317 MEDIANTE EL CUAL SE REFORMA (SIC) ARTÍCULO 122 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO.- La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+SEGUNDO.- La autoridad educativa estatal deberá emitir y adecuar el reglamento y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor.
+TERCERO.- La persona titular de la Secretaría de Educación del Estado de Baja California publicará, en los próximos 30 días de que entre en vigor la presente reforma en el portal electrónico de la Secretaría de Educación del Estado y por lo menos en un medio impreso de mayor circulación en los Municipios del Estado un listado con los nombres y datos de las instituciones educativas que cuentan con reconocimiento oficial así mismo como aquellas que no cuentan con el mismo o hayan sido clausuradas o sancionadas.
