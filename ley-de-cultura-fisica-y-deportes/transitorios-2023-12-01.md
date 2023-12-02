@@ -1,0 +1,3 @@
+P.O. 1 DE DICIEMBRE DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 316 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA FRACCIÓN XIV AL ARTÍCULO 96 DE LA LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
