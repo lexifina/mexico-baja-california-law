@@ -1,0 +1,3 @@
+P.O. 1 DE DICIEMBRE DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 315 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 21, 43 Y 53 DE LA LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
