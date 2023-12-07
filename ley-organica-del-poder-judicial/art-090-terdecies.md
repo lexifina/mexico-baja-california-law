@@ -1,7 +1,3 @@
-(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE NOVIEMBRE DE 2023)
-ARTICULO 90 TERDECIES.- Cada Central de Actuarios estará a cargo de una coordinación, quien contará con las y los Secretarios Actuarios y el personal administrativo necesario para el cumplimiento de sus funciones, de conformidad con la viabilidad presupuestal. Para ser coordinadora o coordinador de la Central de Actuarios se requiere:
-I.- Contar con ciudadanía mexicana en pleno ejercicio de sus derechos;
-II.- Tener cuando menos, treinta años cumplidos al día de la designación;
-III.- Gozar de buena reputación;
-IV.- Licenciatura en Derecho, con título y cédula profesional con antigüedad de cinco años; y,
-V.- Acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
+(REFORMADO, P.O. 4 DE DICIEMBRE DE 2023)
+ARTICULO 90 TERDECIES.- En los Partidos Judiciales en que existan dos o más juzgados de la misma materia, podrán crearse Centrales de Actuarios, cuando las necesidades del servicio así lo ameriten, a juicio del Consejo de la Judicatura.
+Las Centrales de Actuarios serán los órganos encargados de llevar el control de las diligencias cuya realización ordenen las autoridades jurisdiccionales a cargo de las y los actuarios del Poder Judicial del Estado, fuera de la sede judicial, debiendo turnárseles de forma aleatoria. Las Centrales de Actuarios funcionarán conforme a las bases de organización y funcionamiento que sean establecidas en el reglamento y lineamientos que al efecto emita el Consejo de la Judicatura.
