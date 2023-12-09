@@ -1,0 +1,3 @@
+P.O. 8 DE DICIEMBRE DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 328 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 3 Y ADICIÓN DE LOS ARTÍCULOS 8 BIS, 29 BIS, 29 TER, 29 QUATER, 29 QUINQUIES Y 29 SEXTIES A LA LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.

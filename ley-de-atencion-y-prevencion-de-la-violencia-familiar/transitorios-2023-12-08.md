@@ -1,0 +1,4 @@
+P.O. 8 DE DICIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 318 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 50 Y 126 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA; LA REFORMA AL ARTÍCULO 27 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA; LA REFORMA AL ARTÍCULO 22 DE LA LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA; Y LA REFORMA AL ARTÍCULO 39 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA (SIC)".]
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+SEGUNDO.- El Ejecutivo del Estado expedirá las disposiciones reglamentarías correspondientes para la aplicación de la reforma a la presente Ley, dentro de los noventa días siguientes a la publicación del presente Decreto.

@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2023)
+ARTÍCULO 29 BIS.- La Secretaría reconocerá a los Destinos Turísticos Estatales en las siguientes categorías:
+I.- Barrio Mágico: área urbanizada de una zona metropolitana dotada de identidad y características propias, que a través del tiempo y ante la modernidad, ha conservado su patrimonio y singularidad cultural y manifiesta sus expresiones de forma excepcional.
+II.- Desarrollo Recíproco: área transformada a través de la creación de un producto turístico inducido, en donde se habilitan servicios básicos de desarrollo urbano, a partir de un estilo arquitectónico significativo e integra a la comunidad local en las actividades productivas y comerciales, manteniendo un régimen de sostenibilidad y de protección a la identidad cultural.
+III.- Espacios Territoriales Diversos: aquel determinado por la Secretaría, integrado por una o más localidades, que, por sus recursos naturales y culturales, contribuyen al desarrollo social y económico de una comunidad a partir del flujo de visitantes.
