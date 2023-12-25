@@ -1,9 +1,8 @@
-(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS PORCENTAJES], P.O. 30 DE ABRIL DE 2020)
-ARTICULO 7o. BIS.- Con el 9% del total de la recaudación de los impuestos estatales, exceptuando al Impuesto Sobre Servicio de Hospedaje, el Estado constituirá el Fondo Compensatorio, que se distribuirá de la siguiente manera:
-28.59% al Municipio de Mexicali.
-55.88% al Municipio de Tijuana.
-15.53% al Municipio de Tecate.
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2000)
-A partir del año 2002, el importe que corresponda a cada Municipio en los términos del párrafo anterior, se actualizará con el factor de inflación que corresponda a cada mes del ejercicio de que se trate. En caso de que el porcentaje del incremento de la recaudación sea mayor de la inflación, el remanente se distribuirá entre todos los Municipios del Estado, en proporción inversa a las participaciones por habitante que tenga cada Municipio, como resultado de la suma de las participaciones que conforme a esta Ley corresponda a los Municipios.
-(ADICIONADO, P.O. 30 DE ABRIL DE 2020)
-El 9% del total recaudado por el Impuesto Sobre Servicios de Hospedaje, será distribuido entre los Municipios en proporción a la recaudación obtenida en cada uno de ellos en el ejercicio fiscal anterior, por el mismo concepto.
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)
+ARTICULO 7 BIS. Se otorgará mensualmente la cantidad de $15,000,000.00 de pesos, para ser distribuido entre aquellos municipios que tengan celebrado convenio con el Estado para la administración del Impuesto Predial, de conformidad con lo establecido en el artículo 2- A de la Ley de Coordinación Fiscal, y que en el ejercicio fiscal anterior hayan tenido un crecimiento en el porcentaje de cuentas pagadas del impuesto predial, con respecto al padrón total de cuentas por cobrar del predial del mismo ejercicio fiscal.
+La cantidad señalada en el párrafo anterior, se actualizará anualmente en el mes de enero, considerando el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes de diciembre del año inmediato anterior, entre el citado índice correspondiente al mes de diciembre del penúltimo año. La Secretaría de Hacienda publicará la cantidad actualizada.
+Para determinar el porcentaje de distribución mensual a cada Municipio, respecto a la cantidad señalada en el primer párrafo de este artículo, la Secretaría de Hacienda deberá realizar el procedimiento siguiente:
+I. Se divide el total de cuentas del impuesto predial cobradas entre el total de cuentas del padrón del impuesto predial, de cada uno de los municipios, del ejercicio fiscal anterior al que se hace el cálculo; el porcentaje resultante se divide entre la suma total de los porcentajes de todos los municipios.
+II. El factor resultante de la fracción anterior se multiplica por la cantidad a distribuir.
+III. El resultado de la fracción anterior será la cantidad a recibir por municipio.
+La cantidad mensual no será acumulativa, por lo que, en caso de no distribuirse la totalidad en el mes correspondiente, esta pasará a formar parte del gasto del Ejecutivo Estatal.
