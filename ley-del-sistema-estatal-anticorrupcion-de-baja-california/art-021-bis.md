@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)
+ARTICULO 21 BIS.- Se otorgará a madres y padres de familia, un permiso especial de comparecencia escolar, que les permita ausentarse temporalmente de sus obligaciones laborales, para que participe en las actividades escolares convocadas por las autoridades educativas.
+Para que este permiso sea concedido, el trabajador deberá informar al patrón cuando menos con 12 horas de anticipación, y contar con una solicitud firmada y sellada por la autoridad educativa de la institución a la que pertenezcan sus hijos, en la que se establezca el día y hora de la actividad.

@@ -1,0 +1,4 @@
+G.G. 27 DE DICIEMBRE DE 1994.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno", para que entre en vigor el 1º. De enero de 1995.
+SEGUNDO.- Para los efectos de la aplicación de la Ley de Coordinación Fiscal del Estado de México, en lo que se refiere al Municipio de Valle de Chalco Solidaridad, los preceptos, los conceptos e indicadores que contiene ese ordenamiento, se entenderán y aplicarán, en razón de las proporciones territoriales que específicamente aportaron cada uno de los municipios involucrados, así como al significado de su conjunto y en relación a sus efectos jurídicos y económicos.
+TERCERO.- En los casos en que para determinar las magnitudes de los conceptos u obligaciones fiscales, se haga mención a indicadores referidos a zonas económicas, se considerarán esos mismos indicadores referidos a áreas geográficas.

@@ -1,0 +1,10 @@
+G.G. 18 DE OCTUBRE DE 2011.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+TERCERO.- La Legislatura del Estado de México deberá destinar la partida presupuestal necesaria para la creación de la Secretaría de Seguridad Ciudadana.
+CUARTO.- El Ejecutivo deberá expedir el Reglamento Interior de la Secretaría de Seguridad Ciudadana, en un plazo no mayor a dos meses, contados a partir de la entrada en vigor de este Decreto.
+QUINTO.- Las atribuciones y facultades que se otorgan a la Secretaría de Seguridad Ciudadana en este Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídico administrativos necesarios para su funcionamiento, serán ejercidas por conducto de la estructura orgánica de la Agencia de Seguridad Estatal, en los términos que disponga el Secretario de Seguridad Ciudadana.
+SEXTO.- Los recursos humanos, materiales y financieros de la Agencia de Seguridad Estatal, serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Seguridad Ciudadana.
+SÉPTIMO.- Los convenios o instrumentos jurídicos celebrados a través de la Agencia de Seguridad Estatal que se encuentren vigentes, continuarán en vigor, por lo que los derechos y obligaciones contraídos en éstos, serán asumidos por la Secretaría de Seguridad Ciudadana, excepto aquellos que por su naturaleza deban ser renovados.
+OCTAVO.- Las referencias realizadas en el presente Decreto a la Agencia de Seguridad Estatal, quedarán entendidas a la Secretaría de Seguridad Ciudadana.
+NOVENO.- Las referencias realizadas a reinserción social, quedarán entendidas al término vigente readaptación social, hasta en tanto se lleve a cabo la reforma penitenciaria a que se refiere el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.

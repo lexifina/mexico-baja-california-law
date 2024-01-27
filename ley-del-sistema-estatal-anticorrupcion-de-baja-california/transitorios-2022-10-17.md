@@ -1,5 +1,0 @@
-P.O. 17 DE OCTUBRE DE 2022.
-[N. DE E. TRANSITORIOS DEL "DECRETO NO. 151 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 27, 71 Y 95 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, ASIMISMO DIVERSAS REFORMAS A LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE BAJA CALIFORNIA".]
-PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado.
-SEGUNDO. Por única ocasión y tratándose de la reforma al artículo 19, la Presidencia del Comité de Participación Ciudadana se ocupará y rotará atendiendo al orden de menor a mayor plazo de duración en el encargo por el que fueron designados sus cinco integrantes, en términos del artículo transitorio quinto de la reforma constitucional por el que se aprobó la conformación del Comité. En el supuesto de los integrantes que cuenten con un periodo igual de duración en el cargo, esta se determinará por insaculación.
-En ningún caso la Presidencia del Comité de Participación Ciudadana recaerá en quien ya la hubiere ostentado.
