@@ -1,0 +1,4 @@
+P.O. 24 DE OCTUBRE DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1732.- MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO QUINTO BIS DENOMINADO "DE LAS MODALIDADES DE TRABAJO", AL TÍTULO SEGUNDO, QUE CONTIENE LOS ARTÍCULOS 37 BIS, 37 TER, 37 QUATER Y 37 QUINQUIES, A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO".]
+PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO. Las Direcciones de Recursos Humanos de los Poderes del Estado, dentro del plazo de cuarenta y cinco días posteriores a la publicación del presente Decreto, deberán elaborar y publicar los reglamentos respectivos y manuales de procedimiento para la modalidad del trabajo a distancia, mismos que deberán difundir en las áreas administrativas responsables.
