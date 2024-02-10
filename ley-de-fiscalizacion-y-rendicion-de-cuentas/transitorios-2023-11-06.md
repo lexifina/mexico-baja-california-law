@@ -3,5 +3,6 @@ P.O. 6 DE NOVIEMBRE DE 2023.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, sin perjuicio de lo previsto en los transitorios siguientes.
 SEGUNDO.- Las presentes reformas aplicarán para el proceso de fiscalización de la cuenta pública correspondiente al ejercicio fiscal dos mil veintitrés y subsecuentes.
 TERCERO.- El proceso de fiscalización de la cuenta pública correspondiente al ejercicio fiscal dos mil veintidós y los demás asuntos que se encuentren en trámite o en proceso de ejercicios fiscales anteriores, continuarán tramitándose hasta su conclusión en los términos de la normatividad vigente hasta antes de la entrada en vigor de las presentes reformas.
-CUARTO.- La Auditoría Superior del Estado contará con 180 días para emitir el reglamento para normar el procedimiento relativo a la imposición de las multas descritas en el artículo 11 de la presente Ley.
+(REFORMADO, P.O. 9 DE FEBRERO DE 2024)
+CUARTO.- La Auditoría Superior del Estado contará con 180 días para emitir el reglamento para normar el procedimiento relativo a la imposición de las multas descritas en el artículo 11 de la presente Ley, previa validación del proyecto, por parte de la Comisión de Fiscalización del Gasto Público.
 QUINTO.- La reforma al artículo 17 será aplicable para la entrega del Informe de Avance de Gestión Financiera relativa al Cuarto Trimestre del ejercicio fiscal dos mil veintitrés y subsecuentes.
