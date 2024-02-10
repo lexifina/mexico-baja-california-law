@@ -6,3 +6,5 @@ II.- Cuando fuere cometido por persona que tenga al ofendido, bajo su custodia, 
 III.- Cuando fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el sentenciado será destituido del cargo o empleo o suspendido por el término igual al de la pena de prisión.
 (REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2015)
 IV.- Cuando el delito fuere cometido dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso.
+(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)
+V.- Cuando para su realización se le haya suministrado a la víctima drogas, estupefacientes, psicotrópicos o agentes químicos.
