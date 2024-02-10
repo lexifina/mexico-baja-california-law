@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY.- Fue reformado mediante Decreto No. 537, publicado en el Periódico Oficial No. 40, de fecha 02 de septiembre de 2016, Tomo CXXIII, Sección I, expedido por la H. XXI Legislatura, siendo Gobernador Constitucional el C. Francisco Arturo Vega de Lamadrid 2013-2019;
