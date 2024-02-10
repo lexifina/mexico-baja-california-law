@@ -1,10 +1,22 @@
-(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)
-ARTÍCULO 31 BIS.- La persona con trastornos mentales y del comportamiento tendrá los siguientes derechos:
-I.- Derecho a la mejor atención disponible en materia de salud mental y acorde con sus antecedentes culturales, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona, en establecimiento de la red del Sistema Nacional de Salud;
-II.- Derecho a contar con un representante que cuide en todo momento sus intereses. Para esto, la autoridad judicial deberá de cuidar que no exista conflicto de intereses por parte del representante;
-III.- Derecho al consentimiento informado de la persona o su representante, en relación al tratamiento a recibir. Esto solo se exceptuará en el caso de internamiento involuntario, cuando se trate de un caso urgente o cuando se compruebe que el tratamiento es el más indicado para atender las necesidades del paciente;
-IV.- Derecho a que les sean impuestas únicamente las restricciones necesarias para garantizar su protección y la de terceros. En todo caso, se deberá procurar que el internamiento sea lo menos restrictivo posible y a que el tratamiento a recibir sea lo menos alterador posible;
-V.- Derecho a que el tratamiento que reciba este basado en un plan prescrito individualmente con el historial clínico, revisando periódicamente y modificando llegado el caso;
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)
+ARTÍCULO 31 BIS.- La población usuaria de los servicios de salud mental tendrán los derechos siguientes:
+(REFORMADA, P.O. 9 DE FEBRERO DE 2024)
+I.- Derecho a la mejor atención disponible en materia de salud mental con perspectiva intercultural, pertinencia lingüística y perspectiva de género, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona, en establecimiento de la red del Sistema Nacional de Salud;
+(REFORMADA, P.O. 9 DE FEBRERO DE 2024)
+II.- Derecho a contar con mecanismos de apoyo en la toma de decisiones y a directrices de voluntad anticipada sobre el consentimiento informado;
+(REFORMADA, P.O. 9 DE FEBRERO DE 2024)
+III.- Derecho al consentimiento informado de la persona con relación al tratamiento a seguir;
+(REFORMADA, P.O. 9 DE FEBRERO DE 2024)
+IV.- Derecho a no ser sometido a medidas de aislamiento, contención coercitiva o cualquier práctica que constituya tratos crueles, inhumanos o degradantes y, en su caso, ser sujeto a medios para atenuar el escalamiento de crisis;
+(REFORMADA, P.O. 9 DE FEBRERO DE 2024)
+V.- Derecho a un diagnóstico integral e interdisciplinario y a un tratamiento basado en un plan prescrito individualmente con historial clínico, revisando periódicamente y modificando de acuerdo con la evolución del paciente, que garantice el respeto a su dignidad de persona humana y sus derechos humanos;
+(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)
 VI.- Derecho a no ser sometido a tratamientos irreversibles o que modifiquen la integridad de la persona;
-VII.- Derecho a ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o amigos, y
-VIII.- Derecho a la confidencialidad de la información psiquiátrica sobre su persona.
+(REFORMADA, P.O. 9 DE FEBRERO DE 2024)
+VII.- Derecho a ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o amigos;
+(REFORMADA, P.O. 9 DE FEBRERO DE 2024)
+VIII.- Derecho a la confidencialidad de la información sobre su salud;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)
+IX.- Derecho a tener acceso y disponibilidad a servicios de salud mental y adicciones; y,
+(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)
+X.- Los derechos establecidos en la legislación nacional, los tratados y convenciones internacionales, vinculantes, de los que México forma parte.
