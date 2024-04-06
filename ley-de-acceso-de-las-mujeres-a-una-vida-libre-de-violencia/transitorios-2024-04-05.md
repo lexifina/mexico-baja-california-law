@@ -1,0 +1,3 @@
+P.O. 5 DE ABRIL DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 408 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 42 Y 44 QUATER A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- El presente Decreto entrará en vigor el día el día siguiente al de su publicación en el Periódico Oficial de Baja California.

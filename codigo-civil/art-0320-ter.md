@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 5 DE ABRIL DE 2024)
+ARTICULO 320 TER.- Cuando no sean comprobables el salario o los ingresos de la persona deudora alimentaria, la Jueza o Juez de lo Familiar resolverá con base en la capacidad económica y nivel de vida que las personas acreedoras alimentarias y la persona deudora hayan llevado en el último año, así como del estado de necesidad de las hijas e hijos considerando como principio su calidad de vida y dignidad.
