@@ -12,7 +12,8 @@ IX. Impedir, por cualquier medio, que las mujeres electas o designadas a cualqui
 X. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
 XI. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
 XII. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
-XIII. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+(REFORMADA, P.O. 31 DE MAYO DE 2024)
+XIII. Ejercer violencia física, sexual, simbólica, mediática, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
 XIV. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
 XV. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
 XVI. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
