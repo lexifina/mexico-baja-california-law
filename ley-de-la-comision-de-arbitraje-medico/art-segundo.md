@@ -1,0 +1,4 @@
+ARTÍCULO SEGUNDO.- Los Consejeros señalados en el artículo 17 de esta Ley, serán designados, por única ocasión conforme a lo siguiente:
+a).- Dentro de los quince días siguientes a la publicación de la presente ley, el Ejecutivo estatal publicará convocatoria en por lo menos uno de los diarios de mayor circulación estatal, para los interesados en ocupar el cargo de Consejero, sin perjuicio de que dicha convocatoria pueda ser difundida por otros medios;
+b).- La convocatoria indicará por lo menos el término y condiciones para la presentación de propuestas, los requisitos que deberán acreditar los aspirantes al cargo, la fecha y lugar en que tendrá verificativo el proceso de elección, así como las formalidades a observar;
+c).- La fecha señalada en el inciso anterior, no podrá exceder de quince días siguientes al vencimiento del plazo para la presentación de las propuestas.

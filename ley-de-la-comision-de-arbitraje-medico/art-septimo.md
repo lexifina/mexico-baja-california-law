@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO.- Hasta en tanto se hagan las reformas correspondientes al Reglamento Interno de la Comisión Estatal de Conciliación y Arbitraje en la Prestación de Servicios de Salud del Estado de Baja California, se aplicará éste en lo que no se contraponga a dicha Ley.

@@ -1,0 +1,1 @@
+ARTÍCULO 79.- Fue reformado mediante Decreto No. 190, publicado en el Periódico Oficial No. 18, Tomo CXIX, Sección I, de fecha 13 de abril de 2012, expedido por la H. XX Legislatura, siendo Gobernador Constitucional el C. José Guadalupe Osuna Millán 2007-2013;

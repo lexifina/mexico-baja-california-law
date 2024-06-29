@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Los procedimientos pendientes de resolución antes de la entrada en vigor de las presentes reformas, serán resueltos y substanciados por el Comisionado conforme a las disposiciones que se encontraban vigentes al momento del inicio del procedimiento.

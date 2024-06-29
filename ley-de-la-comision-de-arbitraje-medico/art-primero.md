@@ -1,0 +1,1 @@
+ARTÍCULO PRIMERO.- La presente Ley entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial del Estado, y abroga la Ley que Crea la Comisión Estatal de Conciliación y Arbitraje en la Prestación de Servicios de Salud del Estado de Baja California, publicada en el Periódico Oficial del Estado el día veintitrés de Noviembre de 2001.

@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Dentro de los diez días siguientes a la fecha en que los Consejeros fueren electos, el Comisionado en su carácter de Presidente del Consejo, deberá convocar a sus integrantes al acto de instalación formal de dicho órgano.

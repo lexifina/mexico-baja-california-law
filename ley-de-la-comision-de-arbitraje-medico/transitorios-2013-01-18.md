@@ -1,0 +1,1 @@
+TRANSITORIO SEGUNDO.- Fue reformado mediante Decreto No. 397, publicado en el Periódico Oficial No. 4, Tomo CXX, de fecha 18 de enero de 2013, expedido por la H. XX Legislatura, siendo Gobernador Constitucional el C. José Guadalupe Osuna Millán 2007-2013;

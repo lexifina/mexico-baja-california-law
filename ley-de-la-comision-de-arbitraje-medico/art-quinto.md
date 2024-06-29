@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Una vez realizado lo señalado en los artículos que anteceden, el Secretario de Salud deberá convocar dentro de un término de 30 días, a los integrantes de la Junta Directiva al acto de instalación formal de dicho órgano de gobierno.

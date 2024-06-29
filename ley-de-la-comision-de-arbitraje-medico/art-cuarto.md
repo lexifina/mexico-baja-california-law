@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Por esta única ocasión, y a efecto de integrar la Junta Directiva, el Comisionado designará de entre los Consejeros electos, a quien deba desempeñarse como representante del Consejo, dentro de dicho órgano de gobierno.

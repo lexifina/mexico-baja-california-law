@@ -1,0 +1,1 @@
+ARTÍCULO 51.- Fue reformado por Decreto No. 439, publicado en el Periódico Oficial No. 33, Índice, de fecha 28 de junio de 2024, Tomo CXXXI, expedido por la H. XXIV Legislatura, siendo Gobernadora Constitucional la C. Marina del Pilar Ávila Olmeda 2021-2027;
