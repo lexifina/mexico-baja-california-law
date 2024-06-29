@@ -1,0 +1,3 @@
+P.O. 28 DE JUNIO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 442 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 35, 132, 133 BIS, 134 BIS Y CREA EL 134 TER DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.– El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
