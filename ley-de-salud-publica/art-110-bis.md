@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 26 DE JULIO DE 2024)
+ARTÍCULO 110 BIS.- La Secretaría de Salud del Estado, llevará la operación y actualización de un Registro Estatal de Establecimientos Prestadores de Servicios de Salud y Bienestar (REPSSABI), con el objeto de regularizar y garantizar la calidad y la seguridad en la atención médica, y contribuir así a mitigar los potenciales riesgos a la salud de la población.
+Los establecimientos públicos y privados del sector salud que podrán registrarse serán los denominados hospitales, consultorios generales, consultorios de especialidad, consultorios de odontología, spas médicos, clínicas de cirugía mayor ambulatoria, laboratorios clínicos, gabinetes de radiología, farmacias, y los demás que determine la Secretaría de Salud.
+El REPSSABI será voluntario, gratuito y digital, conforme la normatividad interna que se emita.
