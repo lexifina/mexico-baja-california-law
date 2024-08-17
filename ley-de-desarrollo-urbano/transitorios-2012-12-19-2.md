@@ -1,8 +1,0 @@
-G.G. 19 DE DICIEMBRE DE 2012.
-DECRETO NÚMERO 37, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15; 17; SEGUNDO Y TERCER PÁRRAFO DEL ARTICULO 19; EL ARTICULO 39; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTICULO 10; LA FRACCIÓN XVIII Y UN TERCER PÁRRAFO AL ARTICULO 19, RECORRIÉNDOSE EL SUBSECUENTE Y UN ARTICULO 38 TER; Y SE DEROGAN LAS FRACCIONES IV, VII, VIII, XI, XII, XIV, XV, XXII, XXIII, XXIV, XXV, XXVI, XXVII Y XXIX DEL ARTICULO 21 Y LA FRACCIÓN II DEL ARTICULO 40 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE MÉXICO.
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
-TERCERO.- El Ejecutivo deberá expedir el Reglamento Interior de la Consejería Jurídica del Ejecutivo Estatal, en un plazo no mayor a sesenta días, contados a partir de la entrada en vigor de este Decreto.
-CUARTO.- Las atribuciones y facultades que se otorgan a la Consejería Jurídica del Ejecutivo Estatal en este Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídico administrativos necesarios para su funcionamiento, serán ejercidas por conducto de la estructura orgánica de la Subsecretaría de Asuntos Jurídicos.
-QUINTO.- Los recursos humanos, materiales y financieros de la Subsecretaría de Asuntos Jurídicos, serán transferidos a partir de la entrada en vigor del presente Decreto a la Consejería Jurídica del Ejecutivo Estatal.
-SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
