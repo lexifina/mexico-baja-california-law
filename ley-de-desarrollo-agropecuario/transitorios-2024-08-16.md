@@ -1,0 +1,3 @@
+P.O. 16 DE AGOSTO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 455 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 5, 13 Y LA ADICIÓN DE LOS ARTÍCULOS 35 TER Y 35 QUATER DE LA LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del estado de Baja California.

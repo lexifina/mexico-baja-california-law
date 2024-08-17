@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)
+ARTÍCULO 35 TER.- La Secretaría impulsará la agricultura regenerativa, como alternativa para la conservación de los suelos agrícolas, coadyuvando al medio ambiente, cambio climático, y ahorro del agua, otorgará a la persona productora asesoría técnica, cursos de capacitación, para que vaya transitando de la agricultura común, a la regenerativa, la cual dará un valor agregado a su producto ya que este cambiará a ser orgánico, debido al uso de biofertilizantes.
