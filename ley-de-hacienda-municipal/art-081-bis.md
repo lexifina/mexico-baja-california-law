@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2024)
+ARTICULO 81 BIS.- Fondos Distintos de Aportaciones: Son los ingresos que reciben los Municipios del Estado, derivados de fondos distintos de aportaciones y previstos en disposiciones específicas, tales como el Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos, y Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, entre otros.
+El Ayuntamiento podrá establecer fondos específicos a efecto de fomentar su política económica, fortalecer la hacienda pública municipal y generar recursos financieros suficientes para promover programas públicos destinados al bienestar de la comunidad.
