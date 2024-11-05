@@ -1,0 +1,3 @@
+P.O. 4 DE NOVIEMBRE DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 12 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA EL ARTÍCULO 7 Y ADICIONA EL ARTÍCULO 81 BIS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
