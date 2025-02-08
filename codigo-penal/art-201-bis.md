@@ -1,6 +1,6 @@
 (REFORMADO, P.O. 28 DE JUNIO DE 2013)
 Artículo 201 BIS.- Tipo y punibilidad. A quien cometa el delito de robo en terreno rústico, además de las penas previstas en el artículo 201, se le impondrán de uno a cinco años de prisión y de cien hasta doscientos días multa, cuando este se realice respecto de semillas, frutos recolectados o pendientes de recolectar, postes o alambres integrantes de una cerca, motor eléctrico o cualquier parte de este, tubería para riego, maquinaria agrícola o cualesquiera otro equipo, componente o accesorio destinado al aprovechamiento agropecuario, pesquero o acuícola.
-(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2018)
-Las penas para el delito previsto en este artículo se incrementarán de uno a tres años cuando se cometa en contra de bienes propiedad del Estado o Municipios.
+(REFORMADO, P.O. 7 DE FEBRERO DE 2025)
+Las penas para el delito previsto en este artículo se incrementarán de uno a tres años de prisión cuando se cometa en contra de bienes propiedad del Estado o Municipios.
 (REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)
 En el presente artículo será aplicable la excluyente de acción penal, prevista en los términos del último párrafo del artículo 201 de este Código.
