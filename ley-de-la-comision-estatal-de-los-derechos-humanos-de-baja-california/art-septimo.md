@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO.- El trámite de las quejas, cumplimiento de recomendaciones y demás asuntos iniciados con anterioridad a la entrada en vigor de la presente Ley ante la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, serán continuados ante la Comisión.

@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley sobre la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, publicada en el Periódico Oficial No. 7 de Fecha 10 de Marzo de 1991, Tomo XCVIII.

@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO.- Los trabajadores de la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, pasarán a formar parte de la Comisión, respetando todos sus derechos laborales.

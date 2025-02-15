@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO.- El Presidente de la Comisión, los Visitadores Generales, el Secretario Ejecutivo y el titular del órgano interno de control, deberán presentar su declaración patrimonial bajo protesta de decir verdad.

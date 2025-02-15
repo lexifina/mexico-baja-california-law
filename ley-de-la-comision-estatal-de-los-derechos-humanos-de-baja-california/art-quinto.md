@@ -1,0 +1,2 @@
+ARTÍCULO QUINTO.- Los Subprocuradores de la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, se mantendrán en su cargo, hasta en tanto, se designen a los Visitadores Generales. Los subprocuradores podrán participar en el proceso de designación.
+Por única ocasión los consejeros actuales, continuarán en ejercicio de sus funciones, hasta vencerse el periodo por el que fueron designados. Noventa días naturales antes de su vencimiento, el Presidente de la Comisión iniciará el procedimiento para su sustitución en los términos que determine la Ley.

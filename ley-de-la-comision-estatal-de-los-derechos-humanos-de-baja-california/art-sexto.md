@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Los bienes muebles e inmuebles, derechos, recursos financieros y demás activos con los que opere la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, se entenderán transferidos como patrimonio de la Comisión, en conjunto con los recursos presupuestales y financieros que para el presente ejercicio fiscal se hayan previsto.
