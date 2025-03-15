@@ -1,0 +1,3 @@
+P.O. 14 DE MARZO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 54 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 114; ASÍ COMO LA ADICIÓN DEL ARTÍCULO 114 BIS A LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
