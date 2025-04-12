@@ -1,0 +1,3 @@
+P.O. 11 DE ABRIL DE 2025.
+N. DE E. TRANSITORIO DEL "DECRETO NO. 79 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
