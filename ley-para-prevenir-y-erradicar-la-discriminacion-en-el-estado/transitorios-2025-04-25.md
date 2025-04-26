@@ -1,0 +1,3 @@
+P.O. 25 DE ABRIL DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 87 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 5 DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
