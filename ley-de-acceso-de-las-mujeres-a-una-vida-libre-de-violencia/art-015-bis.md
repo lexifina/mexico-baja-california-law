@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 25 DE ABRIL DE 2025)
+Artículo 15 Bis. Acoso sexual en espacios públicos: Es una forma de violencia que conlleva un abuso de poder respecto de la víctima, sin que medie relación alguna con la persona agresora. Se manifiesta a través de una conducta física o verbal de connotación sexual no consentida ejercida sobre una o varias personas, en espacios y medios de transporte públicos, cuya acción representa una vulneración a los derechos humanos.
