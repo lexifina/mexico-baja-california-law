@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 13 DE MAYO DE 2025)
+ARTÍCULO 4 BIS.- Se reconoce a las personas con discapacidad el derecho a vivir y crecer en el seno de su familia y a ser incluido en la comunidad, en igualdad de condiciones, opiniones y oportunidades de vida y desarrollo que la población en general.
+Aquellas que además sean mayores de edad, tienen derecho a elegir su lugar de residencia y con quien habitar, garantizando su capacidad para desarrollarse en forma independiente.
+Las personas con discapacidad no podrán ser obligadas a vivir con arreglo a un sistema de vida específico, por lo que tendrán derecho de acceder a una variedad de servicios de asistencia y servicios de apoyo en la comunidad que les facilite la convivencia e inclusión evitando su aislamiento o separación de ésta.
+Para el cumplimiento de lo anterior, las autoridades estatales y municipales en el ámbito de sus respectivas competencias, adoptarán las medidas efectivas y pertinentes para facilitar el pleno goce de los derechos de las personas con discapacidad y su plena inclusión y participación en comunidad.
