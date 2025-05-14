@@ -1,0 +1,5 @@
+P.O. 13 DE MAYO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 92 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LA REFORMA DE LA LEY DE SALUD PÚBLICA, LA REFORMA A LA LEY DE ASISTENCIA SOCIAL, LA REFORMA DE LA LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES Y LA REFORMA A LA LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Las obligaciones y facultades de las autoridades estatales que deriven de la vigencia de las presentes reformas y que resulten materia de convenios entre la Federación y el Estado, se sujetarán para su cumplimiento a las disposiciones jurídicas aplicables.
+TERCERO.- Las obligaciones que se generen con motivo de la entrada en vigor de las presentes reformas se sujetarán a la disponibilidad presupuestal correspondiente de quienes ejecutan el gasto para el ejercicio fiscal de su vigencia y los subsecuentes.

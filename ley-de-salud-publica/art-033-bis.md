@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)
-ARTÍCULO 33 BIS.- Para efectos del Artículo anterior, la Secretaría de Educación, fomentará la coordinación con la Secretaría de Salud del Estado, para la implementación de acciones en los centros escolares de educación básica y media superior en el Sistema Estatal, que tengan como objeto:
+(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2025)
+ARTÍCULO 33 BIS.- Para efectos del artículo anterior, la Secretaría de Educación y la Secretaría de Bienestar, fomentará la coordinación con la Secretaría de Salud del Estado para la implementación de acciones en los centros escolares de educación básica y media superior en el Sistema Estatal, que tengan como objeto:
 (ADICIONADO, P.O. 5 DE AGOSTO DE 2016)
 a).- Facilitar el acceso a los servicios médicos de salud mental y bienestar social de los educandos que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
 (ADICIONADO, P.O. 5 DE AGOSTO DE 2016)
