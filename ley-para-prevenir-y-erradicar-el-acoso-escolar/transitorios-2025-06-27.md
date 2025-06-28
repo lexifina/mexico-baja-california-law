@@ -1,0 +1,3 @@
+P.O. 27 DE JUNIO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 114 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 12 DE LA LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.

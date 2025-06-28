@@ -1,0 +1,3 @@
+P.O. 27 DE JUNIO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 110 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
