@@ -1,0 +1,3 @@
+P.O. 18 DE JULIO DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 115 DE LA XXV LEGISLATURA MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE ADICIÓN DE UN ARTÍCULO 129 QUATER AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
