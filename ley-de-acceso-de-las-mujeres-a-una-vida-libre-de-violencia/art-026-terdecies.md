@@ -1,3 +1,4 @@
+(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)
+Artículo 26 TERDECIES. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado deberá solicitar las medidas u órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
 (ADICIONADO, P.O. 9 DE JUNIO DE 2023)
-Artículo 26 TERDECIES. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado deberá solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
 En el caso de que las víctimas o víctimas indirectas sean personas menores de dieciocho años, las autoridades administrativas, el Ministerio Público o los órganos jurisdiccionales tendrán en cuenta los principios del interés superior de las niñas, niños y adolescentes, la prevalencia de sus derechos, su protección integral y los derechos consagrados en la Constitución, en los Tratados, así como los previstos en la Ley para la Protección y Defensa de los Derechos de Niñas, Niños y Adolescentes del Estado de Baja California y en la presente Ley.
