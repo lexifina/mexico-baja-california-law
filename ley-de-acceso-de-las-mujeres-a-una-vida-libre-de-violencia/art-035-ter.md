@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE JULIO DE 2025)
+Artículo 35 TER. En la elaboración del Programa Institucional a que hace referencia el artículo anterior, la Secretaría de las Mujeres consultará a los sectores público, privado y social, tales como organizaciones no gubernamentales, asociaciones civiles e instituciones académicas y de investigación, así como a los municipios del Estado; de manera que escuche las problemáticas y acciones que le comuniquen los diversos sectores de la sociedad.

@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 9 DE JUNIO DE 2023)
-Artículo 38 BIS. Las Organizaciones de la Sociedad Civil especializadas en atención a mujeres víctimas de violencia, deberán proporcionar datos obtenidos de la atención que presenten en Refugios y Centros, los cuales el Instituto de la Mujer para el Estado en coordinación con la Secretaría de Seguridad Ciudadana valorarán y analizarán para remitir la información que deba integrarse a la Base Estatal.
+(REFORMADO, P.O. 21 DE JULIO DE 2025)
+Artículo 38 BIS. Las Organizaciones de la Sociedad Civil especializadas en atención a mujeres víctimas de violencia, deberán proporcionar datos obtenidos de la atención que presenten en Refugios y Centros, los cuales la Secretaría de las Mujeres en coordinación con la Secretaría de Seguridad Ciudadana valorarán y analizarán para remitir la información que deba integrarse a la Base Estatal.
