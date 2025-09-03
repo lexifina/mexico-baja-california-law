@@ -1,0 +1,3 @@
+P.O. 2 DE SEPTIEMBRE DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 127 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 12 BIS, 125 BIS, Y LA REFORMA AL ARTÍCULO 145 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA (LEY AMPARITO)".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
