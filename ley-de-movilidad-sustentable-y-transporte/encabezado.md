@@ -1,0 +1,4 @@
+LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE
+DEL ESTADO DE BAJA CALIFORNIA
+Publicada en Periódico Oficial No. 17, Sección II, de fecha
+27 de marzo de 2020, Tomo CXXVII
