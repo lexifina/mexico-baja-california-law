@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 10 DE OCTUBRE DE 2025)
+ARTÍCULO 13 BIS.- La Secretaría implementará programas de capacitación y asistencia técnica dirigidos a las y los productores agropecuarios, con el propósito de mejorar las prácticas de producción, manejo postcosecha, transformación y comercialización de los productos del sector, enfatizando la adopción de técnicas sustentables el uso eficiente de recursos naturales y transición hacia la agricultura regenerativa.
