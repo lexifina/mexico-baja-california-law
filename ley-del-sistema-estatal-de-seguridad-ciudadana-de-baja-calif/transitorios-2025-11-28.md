@@ -1,0 +1,3 @@
+P.O. 28 DE NOVIEMBRE DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO No. 166 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 146 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
