@@ -1,0 +1,3 @@
+P.O. 28 DE NOVIEMBRE DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO No. 168 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 108 BIS A LA LEY DE (SIC) SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
