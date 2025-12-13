@@ -1,0 +1,3 @@
+P.O. 12 DE DICIEMBRE DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 171 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA LEY PARA LA ATENCIÓN, PROTECCIÓN DE LOS DERECHOS Y APOYO A LAS PERSONAS MIGRANTES DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
