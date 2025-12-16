@@ -1,0 +1,4 @@
+P.O. 15 DE DICIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 198 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 5, 202, 208, 216, 218, 219, 222 Y ADICIÓN DEL ARTÍCULO 208 BIS A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA".]
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+SEGUNDO.- En tanto no se emita un nuevo instrumento, el Fideicomiso a que se refiere el presente decreto, será el constituido por el Poder Ejecutivo del Estado de conformidad con el "Programa para el otorgamiento de prestaciones de Seguridad Social en favor de los Miembros de las Instituciones Policiales del Estado", publicado en el Periódico Oficial del Estado en fecha veintiuno de julio de dos mil veintitrés.
