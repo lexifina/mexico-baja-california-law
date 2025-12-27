@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)
+ARTÍCULO 142 BIS.- Es obligación de las personas integrantes de las Instituciones de Seguridad cumplir con los requisitos de permanencia establecidos en la presente Ley.
+El incumplimiento de los requisitos de permanencia a que se refiere el presente artículo no será considerado una falta administrativa, por lo que no dará lugar a la imposición de correctivos o sanciones previstas en el régimen disciplinario. Dicho incumplimiento deberá ser tramitado mediante el procedimiento de separación del servicio, conforme a lo establecido en la presente Ley y demás disposiciones aplicables.
