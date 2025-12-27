@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)
+Artículo 24 QUATER. Fiscalía Especializada en Derechos Humanos. La Fiscalía Especializada en Derechos Humanos es la Unidad Administrativa dependiente de la Fiscalía General del Estado que aplica el principio de especialización y estará a cargo de garantizar el respeto a los Derechos Humanos dentro de la Institución, promover y fortalecer la aplicación de políticas, criterios y lineamientos en materia de Derechos Humanos, en todas las direcciones y áreas de la Fiscalía General y fomentar la difusión de estos derechos entre el personal.
+Para el desarrollo de sus atribuciones contará con la Unidad de Atención a Víctimas, en los términos que disponga el reglamento correspondiente.

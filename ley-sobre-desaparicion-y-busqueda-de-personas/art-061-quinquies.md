@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)
+Artículo 61 Quinquies. Las instituciones públicas o privadas que generen o tengan acceso a imágenes y mediciones generadas por satélites, aeronaves no tripuladas o mediante otras tecnologías en el Estado, estarán obligadas a permitir su consulta a la Fiscalía Especializada y a la Comisión Local de Búsqueda exclusivamente para las acciones de búsqueda, localización, identificación e investigación de Personas Desaparecidas o No Localizadas en términos de la presente Ley.

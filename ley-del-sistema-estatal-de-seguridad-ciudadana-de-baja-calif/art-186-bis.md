@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2025)
+ARTÍCULO 186 BIS.- El derecho a reclamar los haberes, salarios y prestaciones devengadas prescribirá en el término de un año, cualquiera que sea la causa de su origen, contado a partir del día siguiente a aquel en que surta efectos la notificación respectiva; mientras que la acción para impugnar la remoción prescribirá en el plazo de cuatro meses, contado en igual forma.
