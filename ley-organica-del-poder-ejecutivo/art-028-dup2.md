@@ -1,0 +1,1 @@
+ARTÍCULO 28.- Fue reformado por Decreto No. 146 publicado en el Periódico Oficial No. 56, Índice, de fecha 16 de septiembre de 2025, Tomo CXXXII, expedido por la H. XXV Legislatura, siendo Gobernadora Constitucional la C. Marina del Pilar Ávila Olmeda 2021-2027;

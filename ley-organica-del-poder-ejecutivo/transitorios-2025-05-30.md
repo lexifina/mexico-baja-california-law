@@ -1,5 +1,5 @@
-P.O. 30 DE MAYO DE 2025.
-[N. DE E. TRANSITORIOS DEL "DECRETO NO. 95 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS".]
+ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO No. 95, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 21 Y 33; PUBLICADO EN EL PERIÓDICO OFICIAL No. 34, SECCIÓN II, DE FECHA 30 DE MAYO DE 2025, TOMO CXXXII; EXPEDIDO POR LA H. XXV LEGISLATURA, SIENDO GOBERNADORA CONSTITUCIONAL LA C. MARINA DEL PILAR ÁVILA OLMEDA 2021-2027.
+TRANSITORIOS
 Primero. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 Segundo. La Persona Titular del Poder Ejecutivo deberá realizar las modificaciones reglamentarias que resulten necesarias.
 Hasta en tanto se lleven a cabo las adecuaciones reglamentarias correspondientes a que se refiere este artículo, la Dirección General de la Agencia Digital del Estado funcionará conforme la estructura orgánica y ejercerá las atribuciones que le confieren las disposiciones reglamentarias vigentes en lo que no se contraponga a las presentes reformas.
@@ -11,3 +11,20 @@ Quinto. En la transferencia de personal que se realice con motivo de las present
 Sexto. Los contratos cuya naturaleza no sea laboral o burocrática, convenios y demás instrumentos que a la fecha de publicación del Decreto se encuentren vigentes, continuarán surtiendo sus efectos hasta en tanto no se sustituyan los derechos sobre los bienes o la materia de los mismos, o se den por terminados por cualquier medio.
 Séptimo. Los asuntos, actos o tramites que se encuentren en curso o estén pendientes de resolución o conclusión a la fecha de entrada en vigor de las presentes reformas, y que con motivo de estas deban ser transferidos de una dependencia o entidad a otra dependencia, pasarán a las dependencias que señale la presente Ley de conformidad con el inicio de vigencia de las presentes reformas y de lo dispuesto en el artículo Octavo Transitorio de esta reforma.
 Octavo. Las atribuciones en materia de política de tecnologías de la información y telecomunicaciones para las dependencias y entidades paraestatales de la Administración Pública, a que se refiere el artículo 33, fracción XXVIII de la presente Ley, que actualmente están a cargo de la Secretaría de Hacienda a través de la Subsecretaria de Tecnología de la Información y Comunicaciones, las seguirá ejerciendo hasta en tanto no se emita la norma respectiva y se transfieran a la Oficialía Mayor de Gobierno por sí o a través del órgano que se determine; supuesto en el cual dichas atribuciones quedarán circunscritas al ámbito de competencia que le atribuye esta Ley a la Secretaría de Hacienda, con independencia de la vinculación que deberá tener con la Oficialía Mayor de Gobierno o la Dirección General de la Agencia Digital del Estado para el ejercicio de sus atribuciones.
+DADO en Sesión Ordinaria de la XXV Legislatura en la Ciudad de Mexicali, B.C., a los veintidós días del mes de mayo del año dos mil veinticinco.
+DIP. MICHELLE ALEJANDRA TEJEDA MEDINA
+PRESIDENTA
+(RÚBRICA)
+DIP. NORMA ANGELICA PEÑALOZA ESCOBEDO
+SECRETARIA
+(RÚBRICA)
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCIÓN I DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, IMPRÍMASE Y PUBLÍQUESE.
+MEXICALI, BAJA CALIFORNIA, A LOS 26 DÍAS DEL MES DE MAYO DEL AÑO DOS MIL VEINTICINCO.
+MARINA DEL PILAR ÁVILA OLMEDA
+GOBERNADORA DEL ESTADO
+DE BAJA CALIFORNIA
+(RÚBRICA)
+ALFREDO ÁLVAREZ CÁRDENAS
+SECRETARIO GENERAL DE GOBIERNO
+DEL ESTADO DE BAJA CALIFORNIA
+(RÚBRICA)

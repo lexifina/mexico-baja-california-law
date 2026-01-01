@@ -1,0 +1,1 @@
+ARTÍCULO 25.- Fue reformado por Decreto No. 48 publicado en el Periódico Oficial No. 9, de fecha 31 de enero de 2025, Sección III, Tomo CXXXII, expedido por la H. XXV Legislatura, siendo Gobernadora Constitucional la C. Marina del Pilar Ávila Olmeda 2021-2027;

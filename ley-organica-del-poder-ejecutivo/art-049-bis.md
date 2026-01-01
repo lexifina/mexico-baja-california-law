@@ -1,5 +1,4 @@
-(ADICIONADO, P.O. 21 DE JULIO DE 2025)
-ARTÍCULO 49 BIS. La Secretaría de las Mujeres tendrá las atribuciones y obligaciones siguientes:
+ARTÍCULO 49 BIS.- La Secretaría de las Mujeres tendrá las atribuciones y obligaciones siguientes:
 I. Establecer y conducir la instrumentación, coordinación, supervisión, seguimiento, implementación y evaluación en el ámbito de su competencia, de la Política Estatal en materia de:
 a) Mujeres, adolescentes y niñas, igualdad sustantiva y transversalización de la perspectiva de género.
 b) Prevención, atención y erradicación de las violencias contra las mujeres, adolescentes y niñas.
@@ -51,3 +50,4 @@ XLII. Proponer, implementar y/o fomentar talleres y cursos de emprendimiento, pa
 XLIII. Diseñar, promover e implementar políticas públicas y acciones en materia de salud integral de las mujeres, con especial énfasis en la garantía de sus derechos sexuales y reproductivos, en coordinación con la Secretaría de Salud y las instituciones integrantes del Sistema Estatal de Salud;
 XLIV. Participar y representar al Estado en foros, redes y mecanismos de cooperación nacionales e internacionales en el ámbito de competencia de la Secretaría de las Mujeres; y.
 XLV. Las demás que señale el reglamento de esta Ley.
+Artículo Adicionado
