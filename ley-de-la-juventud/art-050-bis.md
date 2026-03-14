@@ -1,0 +1,2 @@
+ARTÍCULO 50 BIS.- Las y los jóvenes tienen derecho de movilidad, por lo tanto, el Estado promoverá y fomentará los medios para que puedan desplazarse, a través de las distintas modalidades del transporte público o privado, garantizando vialidades, accesos, dando prioridad a políticas de inclusión para las personas con discapacidad, asimismo el Estado y los Municipios normarán este derecho.
+Artículo Adicionado

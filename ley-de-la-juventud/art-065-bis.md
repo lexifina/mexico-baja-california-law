@@ -1,0 +1,8 @@
+ARTÍCULO 65 BIS.-Para el cumplimiento de los fines de la Red, así como el fortalecimiento de la Política y del Programa Estatal de Atención a la Juventud, el Instituto, en colaboración y coordinación con las instituciones municipales de la juventud de los Ayuntamientos, organizarán y desarrollarán los trabajos de la Audiencia Pública Juvenil, la cual será convocada, de manera enunciativa mas no limitativa, por lo menos una vez al año.
+La audiencia pública juvenil es un mecanismo de democracia participativa para la inclusión, consulta y participación de los jóvenes como parte de las prácticas de Gobierno Abierto. El Estado y los Municipios procurarán la participación más amplia posible de los jóvenes de la entidad en los trabajos de las audiencias públicas juveniles.
+Los resultados obtenidos por el desarrollo permanente de las audiencias públicas juveniles serán considerados para:
+El cumplimiento a la participación de los jóvenes en el diseño, planeación, programación, ejecución, seguimiento y evaluación de las políticas, planes, programas y acciones dirigidas a la juventud que estipula la fracción III del artículo 55 de la presente ley;
+La elaboración del informe que se integra al Sistema Estatal respecto a la situación que guarda el tema de la juventud en el Estado, previsto en el artículo 60 de la presente Ley;
+La recepción de las propuestas y opiniones de los jóvenes establecidas por el artículo 63 de la presente Ley para la elaboración del Programa Estatal; y
+La integración de la información con la cual debe contar la Red prevista en el artículo anterior.
+Artículo Adicionado
