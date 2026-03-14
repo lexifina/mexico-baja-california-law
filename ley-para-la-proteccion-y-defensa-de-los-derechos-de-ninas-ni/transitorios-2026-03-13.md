@@ -1,0 +1,3 @@
+P.O. 13 DE MARZO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 230 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 45 Y 55 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
