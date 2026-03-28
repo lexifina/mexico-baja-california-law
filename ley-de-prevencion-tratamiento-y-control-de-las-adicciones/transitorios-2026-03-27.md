@@ -1,0 +1,3 @@
+P.O. 27 DE MARZO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO No. 246 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 24 Y 25 DE LA LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
