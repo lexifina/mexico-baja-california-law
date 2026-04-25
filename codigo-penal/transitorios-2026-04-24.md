@@ -1,0 +1,5 @@
+P.O. 24 DE ABRIL DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 258 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA Y ASÍ MISMO SE APRUEBA LA CREACIÓN DE UN CAPÍTULO XII, DENOMINADO DEL REGISTRO ESTATAL DE AGRESORES DE ANIMALES Y LA ADICIÓN DE LOS DIVERSOS ARTÍCULOS A LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA".]
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+SEGUNDO.- Los procedimientos penales que se estén sustanciando a la entrada en vigor de las presentes reformas se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+TERCERO.- A las personas que hayan cometido el delito contemplado en las presentes reformas con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas les serán aplicables las disposiciones vigentes en el momento en que se haya cometido, de resultar menos gravosas.
