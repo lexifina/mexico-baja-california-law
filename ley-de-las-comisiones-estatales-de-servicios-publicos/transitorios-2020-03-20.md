@@ -1,0 +1,19 @@
+ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO No. 51, POR EL QUE SE REFOMAN LOS ARTÍCULOS 2, FRACCIÓN V Y 21; PUBLICADO EN EL PERIÓDICO OFICIAL No. 16, SECCIÓN III, TOMO CXXVII, DE FECHA 20 DE MARZO DE 2020, EXPEDIDO POR LA H. XXIII LEGISLATURA, SIENDO GOBERNADOR CONSTITUCIONAL EL C. JAIME BONILLA VALDEZ 2019-2024.
+ARTÍCULOS TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Las Comisiones Estatales de Servicios Públicos dentro de los 90 días naturales contados a partir de la entrada en vigor de la presente reforma, deberán realizar las modificaciones a los reglamentos que correspondan.
+DADO en el Salón de Sesiones "Lic. Benito Juárez García" del H. Poder Legislativo del Estado de Baja California, en la Ciudad de Mexicali, B.C., a los dieciocho días del mes de marzo del año dos mil veinte.
+DIP. VÍCTOR MANUEL MORÁN HERNÁNDEZ
+PRESIDENTE
+(RÚBRICA)
+DIP. CARMEN LETICIA HERNÁNDEZ CARMONA
+SECRETARIA
+(RÚBRICA)
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCIÓN I DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, IMPRÍMASE Y PUBLÍQUESE.
+MEXICALI, BAJA CALIFORNIA, A LOS DIECINUEVE DÍAS DEL MES DE MARZO DEL AÑO DOS MIL VEINTE.
+JAIME BONILLA VALDEZ
+GOBERNADOR DEL ESTADO
+(RÚBRICA)
+AMADOR RODRÍGUEZ LOZANO
+SECRETARIO GENERAL DE GOBIERNO
+(RÚBRICA)

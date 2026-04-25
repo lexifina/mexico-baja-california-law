@@ -1,0 +1,19 @@
+ARTÍCULO TERCERO TRANSITORIO DEL DECRETO No. 67, POR EL QUE SE REFOMAN LOS ARTÍCULOS 5 Y 7; PUBLICADO EN EL PERIÓDICO OFICIAL No. 25, NÚMERO ESPECIAL, TOMO CXXVII, DE FECHA 12 DE MAYO DE 2020, EXPEDIDO POR LA H. XXIII LEGISLATURA, SIENDO GOBERNADOR CONSTITUCIONAL EL C. JAIME BONILLA VALDEZ 2019-2021.
+ARTÍCULOS TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Cada Comisión Estatal de Servicios Públicos deberá presentar al Ejecutivo Estatal las reformas a sus Reglamento Internos en apego a la presente reforma, para su aprobación y publicación.
+DADO en el Salón de Sesiones "Lic. Benito Juárez García" del H. Poder Legislativo del Estado de Baja California, en la Ciudad de Mexicali, B.C., a los once días del mes de mayo del año dos mil veinte.
+DIP. LUIS MORENO HERNÁNDEZ
+PRESIDENTE
+(RÚBRICA)
+DIP. EVA GRICELDA RODRÍGUEZ
+SECRETARIA
+(RÚBRICA)
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCIÓN I DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, IMPRÍMASE Y PUBLÍQUESE.
+MEXICALI, BAJA CALIFORNIA, A LOS DOCE DÍAS DEL MES DE MAYO DEL AÑO DOS MIL VEINTE.
+JAIME BONILLA VALDEZ
+GOBERNADOR DEL ESTADO
+(RÚBRICA)
+AMADOR RODRÍGUEZ LOZANO
+SECRETARIO GENERAL DE GOBIERNO
+(RÚBRICA)
