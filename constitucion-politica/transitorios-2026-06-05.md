@@ -1,0 +1,7 @@
+P.O. 5 DE JUNIO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 277 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+PRIMERO. Aprobada la presente reforma por el pleno del Congreso del Estado, remítase a los Ayuntamientos del Estado de Baja California para el trámite previsto en el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+SEGUNDO. Agotado el proceso legislativo y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+CUARTO. Dentro de los 360 días naturales siguientes, contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado de Baja California, el Honorable Congreso del Estado de Baja California deberá expedir la Ley reglamentaria del artículo 7, Apartado A, de la Constitución Política del Estado Libre y Soberano de Baja California, relativa al sistema de cuidados.
+QUINTO. Las entidades, dependencias y organismos públicos del orden estatal y municipal operarán el sistema de cuidados de acuerdo con su disponibilidad presupuestal, en los términos de la legislación secundaria que en su momento se expida.
