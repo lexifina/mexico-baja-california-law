@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 5 DE JUNIO DE 2026)
+ARTÍCULO 137 BIS.- Lesiones con dolo eventual.- Cuando el daño en la salud de una persona sea consecuencia de una conducta en la que el agente, previendo como posible el resultado lesivo, lo acepte y actúe con indiferencia a su producción, se considerará que las lesiones fueron causadas dolosamente bajo la modalidad de dolo eventual. En estos casos, se aplicarán las penalidades previstas en el artículo 124 BIS del presente Código, atendiendo a la gravedad del daño ocasionado.
