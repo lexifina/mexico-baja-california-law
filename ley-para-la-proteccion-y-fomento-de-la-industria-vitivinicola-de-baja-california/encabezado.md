@@ -1,0 +1,3 @@
+LEY PARA LA PROTECCIÓN Y FOMENTO DE LA INDUSTRIA VITIVINÍCOLA
+DE BAJA CALIFORNIA
+Publicada en el Periódico Oficial No. 32, de fecha 05 de junio de 2026,
