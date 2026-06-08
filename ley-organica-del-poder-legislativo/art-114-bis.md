@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 5 DE JUNIO DE 2026)
+ARTICULO 114 BIS.- Las proposiciones que contengan exhortos a otras autoridades o entidades públicas, aprobadas por el Pleno del Congreso del Estado, deberán ser atendidas y respondidas por escrito en un plazo no mayor a treinta días naturales, contados a partir de su notificación oficial.
+Cuando la autoridad exhortada no pueda atender el exhorto dentro de dicho plazo, deberá remitir al Congreso una justificación por escrito en la que exponga las causas que impiden su atención oportuna y, en su caso, indique un plazo estimado para su cumplimiento o resolución que no exceda de quince días adicionales.
+La falta de respuesta o el incumplimiento injustificado serán informados por la Mesa Directiva al Pleno del Congreso, a efecto de que se determinen las acciones parlamentarias correspondientes.
