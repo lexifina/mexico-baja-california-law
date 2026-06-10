@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2025)
+ARTICULO 30 BIS.- El espacio mínimo destinado a cada animal para su venta deberá determinarse conforme a su especie, peso, talla y altura para garantizar su protección y cuidado.
+En los procesos de venta deberá privilegiarse aquella que se realice mediante medios remotos o a través de herramientas tecnológicas que eviten el contacto físico directo entre el animal destinado a la venta y el público interesado en su adquisición, siempre y cuando se cumpla con la normatividad federal y local en materia de protección, cuidado, trato digno y respetuoso a los animales.
+Asimismo, cuando la exhibición de animales silvestres tenga como finalidad su venta como mascota o animal de compañía, también se privilegiará la que se pueda realizar a través de medios remotos o el uso de herramientas tecnológicas que eviten el contacto físico directo entre el ejemplar y el público interesado en su adquisición.
