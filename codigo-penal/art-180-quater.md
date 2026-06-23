@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE JUNIO DE 2026)
+Artículo 180 QUATER.- De la reparación del daño.- Adicional a la sanción establecida en los artículos 180 y 180 BIS, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que debe incluir, entre otras medidas, las establecidas en la Ley General de Víctimas, la atención psicológica especializada a la víctima, hasta su total reparación.
