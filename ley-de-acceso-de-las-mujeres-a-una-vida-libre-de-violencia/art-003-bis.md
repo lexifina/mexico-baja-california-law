@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2023)
-Artículo 3 BIS. Las víctimas directas o indirectas de cualquier tipo de violencia tendrán los derechos siguientes:
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2026)
+Artículo 3 BIS. Las víctimas directas o indirectas de cualquier tipo de violencias tendrán los derechos siguientes:
 (ADICIONADA, P.O. 9 DE JUNIO DE 2023)
 I. Contar con protección inmediata y efectiva por parte de las autoridades competentes;
 (ADICIONADA, P.O. 9 DE JUNIO DE 2023)
