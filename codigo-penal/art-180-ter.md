@@ -1,10 +1,14 @@
-(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)
-Artículo 180 TER.- Agravación de la punibilidad.- Las penas previstas en los artículos 180 y 180 Bis, se aumentarán hasta en una mitad, cuando en el abuso sexual concurra alguna de las circunstancias siguientes:
-I.- Cuando fuere cometido por persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que le ejerciere sobre la víctima, así como los derechos sucesorios con respecto del ofendido,
-II.- Cuando fuere cometido por persona que tenga al ofendido, bajo su custodia, guarda o educación o aproveche la confianza en el depositada,
-(REFORMADA, P.O. 14 DE FEBRERO DE 2025)
-III.- Cuando fuere cometido por quien desempeñe un cargo, empleo o comisión público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el sentenciado será destituido del cargo o empleo o suspendido por el término igual al de la pena de prisión.
-(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2015)
-IV.- Cuando el delito fuere cometido dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso.
-(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)
-V.- Cuando para su realización se le haya suministrado a la víctima drogas, estupefacientes, psicotrópicos o agentes químicos.
+(REFORMADO, P.O. 22 DE JUNIO DE 2026)
+Artículo 180 TER.- Agravación de la punibilidad.- Las penas previstas en los artículos 180 y 180 BIS se aumentarán en una mitad, cuando el abuso sexual se cometa en cualquiera de las siguientes circunstancias:
+I.- Con violencia física, psicológica o moral;
+II.- Por dos o más personas;
+III.- En un lugar despoblado, solitario o poco accesible;
+IV.- Cuando exista o haya existido entre la persona agresora y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
+V.- Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica;
+VI.- Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio del servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio, de otras sanciones administrativas o civiles que correspondan;
+VII.- Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio, de otras sanciones administrativas o civiles;
+VIII.- Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
+IX.- Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+X.- Cuando la víctima se encuentre en estado de embarazo o puerperio;
+XI.- Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género; y
+XII.- Cuando la víctima se encuentre en estado de indefensión.
