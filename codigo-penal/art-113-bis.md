@@ -1,2 +1,2 @@
-(REFORMADO, P.O. 17 DE ABRIL DE 2026)
-Artículo 113 BIS.- En el caso de los delitos previstos por los artículos 123, 176, 177, 178, 180, 180 BIS, 184 QUATER, 238, 261, 261 SEXTIES, 262, 262 TER, 262 QUARTER y 264 de este Código, la acción penal será imprescriptible cuando se cometan contra persona menor de dieciocho años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo.
+(REFORMADO, P.O. 22 DE JUNIO DE 2026)
+Artículo 113 BIS.- En el caso de los delitos previstos por los artículos 123, 175 SEXTIES, 176, 177, 178, 180, 180 BIS, 184 QUATER, 238, 261, 261 SEXTIES, 262, 262 TER, 262 QUARTER y 264 de este Código, la acción penal será imprescriptible cuando se cometa en contra de persona menor de dieciocho años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo.
