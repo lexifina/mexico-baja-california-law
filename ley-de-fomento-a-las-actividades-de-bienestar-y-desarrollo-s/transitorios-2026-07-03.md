@@ -1,0 +1,3 @@
+P.O. 3 DE JULIO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 294 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 12 Y 16 DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
