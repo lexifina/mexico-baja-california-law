@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE AGOSTO DE 2026)
+Artículo 181 BIS. - Excluyente de responsabilidad.- Las conductas tipificadas en los artículos 177, 178 y 180 BIS de este Código, no generarán responsabilidad penal cuando se realicen entre personas que hayan cumplido los catorce y menores de dieciocho años, no exista diferencia de edad mayor a dos años entre ellas y haya existido el consentimiento expreso, libre, voluntario, específico, reversible e indubitable.
