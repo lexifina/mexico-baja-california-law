@@ -1,2 +1,4 @@
 (REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)
 ARTICULO 200 BIS.- El Arancel de Notarios expedido por el Ejecutivo del Estado, deberá estipular los honorarios respectivos con base en una perspectiva de beneficio social, cuando se trate de la enajenación de bienes inmuebles cuyo valor convencional no sea mayor de la cantidad que resulte de multiplicar por veinticinco veces el valor diario de la Unidad de Medida y Actualización vigente elevado al año, de la constitución o transmisión de derechos reales o que garanticen un crédito no mayor a dicha suma, así como de la intervención de los notarios en los testamentos.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2026)
+El Ejecutivo del Estado garantizará que los testamentos otorgados durante el mes de septiembre de cada año gocen de un descuento que será determinado en el Arancel de Notarios.
