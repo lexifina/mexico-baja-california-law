@@ -1,4 +1,4 @@
-(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)
-ARTICULO 81 BIS.- En el desempeño de sus funciones, la Unidad de Contraloría Interna contará con el apoyo y la colaboración de las personas Titulares de las Direcciones y Unidades Auxiliares del Congreso y de la Auditoría Superior del Estado.
-La persona Titular de la Unidad podrá designar dentro de su estructura orgánica a las y los servidores públicos que fungirán como autoridades investigadora, substanciadora y en su caso resolutora respectivamente, en donde la función de la Autoridad Substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora, conforme a lo dispuesto en la ley de la materia.
-La persona Titular de la Unidad de Contraloría Interna deberá rendir informe de actividades a la Mesa Directiva por lo menos dos veces al año.
+(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2026)
+ARTICULO 81 BIS.- En el desempeño de sus funciones, la Contraloría Interna contará con el apoyo y la colaboración de las personas Titulares de las Direcciones y Unidades Auxiliares del Congreso y de las áreas homologas de la Auditoría Superior del Estado.
+La persona Titular de la Contraloría Interna podrá designar dentro de su estructura orgánica a las personas servidoras públicas que funjan como autoridades investigadoras, substanciadora y, en su caso, resolutora, en donde la función de la Autoridad Substanciadora, no podrá ser ejercida por quien tenga funciones de Autoridad investigadora, conforme a lo dispuesto en la ley de la materia.
+La persona Titular de la Contraloría Interna deberá rendir informe de actividades a la Mesa Directiva por lo menos dos veces al año.
