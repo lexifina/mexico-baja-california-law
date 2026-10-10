@@ -1,0 +1,2 @@
+LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
+Publicada en el Periódico Oficial, No 73, de fecha 15 de diciembre de 2025, Número Especial, Tomo CXXXII.
