@@ -1,0 +1,2 @@
+ARTÍCULO 63 QUÁTER.- Cometerá nepotismo la persona servidora pública que, valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente designe, nombre o intervenga para que se contrate como personal de confianza, de estructura, de base o por honorarios en el ente público en que ejerza sus funciones, a personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato.
+Artículo Adicionado
