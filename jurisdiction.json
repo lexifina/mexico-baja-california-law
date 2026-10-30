@@ -1,0 +1,11 @@
+{
+  "path": "mx-bcn",
+  "code": "MX-BCN",
+  "name": "Baja California",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-baja-california-law",
+  "build": "built: constitution, codes and laws (143 ordenamientos, 1936 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}

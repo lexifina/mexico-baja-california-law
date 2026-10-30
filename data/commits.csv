@@ -1,0 +1,1299 @@
+day,kind,law,acts,files,branch
+1953-08-16,start,constitucion-1953-08-16-23,constitucion-politica,115,main
+1954-01-03,start,ley-1953-12-31-alcance-3-seccion-v,ley-de-hacienda-municipal,203,main
+1954-12-10,start,ley-1954-12-10-37,ley-de-sociedades-mutualistas,9,main
+1954-12-31,law,decreto-1954-12-31-alcance-39-seccion-vi,ley-de-hacienda-municipal,4,main
+1955-05-20,law,decreto-1955-05-20-53,ley-de-hacienda-municipal,7,main
+1956-01-13,law,decreto-1956-01-10-76-seccion-iv,ley-de-hacienda-municipal,2,main
+1956-06-10,law,decreto-1956-06-10-alcance-no-3-al-no-91,constitucion-politica,6,main
+1957-03-03,start,ley-1957-02-28-117-alcance,ley-organica-de-la-universidad-autonoma,48,main
+1957-12-03,law,decreto-1957-11-30-145,ley-de-sociedades-mutualistas,3,main
+1958-02-28,law,decreto-1958-02-28-154,ley-organica-de-la-universidad-autonoma,2,main
+1958-11-03,law,decreto-1958-10-31-178,ley-de-hacienda-municipal,2,main
+1959-01-03,law,decreto-1958-12-31-184,ley-de-hacienda-municipal,6,main
+1960-09-01,start,ley-1960-08-31-244,ley-de-indulto-para-los-reos-del-fuero-comun,20,main
+1960-09-01,start,ley-1960-08-31-244,ley-reglamentaria-de-la-federal-de-tierras-ociosas-del-23-de,21,main
+1966-04-21,law,decreto-1966-04-20-11,ley-organica-de-la-universidad-autonoma,2,main
+1966-10-01,law,decreto-1966-06-10-16,constitucion-politica,5,main
+1967-01-03,law,decreto-1966-12-31-36,ley-de-hacienda-municipal,3,main
+1967-07-21,start,ley-1967-07-20-20,ley-de-compatibilidad-de-funciones-empleos-y-comisiones,15,main
+1968-01-03,law,reforma-1967-12-31-38,ley-de-hacienda-municipal,8,main
+1968-06-30,law,decreto-1968-06-30-19,constitucion-politica,4,main
+1969-04-11,start,ley-1969-04-11-12,ley-del-impuesto-sobre-alcoholes-y-bebidas-alcoholicas,60,main
+1971-02-09,law,decreto-1971-01-10-1,constitucion-politica,7,main
+1971-09-21,law,decreto-1971-09-20-27,ley-del-impuesto-sobre-alcoholes-y-bebidas-alcoholicas,7,main
+1971-12-21,law,decreto-1971-12-20-36,constitucion-politica,9,main
+1971-12-31,law,decreto-1971-12-31-37-seccion-xi,ley-del-impuesto-sobre-alcoholes-y-bebidas-alcoholicas,19,main
+1973-01-01,start,ley-1972-12-31-37-seccion-xiii,ley-de-hacienda,173,main
+1973-03-01,law,decreto-1973-02-28-6-seccion-i,ley-de-hacienda ley-de-hacienda-municipal,8,main
+1973-03-01,law,decreto-1973-02-28-6-seccion-i-2,ley-de-hacienda,8,main
+1973-03-01,law,decreto-1973-02-28-6-seccion-i-3,ley-de-hacienda,2,main
+1973-04-30,law,decreto-1973-04-30-12,ley-de-hacienda,3,main
+1973-06-30,law,decreto-1973-06-30-18,ley-de-hacienda,2,main
+1973-07-31,start,ley-1973-07-31-21-seccion-i,ley-general-de-bienes,62,main
+1974-03-01,law,decreto-1974-02-28-6-seccion-i,ley-de-hacienda ley-del-impuesto-sobre-alcoholes-y-bebidas-alcoholicas,11,main
+1974-03-02,start,codigo-1974-01-31-3-seccion-i,codigo-civil,2914,main
+1974-03-02,start,codigo-1974-01-31-3-seccion-ii,codigo-de-procedimientos-civiles,976,main
+1974-03-12,law,decreto-1974-02-10-4,constitucion-politica,5,main
+1974-03-13,law,decreto-1974-03-10-7,ley-de-hacienda,8,main
+1974-08-31,law,decreto-1974-08-31-24,ley-de-hacienda,2,main
+1974-12-21,law,declaratoria-1974-12-20-35,codigo-civil,3,main
+1975-01-03,law,decreto-1974-12-31-36-seccion-xi,ley-de-hacienda,44,main
+1975-02-01,law,decreto-1975-01-31-3,codigo-civil,7,main
+1975-06-21,law,decreto-1975-06-20-17,codigo-civil codigo-de-procedimientos-civiles,55,main
+1975-06-23,law,decreto-1975-06-20-17,ley-de-hacienda,3,main
+1975-07-10,law,decreto-1975-07-10-19,ley-de-hacienda-municipal,2,main
+1976-02-01,law,decreto-1976-01-31-3,ley-de-hacienda,24,main
+1976-02-01,law,decreto-1976-01-31-3-seccion-i,ley-de-hacienda,2,main
+1976-05-13,law,decreto-1976-05-10-13,ley-de-hacienda,2,main
+1976-08-21,law,decreto-1976-08-20-23,ley-de-hacienda,2,main
+1976-10-21,law,decreto-1976-10-20-29,codigo-civil,2,main
+1977-02-11,law,decreto-1977-02-10-4,ley-de-hacienda,23,main
+1977-03-11,start,ley-1977-03-10-7-seccion-i,ley-de-aranceles,44,main
+1977-03-11,law,ley-1977-03-10-7-seccion-i,codigo-de-procedimientos-civiles,2,main
+1977-05-31,law,decreto-1977-05-31-15,ley-de-hacienda,2,main
+1978-08-09,law,decreto-1978-07-20-20,codigo-civil,11,main
+1979-01-01,law,decreto-1978-12-31-36,ley-de-hacienda ley-del-impuesto-sobre-alcoholes-y-bebidas-alcoholicas,49,main
+1979-02-11,law,decreto-1979-02-10-4-seccion-i,constitucion-politica,10,main
+1979-02-11,law,decreto-1979-02-10-4,codigo-civil,3,main
+1979-07-01,law,decreto-1979-06-30-18,codigo-civil,5,main
+1979-07-30,law,decreto-1979-07-20-20-seccion-i,codigo-de-procedimientos-civiles,47,main
+1979-09-21,law,decreto-1979-09-20-26-seccion-i,codigo-civil ley-general-de-bienes,30,main
+1979-11-21,law,decreto-1979-11-20-32,constitucion-politica,11,main
+1979-12-10,law,fe-de-erratas-1979-12-10-34,constitucion-politica,2,main
+1980-01-03,law,decreto-1979-12-31-36-seccion-xi,ley-de-hacienda,76,main
+1980-01-03,law,decreto-1979-12-31-36-seccion-xi-2,ley-de-hacienda,2,main
+1980-02-11,law,decreto-1980-02-10-4,ley-de-hacienda,2,main
+1980-06-13,law,decreto-1980-06-10-16,ley-de-hacienda,2,main
+1980-08-01,start,ley-1980-07-31-21,ley-que-otorga-ayuda-economica-a-los-pensionados-del-sistema,8,main
+1980-09-23,law,decreto-1980-09-20-26-seccion-ii,codigo-civil codigo-de-procedimientos-civiles,56,main
+1981-01-03,law,decreto-1980-12-31-36-seccion-xi,ley-de-hacienda,34,main
+1981-08-21,start,ley-1981-08-20-23-seccion-i,ley-de-urbanizacion,108,main
+1981-12-11,law,ley-1981-12-10-34-seccion-i,ley-de-hacienda,3,main
+1982-01-03,law,fe-de-erratas-1981-12-31-36,ley-de-hacienda,27,main
+1982-07-11,law,decreto-1982-07-10-19-seccion-ii,ley-de-urbanizacion,3,main
+1982-08-01,law,decreto-1982-07-31-21,ley-de-hacienda,5,main
+1983-02-21,law,decreto-1983-02-20-5,constitucion-politica,4,main
+1983-04-21,law,decreto-1983-04-20-11,ley-de-hacienda,17,main
+1983-05-11,start,ley-1983-05-10-13-seccion-ii,ley-organica-del-registro-civil,72,main
+1983-05-11,law,decreto-1983-05-10-13-seccion-i,codigo-de-procedimientos-civiles,4,main
+1983-05-11,law,decreto-1983-05-10-13-seccion-ii,codigo-civil,79,main
+1983-06-11,law,decreto-1983-06-10-16,codigo-civil,3,main
+1983-07-01,law,decreto-1983-06-30-18-seccion-ii,ley-organica-de-la-universidad-autonoma,2,main
+1983-07-01,law,decreto-1983-06-30-18-seccion-ii-2,ley-organica-de-la-universidad-autonoma,2,main
+1983-07-21,law,decreto-1983-07-20-20,ley-de-hacienda,6,main
+1984-01-01,law,decreto-1983-12-31-39-seccion-xi,constitucion-politica,10,main
+1984-02-01,law,decreto-1984-01-31-3-seccion-i,constitucion-politica,15,main
+1984-12-01,law,decreto-1984-11-30-33-seccion-i,ley-de-urbanizacion,21,main
+1985-11-11,law,decreto-1985-11-10-32,codigo-civil,2,main
+1986-01-01,law,decreto-1985-12-31-37-seccion-xi,constitucion-politica,5,main
+1986-02-11,law,decreto-1986-02-10-4-seccion-i,constitucion-politica,6,main
+1986-10-01,law,decreto-1986-09-30-27,constitucion-politica codigo-civil,11,main
+1986-11-01,law,decreto-1986-10-31-30,ley-de-urbanizacion,5,main
+1987-08-30,law,decreto-1987-07-31-21,codigo-civil,19,main
+1987-09-09,law,decreto-1987-08-10-22,codigo-de-procedimientos-civiles,156,main
+1988-01-03,start,ley-1987-12-31-36-seccion-xi,ley-de-coordinacion-fiscal,16,main
+1988-02-21,law,decreto-1988-02-20-5,ley-de-hacienda,2,main
+1988-05-21,law,decreto-1988-05-20-14,constitucion-politica,17,main
+1988-12-01,law,decreto-1988-11-30-33,codigo-de-procedimientos-civiles,5,main
+1989-01-01,start,codigo-1988-12-31-36-seccion-xii,codigo-fiscal,185,main
+1989-01-01,law,decreto-1988-12-31-36-seccion-xi,ley-de-hacienda,78,main
+1989-01-01,law,decreto-1988-12-31-36-seccion-xiii,ley-de-hacienda-municipal,25,main
+1989-04-01,start,ley-1989-03-31-9,ley-de-fondo-auxiliar-para-la-administracion-de-justicia,14,main
+1989-09-19,start,codigo-1989-08-20-23-seccion-ii,codigo-penal,340,main
+1989-10-01,law,decreto-1989-09-30-27,ley-de-compatibilidad-de-funciones-empleos-y-comisiones,3,main
+1989-10-21,start,ley-1989-10-20-29-seccion-i,ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,154,main
+1989-12-01,law,decreto-1989-08-20-23-seccion-iv,ley-de-coordinacion-fiscal,4,main
+1989-12-03,law,decreto-1989-11-30-33,ley-de-coordinacion-fiscal,4,main
+1989-12-11,law,decreto-1989-12-10-34,codigo-fiscal,25,main
+1989-12-29,law,decreto-1989-09-30-27-seccion-i,constitucion-politica,12,main
+1989-12-29,law,decreto-1989-09-30-27,constitucion-politica,9,main
+1991-07-01,law,decreto-1991-06-30-18,ley-de-hacienda-municipal,2,main
+1991-11-01,law,decreto-1991-10-31-30,ley-de-hacienda,5,main
+1992-01-01,law,decreto-1991-12-31-36,ley-de-urbanizacion,2,main
+1992-01-11,law,decreto-1992-01-10-1,ley-de-hacienda,8,main
+1992-03-11,law,decreto-1992-03-10-8,constitucion-politica codigo-penal,12,main
+1992-05-11,law,decreto-1992-05-10-14,ley-de-hacienda,2,main
+1992-07-01,law,decreto-1992-06-30-21,codigo-penal,12,main
+1992-10-01,law,decreto-1992-09-30-31,codigo-civil,5,main
+1992-10-11,law,decreto-1992-10-10-32,codigo-penal,3,main
+1992-10-11,law,decreto-1992-10-10-32-2,codigo-penal,2,main
+1992-10-11,law,decreto-1992-10-10-32-3,codigo-penal,7,main
+1992-11-11,start,ley-1992-11-10-35,ley-del-periodico-oficial,12,main
+1992-12-12,start,ley-1992-12-11-40-seccion-i,ley-que-crea-el-organismo-descentralizado-denominado-institu,23,main
+1992-12-12,law,decreto-1992-12-11-40-seccion-i,ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,5,main
+1993-01-01,law,decreto-1992-12-31-43-seccion-i,ley-de-hacienda,6,main
+1993-06-05,law,decreto-1993-06-04-23,constitucion-politica,5,main
+1993-07-17,law,decreto-1993-07-16-29,codigo-civil,2,main
+1993-09-18,law,decreto-1993-09-17-38,codigo-civil ley-de-hacienda,5,main
+1993-10-30,law,decreto-1993-10-29-44,ley-de-hacienda,10,main
+1993-11-13,law,decreto-1993-11-12-46-seccion-i,ley-de-hacienda-municipal,2,main
+1993-12-25,law,decreto-1993-12-24-53,codigo-penal,4,main
+1994-02-22,start,ley-1993-12-24-53,ley-que-establece-las-bases-minimas-para-el-control-de-la-ex,15,main
+1994-03-12,law,decreto-1994-03-11-10,ley-de-hacienda-municipal,2,main
+1994-05-07,law,decreto-1994-05-06-18,constitucion-politica,4,main
+1994-06-25,start,ley-1994-06-24-26-seccion-iii,ley-de-edificaciones,78,main
+1994-07-09,law,decreto-1994-07-08-28,codigo-penal,4,main
+1994-07-24,start,ley-1994-06-24-26-seccion-i,ley-de-desarrollo-urbano,249,main
+1994-09-03,start,ley-1994-09-02-36-seccion-i,ley-del-catastro-inmobiliario,56,main
+1994-09-03,law,decreto-1994-09-02-36-seccion-ii,codigo-penal,18,main
+1994-12-15,law,decreto-1994-12-14-51-numero-especial,constitucion-politica,20,main
+1995-01-14,law,decreto-1995-01-13-2,ley-de-hacienda-municipal,2,main
+1995-05-27,law,decreto-1995-05-26-21-seccion-i,codigo-de-procedimientos-civiles,990,main
+1995-07-01,law,decreto-1995-06-16-25,codigo-penal,2,main
+1995-08-05,law,decreto-1995-08-04-37-seccion-ii,codigo-penal,15,main
+1995-09-26,law,decreto-1995-09-25-47-numero-especial,constitucion-politica,19,main
+1995-10-05,start,ley-1995-10-04-49-numero-especial,ley-organica-del-poder-judicial,245,main
+1995-10-14,law,decreto-1995-10-13-51,codigo-civil,2,main
+1995-10-21,law,decreto-1995-10-20-52,codigo-civil,2,main
+1996-09-23,law,decreto-1996-09-20-45,codigo-civil ley-de-desarrollo-urbano,7,main
+1996-11-09,law,decreto-1996-11-08-54-seccion-i,ley-general-de-bienes,5,main
+1996-12-23,law,decreto-1996-12-20-60,constitucion-politica,5,main
+1996-12-28,law,decreto-1996-12-27-61,ley-de-hacienda ley-de-urbanizacion,7,main
+1997-01-01,law,decreto-1996-12-31-62-seccion-ix-numero-especial,codigo-fiscal,4,main
+1997-01-03,law,decreto-1996-12-31-62-seccion-ix,ley-de-hacienda,16,main
+1997-01-04,law,decreto-1997-01-03-1,codigo-civil codigo-penal,7,main
+1997-02-17,law,decreto-1997-02-14-7,constitucion-politica,3,main
+1997-02-22,law,decreto-1997-02-21-8,ley-general-de-bienes,2,main
+1997-05-05,law,decreto-1997-05-02-18,ley-de-hacienda-municipal,2,main
+1997-05-10,law,decreto-1997-05-09-19,constitucion-politica,3,main
+1997-05-24,law,decreto-1997-05-23-21-seccion-i,ley-organica-del-poder-judicial,5,main
+1997-06-07,law,decreto-1997-06-06-23,codigo-penal,4,main
+1997-07-05,law,decreto-1997-07-04-27,codigo-penal,2,main
+1997-10-04,law,decreto-1997-10-03-40-seccion-i,constitucion-politica,2,main
+1997-10-04,law,decreto-1997-10-03-40-seccion-i-2,constitucion-politica,4,main
+1997-10-07,law,decreto-1997-10-06-41-seccion-especial,constitucion-politica,33,main
+1997-12-09,start,ley-1997-12-08-50-seccion-i,ley-de-proteccion-a-los-animales-domesticos,65,main
+1997-12-20,law,decreto-1997-12-19-52,ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,2,main
+1997-12-27,law,decreto-1997-12-26-53-seccion-i,codigo-de-procedimientos-civiles,17,main
+1997-12-29,law,decreto-1997-12-26-53-seccion-i,codigo-fiscal,4,main
+1998-01-01,law,decreto-1997-12-26-53-seccion-i,ley-de-hacienda-municipal,7,main
+1998-01-01,law,decreto-1997-12-31-54-seccion-ix-numero-especial,constitucion-politica,5,main
+1998-02-07,start,ley-1998-02-06-6,ley-para-fomentar-la-donacion-altruista-en-materia-alimentar,22,main
+1998-02-21,law,decreto-1998-02-20-8,constitucion-politica,5,main
+1998-02-23,law,decreto-1998-02-20-8,ley-de-hacienda,7,main
+1998-03-21,law,decreto-1998-03-20-12,constitucion-politica,3,main
+1998-04-18,law,decreto-1998-04-17-16,ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,4,main
+1998-05-05,law,decreto-1998-05-04-18-seccion-i,codigo-fiscal,52,main
+1998-05-07,law,decreto-1998-05-04-18-seccion-i,ley-organica-del-poder-judicial,74,main
+1998-06-13,law,decreto-1998-06-12-24-seccion-i,codigo-penal,85,main
+1998-07-25,law,decreto-1998-07-24-30,codigo-fiscal,4,main
+1998-08-08,start,ley-1998-08-07-32-seccion-i,ley-de-entrega-y-recepcion-de-los-asuntos-y-recursos-publico,24,main
+1998-08-29,law,decreto-1998-08-28-35-seccion-i,constitucion-politica codigo-de-procedimientos-civiles codigo-penal ley-organica-del-poder-judicial,18,main
+1998-09-26,law,decreto-1998-09-25-39,codigo-civil codigo-penal,6,main
+1998-11-07,law,decreto-1998-11-06-45,ley-de-desarrollo-urbano ley-de-hacienda-municipal,4,main
+1998-11-28,law,decreto-1998-11-27-48,ley-general-de-bienes,3,main
+1998-11-28,law,decreto-1998-11-27-48-seccion-ii,constitucion-politica,12,main
+1998-12-04,law,decreto-1998-12-04-49,ley-organica-del-poder-judicial,2,main
+1999-01-16,law,decreto-1999-01-15-3,constitucion-politica,4,main
+1999-01-16,law,decreto-1999-01-15-3-2,constitucion-politica,2,main
+1999-01-16,law,decreto-1999-01-15-3-3,constitucion-politica,2,main
+1999-01-16,law,decreto-1999-01-15-3-4,constitucion-politica,6,main
+1999-01-16,law,decreto-1999-01-15-3-5,constitucion-politica,3,main
+1999-01-16,law,decreto-1999-01-15-3-6,constitucion-politica,2,main
+1999-01-25,law,decreto-1999-01-22-4,codigo-fiscal,8,main
+1999-02-09,law,decreto-1999-02-08-6,constitucion-politica,9,main
+1999-04-10,law,decreto-1999-04-09-16,codigo-penal,6,main
+1999-05-03,law,decreto-1999-04-30-19,ley-del-periodico-oficial,4,main
+1999-07-24,law,decreto-1999-07-23-31,ley-de-hacienda-municipal,2,main
+1999-09-17,law,decreto-1999-09-17-39,ley-organica-del-poder-judicial,2,main
+1999-09-18,law,decreto-1999-09-17-39,constitucion-politica,6,main
+1999-10-02,law,decreto-1999-10-01-41,codigo-penal,13,main
+1999-10-30,law,decreto-1999-10-29-45,constitucion-politica,6,main
+1999-11-13,law,decreto-1999-11-12-47,codigo-penal ley-de-hacienda,6,main
+1999-12-11,law,decreto-1999-12-10-51-seccion-i,codigo-civil codigo-de-procedimientos-civiles,40,main
+2000-01-22,law,decreto-2000-01-21-3,ley-de-hacienda-municipal,2,main
+2000-02-19,law,decreto-2000-02-18-7-seccion-i,codigo-penal ley-organica-del-registro-civil,7,main
+2000-02-26,law,decreto-2000-02-25-8,ley-de-hacienda,5,main
+2000-04-08,law,decreto-2000-04-07-14,ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,2,main
+2000-10-07,law,decreto-2000-10-06-42-seccion-ii,constitucion-politica,5,main
+2000-10-21,law,decreto-2000-10-20-45-seccion-ii,codigo-civil codigo-de-procedimientos-civiles,24,main
+2000-11-04,law,decreto-2000-11-03-48-seccion-i,codigo-civil ley-de-edificaciones,6,main
+2000-12-05,law,decreto-2000-12-04-52,codigo-fiscal ley-de-hacienda,66,main
+2000-12-25,law,decreto-2000-12-22-55-seccion-ii,ley-de-hacienda,2,main
+2001-01-01,law,decreto-2000-12-31-57-seccion-x,ley-de-coordinacion-fiscal,15,main
+2001-03-03,start,ley-2001-03-02-9,ley-de-fomento-a-las-actividades-de-bienestar-y-desarrollo-s,39,main
+2001-04-14,law,decreto-2001-04-13-15,ley-de-hacienda-municipal,2,main
+2001-04-16,law,decreto-2001-04-13-15,constitucion-politica,22,main
+2001-06-23,law,decreto-2001-06-22-26-seccion-i,constitucion-politica,2,main
+2001-06-30,law,decreto-2001-06-29-27,codigo-de-procedimientos-civiles,3,main
+2001-08-18,start,,ley-de-obras-publicas-equipamientos-suministros-y-servicios,102,main
+2001-08-18,law,decreto-2001-08-17-35-seccion-i,ley-de-desarrollo-urbano ley-de-entrega-y-recepcion-de-los-asuntos-y-recursos-publico,6,main
+2001-09-01,law,decreto-2001-08-31-37,ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,2,main
+2001-09-15,start,ley-2001-09-14-40-seccion-i,ley-del-notariado,202,main
+2001-09-15,law,decreto-2001-09-14-40,codigo-civil ley-organica-del-registro-civil,50,main
+2001-09-17,law,decreto-2001-09-14-40,constitucion-politica,14,main
+2001-10-18,start,ley-2001-10-15-44-seccion-ii,ley-del-regimen-municipal,56,main
+2001-11-10,start,ley-2001-11-09-49-seccion-iii,ley-de-salud-publica,209,main
+2001-11-10,law,decreto-2001-11-09-49,ley-de-hacienda,2,main
+2001-11-12,start,ley-2001-11-09-49-seccion-ii,ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,36,main
+2001-11-12,law,decreto-2001-11-09-49,ley-de-hacienda-municipal,7,main
+2001-11-24,law,decreto-2001-11-23-52-seccion-iii,ley-del-regimen-municipal,2,main
+2001-12-01,start,ley-2001-11-30-53-seccion-i,ley-de-proteccion-al-ambiente,219,main
+2001-12-08,law,decreto-2001-12-07-54-seccion-i,constitucion-politica,3,main
+2002-02-23,law,decreto-2002-02-22-8-seccion-iii,ley-de-compatibilidad-de-funciones-empleos-y-comisiones,5,main
+2002-02-23,law,decreto-2002-02-22-8,ley-del-regimen-municipal,2,main
+2002-02-23,law,decreto-2002-02-22-8-seccion-ii,ley-de-hacienda,2,main
+2002-04-20,law,decreto-2002-04-19-16,ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,3,main
+2002-04-27,law,decreto-2002-04-26-17,ley-organica-del-registro-civil,2,main
+2002-05-25,law,decreto-2002-05-24-21,constitucion-politica,3,main
+2002-06-10,law,decreto-2002-06-07-24,ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,2,main
+2002-06-22,law,decreto-2002-06-21-26,codigo-fiscal codigo-penal,7,main
+2002-06-26,start,ley-2002-06-25-27-numero-especial,ley-organica-del-poder-legislativo,176,main
+2002-06-29,law,decreto-2002-06-28-28-seccion-ii,codigo-civil ley-del-notariado,62,main
+2002-07-06,law,decreto-2002-07-05-29,ley-de-proteccion-al-ambiente ley-de-salud-publica,5,main
+2002-08-10,law,decreto-2002-08-09-35-seccion-iii,codigo-de-procedimientos-civiles,5,main
+2002-09-07,start,ley-2002-09-06-39,ley-del-ejercicio-de-las-profesiones,73,main
+2002-09-21,law,decreto-2002-09-20-41-seccion-i,codigo-penal,3,main
+2002-09-21,law,decreto-2002-09-20-41-seccion-i-2,codigo-penal,15,main
+2002-09-23,law,decreto-2002-09-20-41-seccion-i,constitucion-politica,2,main
+2002-09-28,law,decreto-2002-09-27-42,codigo-penal ley-general-de-bienes,5,main
+2002-09-28,law,decreto-2002-09-27-42-2,codigo-penal,2,main
+2002-10-05,law,decreto-2002-10-04-43-seccion-i,constitucion-politica,4,main
+2002-10-19,start,ley-2002-10-18-45-seccion-ii,ley-de-adquisiciones-arrendamientos-y-servicios,89,main
+2002-10-19,law,decreto-2002-10-18-45-seccion-i,constitucion-politica,2,main
+2002-10-26,start,ley-2002-10-25-46,ley-de-asistencia-social,157,main
+2002-10-26,law,decreto-2002-10-25-46,ley-de-hacienda-municipal,3,main
+2002-10-26,law,decreto-2002-10-25-46-seccion-i,codigo-penal,3,main
+2002-10-26,law,decreto-2002-10-25-46-2,ley-de-hacienda-municipal,5,main
+2002-11-02,law,decreto-2002-11-01-47-seccion-i,constitucion-politica codigo-civil,5,main
+2002-12-07,law,decreto-2002-12-06-53,codigo-civil,2,main
+2003-01-03,law,decreto-2002-12-31-57-numero-esp-seccion-viii,ley-de-hacienda,6,main
+2003-01-03,law,decreto-2002-12-31-57-numero-esp-seccion-viii-2,ley-de-hacienda,11,main
+2003-01-11,law,decreto-2003-01-10-02,constitucion-politica ley-organica-del-poder-judicial,7,main
+2003-01-11,law,decreto-2003-01-10-2,codigo-civil,2,main
+2003-01-17,law,reforma-2003-01-14-3-numero-especial,ley-organica-del-poder-legislativo,46,main
+2003-01-25,law,decreto-2003-01-24-05-seccion-i,codigo-penal,2,main
+2003-01-31,law,reforma-2003-01-31-6-seccion-ii,ley-organica-del-poder-legislativo,16,main
+2003-02-22,law,decreto-2003-02-21-09-seccion-ii,codigo-de-procedimientos-civiles,3,main
+2003-03-01,law,decreto-2003-02-28-10-seccion-i,ley-de-desarrollo-urbano ley-de-urbanizacion,64,main
+2003-03-15,law,decreto-2003-03-14-12,ley-de-salud-publica,9,main
+2003-03-15,law,decreto-2003-03-14-12-seccion-i,codigo-penal,2,main
+2003-03-15,law,decreto-2003-03-14-12,codigo-penal,3,main
+2003-04-05,law,decreto-2003-04-04-15-seccion-ii,codigo-penal,4,main
+2003-06-07,law,decreto-2003-06-06-27-seccion-i,codigo-penal,2,main
+2003-06-14,start,ley-2003-06-13-28,ley-de-expropiacion,52,main
+2003-07-05,start,ley-2003-07-04-31-seccion-i,ley-de-atencion-y-prevencion-de-la-violencia-familiar,41,main
+2003-07-12,start,ley-2003-07-11-32-seccion-i,ley-general-de-administracion-documental,42,main
+2003-07-12,law,decreto-2003-07-11-32,codigo-civil,6,main
+2003-08-30,law,decreto-2003-08-29-40,codigo-penal,3,main
+2003-10-18,law,decreto-2003-10-17-47,ley-organica-del-poder-judicial,3,main
+2003-11-14,law,decreto-2003-11-14-52-seccion-ii,ley-organica-del-poder-judicial,2,main
+2003-11-15,law,decreto-2003-11-14-52,constitucion-politica codigo-penal ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,8,main
+2003-11-15,law,decreto-2003-11-14-52-2,constitucion-politica,5,main
+2003-11-15,law,decreto-2003-11-14-52-seccion-ii,constitucion-politica,4,main
+2004-01-03,start,ley-2004-01-02-1,ley-contra-la-delincuencia-organizada,29,main
+2004-01-03,start,ley-2004-01-02-1,ley-del-procedimiento-para-los-actos-de-la-administracion-pu,131,main
+2004-01-03,law,decreto-2004-01-02-1,ley-de-hacienda,12,main
+2004-01-17,law,decreto-2004-01-16-3,ley-de-fondo-auxiliar-para-la-administracion-de-justicia,6,main
+2004-01-31,law,decreto-2004-01-30-6,constitucion-politica,8,main
+2004-02-14,law,decreto-2004-02-13-8,codigo-penal,8,main
+2004-03-06,law,decreto-2004-03-05-11-seccion-i,codigo-de-procedimientos-civiles,2,main
+2004-04-03,law,decreto-2004-04-02-15,ley-del-notariado,2,main
+2004-04-03,law,decreto-2004-04-02-15-seccion-ii,codigo-fiscal ley-de-hacienda,27,main
+2004-05-29,law,decreto-2004-05-28-23-seccion-i,codigo-penal,2,main
+2004-06-12,law,decreto-2004-06-11-25,codigo-civil,8,main
+2004-06-19,start,ley-2004-06-18-26-seccion-i,ley-sobre-el-regimen-de-propiedad-en-condominio-de-inmuebles,99,main
+2004-06-19,law,decreto-2004-06-18-26,codigo-de-procedimientos-civiles codigo-penal,36,main
+2004-06-26,law,decreto-2004-06-25-27,ley-de-urbanizacion,19,main
+2004-07-17,law,decreto-2004-07-16-30,codigo-penal,2,main
+2004-09-18,law,decreto-2004-09-17-39-seccion-i,codigo-civil,3,main
+2004-10-21,law,decreto-2004-10-20-45-especial,constitucion-politica,6,main
+2004-11-20,law,decreto-2004-11-19-50-seccion-ii,ley-organica-del-poder-legislativo,65,main
+2005-01-01,law,decreto-2004-12-31-59-seccion-viii,codigo-penal,2,main
+2005-01-29,law,decreto-2005-01-28-5,ley-organica-del-poder-legislativo,3,main
+2005-06-11,start,ley-2005-06-10-27-seccion-i,ley-de-fomento-a-la-competitividad-y-desarrollo-economico,51,main
+2005-06-11,law,decreto-2005-06-10-27-seccion-i,ley-de-hacienda,11,main
+2005-07-23,law,decreto-2005-07-22-33-seccion-i,ley-general-de-bienes,2,main
+2005-08-13,law,decreto-2005-08-12-36,ley-de-salud-publica,7,main
+2005-08-20,law,decreto-2005-08-19-37-seccion-ii,codigo-de-procedimientos-civiles,30,main
+2005-10-29,law,decreto-2005-10-28-47-seccion-i,constitucion-politica,3,main
+2005-11-01,law,decreto-2005-11-01-48-numero-especial,ley-organica-del-poder-judicial,5,main
+2005-11-19,law,decreto-2005-11-18-51-seccion-ii,codigo-civil codigo-de-procedimientos-civiles codigo-fiscal codigo-penal ley-contra-la-delincuencia-organizada ley-de-asistencia-social ley-de-atencion-y-prevencion-de-la-violencia-familiar ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,318,main
+2005-11-26,law,decreto-2005-11-25-52,codigo-civil codigo-de-procedimientos-civiles,15,main
+2005-11-29,law,decreto-2005-11-29-54-numero-especial,ley-organica-del-poder-judicial,2,main
+2005-12-03,start,ley-2005-12-02-55,ley-del-registro-publico-de-la-propiedad-y-de-comercio,83,main
+2006-01-21,law,decreto-2006-01-20-3-seccion-i,constitucion-politica,7,main
+2006-02-18,law,decreto-2006-02-17-7-seccion-ii,codigo-penal ley-contra-la-delincuencia-organizada,71,main
+2006-02-25,law,decreto-2006-02-24-9-seccion-i,codigo-penal ley-de-hacienda ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,21,main
+2006-02-25,law,decreto-2006-02-24-9-seccion-i-2,codigo-penal,4,main
+2006-03-25,law,decreto-2006-03-24-13-seccion-i,codigo-penal,4,main
+2006-05-20,law,decreto-2006-05-19-21-seccion-ii,codigo-civil codigo-penal ley-de-salud-publica,7,main
+2006-06-17,law,decreto-2006-06-16-25,codigo-penal ley-organica-del-poder-judicial,8,main
+2006-07-01,law,decreto-2006-06-30-27,codigo-civil codigo-de-procedimientos-civiles ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,11,main
+2006-08-12,law,decreto-2006-08-11-33,ley-del-ejercicio-de-las-profesiones ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,65,main
+2006-08-26,law,decreto-2006-08-25-35,codigo-penal,3,main
+2006-08-26,law,decreto-2006-08-25-35-2,codigo-penal,4,main
+2006-09-30,law,decreto-2006-09-29-40-seccion-i,ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,2,main
+2006-10-17,law,decreto-2006-10-16-43-especial,codigo-penal,10,main
+2006-10-21,law,decreto-2006-10-20-44,constitucion-politica,6,main
+2006-10-30,law,decreto-2006-10-27-45,ley-organica-del-poder-judicial,19,main
+2006-11-04,law,decreto-2006-11-03-46,codigo-penal ley-contra-la-delincuencia-organizada ley-organica-del-poder-legislativo,21,main
+2006-11-04,law,decreto-2006-11-03-46-2,codigo-penal,18,main
+2006-12-05,law,decreto-2006-12-04-50,codigo-de-procedimientos-civiles,4,main
+2006-12-07,law,decreto-2006-12-04-50,codigo-penal,3,main
+2006-12-07,law,decreto-2006-12-04-50-2,codigo-penal,3,main
+2006-12-07,law,decreto-2006-12-04-50-3,codigo-penal,9,main
+2007-01-01,law,decreto-2006-08-25-35,ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,4,main
+2007-01-13,law,decreto-2007-01-12-3,ley-de-expropiacion,15,main
+2007-02-03,law,decreto-2007-02-02-6,constitucion-politica,22,main
+2007-02-24,law,decreto-2007-02-23-9,codigo-penal,6,main
+2007-03-01,law,decreto-2006-10-27-45,ley-de-atencion-y-prevencion-de-la-violencia-familiar,4,main
+2007-04-07,law,decreto-2007-04-06-15,codigo-penal,3,main
+2007-04-07,law,decreto-2007-04-06-15-2,codigo-penal,3,main
+2007-04-28,law,decreto-2007-04-27-18,codigo-penal,6,main
+2007-05-12,law,decreto-2007-05-11-20-seccion-i,codigo-penal ley-contra-la-delincuencia-organizada,18,main
+2007-06-02,law,decreto-2007-06-01-23-seccion-i,codigo-civil codigo-de-procedimientos-civiles,7,main
+2007-06-02,law,decreto-2007-06-01-23-seccion-i-2,codigo-civil,3,main
+2007-07-07,law,decreto-2007-07-06-28-seccion-ii,codigo-penal,2,main
+2007-09-01,law,decreto-2007-08-31-36,constitucion-politica codigo-de-procedimientos-civiles codigo-penal ley-de-fomento-a-la-competitividad-y-desarrollo-economico ley-de-hacienda,18,main
+2007-09-01,law,decreto-2007-08-31-36-secc-i,codigo-penal,7,main
+2007-09-03,law,decreto-2007-08-31-36,codigo-civil,3,main
+2007-09-15,law,decreto-2007-09-14-38,codigo-penal,3,main
+2007-09-15,law,decreto-2007-09-14-38-secc-ii,ley-de-hacienda-municipal,2,main
+2007-09-15,law,decreto-2007-09-14-38-secc-iv,codigo-penal,21,main
+2007-09-15,law,decreto-2007-09-14-38-secc-iv-2,codigo-penal,9,main
+2007-09-29,law,decreto-2007-09-28-40,ley-de-proteccion-al-ambiente,15,main
+2007-10-08,start,ley-2007-10-05-41,ley-de-responsabilidad-patrimonial,55,main
+2007-10-20,start,ley-2007-10-19-43-secc-i,ley-que-instituye-la-medalla-de-honor-del-congreso,11,main
+2007-10-20,law,decreto-2007-10-19-43-secc-i,codigo-de-procedimientos-civiles codigo-penal ley-de-atencion-y-prevencion-de-la-violencia-familiar,25,main
+2007-10-20,law,decreto-2007-10-19-43,ley-de-salud-publica ley-general-de-bienes,4,main
+2007-10-20,law,decreto-2007-10-19-43-secc-i,ley-de-salud-publica,7,main
+2007-10-22,law,decreto-2007-10-19-43-secc-i,ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,2,main
+2007-11-10,start,ley-2007-10-26-44,ley-de-derechos-y-cultura-indigena,41,main
+2008-05-17,law,decreto-2008-05-16-22,ley-de-salud-publica,2,main
+2008-06-21,law,decreto-2008-06-20-28,ley-de-coordinacion-fiscal,5,main
+2008-06-26,start,ley-2008-06-25-29-numero-especial,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,49,main
+2008-06-26,law,decreto-2008-06-25-29-numero-especial,ley-general-de-bienes,2,main
+2008-06-28,law,decreto-2008-06-27-30,codigo-fiscal ley-de-hacienda-municipal ley-de-proteccion-al-ambiente,37,main
+2008-07-12,law,decreto-2008-07-11-33,constitucion-politica,2,main
+2008-07-12,law,decreto-2008-07-11-33-secc-i,ley-de-edificaciones,4,main
+2008-08-09,law,decreto-2008-08-08-39-secc-ii,ley-de-hacienda-municipal,4,main
+2008-08-15,law,decreto-2008-08-14-40-numero-especial,constitucion-politica,13,main
+2008-09-20,law,decreto-2008-09-19-46,constitucion-politica,4,main
+2008-09-20,law,decreto-2008-09-19-46-2,constitucion-politica,4,main
+2008-09-27,law,decreto-2008-09-26-47-seccion-i,constitucion-politica,3,main
+2008-10-01,law,decreto-2008-09-30-48-numero-especial,ley-organica-del-poder-legislativo,4,main
+2008-10-08,law,decreto-2008-10-07-50-numero-especial,constitucion-politica,2,main
+2008-11-01,law,decreto-2008-10-31-54-seccion-iii,ley-para-fomentar-la-donacion-altruista-en-materia-alimentar,9,main
+2008-11-15,law,decreto-2008-11-14-56-seccion-i,ley-de-proteccion-al-ambiente,2,main
+2008-12-27,law,decreto-2008-12-26-63-seccion-viii,constitucion-politica ley-organica-del-poder-legislativo,7,main
+2008-12-27,law,decreto-2008-12-26-63-seccion-viii-2,constitucion-politica,4,main
+2009-01-01,law,decreto-2007-10-05-41,codigo-civil,5,main
+2009-01-01,law,decreto-2007-10-05-41-2,codigo-civil,2,main
+2009-01-01,law,decreto-2007-10-19-43-secc-i,codigo-civil,4,main
+2009-01-01,law,decreto-2007-10-19-43-secc-i-2,codigo-civil,3,main
+2009-01-01,law,decreto-2007-10-19-43-secc-i-3,codigo-civil,8,main
+2009-01-01,law,decreto-2007-10-26-44,codigo-civil,4,main
+2009-01-01,law,decreto-2008-04-04-14,codigo-civil,4,main
+2009-01-01,law,decreto-2008-07-04-31,codigo-civil,5,main
+2009-01-26,law,decreto-2009-01-23-4,ley-de-responsabilidad-patrimonial,2,main
+2009-02-14,law,decreto-2009-02-13-8,ley-de-expropiacion,16,main
+2009-02-28,law,decreto-2009-02-27-10,ley-organica-del-poder-legislativo,2,main
+2009-03-07,law,decreto-2009-03-06-12,codigo-civil ley-del-procedimiento-para-los-actos-de-la-administracion-pu ley-del-registro-publico-de-la-propiedad-y-de-comercio,48,main
+2009-04-04,start,ley-2009-04-03-16-seccion-i,ley-de-turismo,97,main
+2009-04-19,law,decreto-2007-10-19-43-secc-i,ley-organica-del-poder-judicial,6,main
+2009-04-19,law,decreto-2007-10-19-43-secc-i-2,codigo-de-procedimientos-civiles codigo-penal,11,main
+2009-04-19,law,decreto-2007-10-19-43-secc-i-3,codigo-de-procedimientos-civiles codigo-penal,13,main
+2009-04-19,law,decreto-2008-11-14-56-seccion-i,ley-organica-del-poder-judicial,15,main
+2009-04-19,law,decreto-2007-10-19-43-secc-i-4,codigo-de-procedimientos-civiles codigo-penal,12,main
+2009-04-19,law,decreto-2008-11-19-57-numero-especial,ley-organica-del-poder-judicial,30,main
+2009-04-19,law,decreto-2007-10-19-43-secc-i-5,codigo-de-procedimientos-civiles codigo-penal,10,main
+2009-04-19,law,decreto-2009-02-27-10-seccion-i,ley-organica-del-poder-judicial,4,main
+2009-04-19,law,decreto-2007-10-19-43-secc-i-6,codigo-de-procedimientos-civiles,4,main
+2009-04-19,law,decreto-2007-11-23-50,codigo-penal,5,main
+2009-04-19,law,decreto-2008-05-16-22,codigo-penal,4,main
+2009-04-19,law,decreto-2008-07-04-31,codigo-de-procedimientos-civiles,4,main
+2009-04-19,law,decreto-2008-10-31-54-seccion-iii,codigo-penal,3,main
+2009-04-19,law,decreto-2008-12-26-63-seccion-viii,codigo-penal,2,main
+2009-04-19,law,decreto-2009-01-30-5-seccion-i,codigo-penal,2,main
+2009-04-19,law,decreto-2009-04-03-16,codigo-penal,3,main
+2009-04-25,law,decreto-2009-04-24-20,ley-organica-del-poder-judicial,2,main
+2009-06-06,law,decreto-2009-06-05-26,ley-de-hacienda,2,main
+2009-07-04,law,decreto-2009-07-03-30-seccion-ii,codigo-fiscal,2,main
+2009-08-15,law,decreto-2009-08-14-37,codigo-civil ley-de-salud-publica,5,main
+2009-08-29,law,decreto-2009-08-28-39,ley-de-fomento-a-la-competitividad-y-desarrollo-economico ley-de-hacienda-municipal ley-de-salud-publica,7,main
+2009-09-12,law,decreto-2009-09-11-41,codigo-penal,2,main
+2009-10-10,law,decreto-2009-10-09-45,codigo-penal ley-de-expropiacion,6,main
+2009-10-31,law,decreto-2009-10-30-48-seccion-ii,ley-de-adquisiciones-arrendamientos-y-servicios,9,main
+2009-10-31,law,decreto-2009-10-30-48-seccion-i,ley-organica-del-poder-judicial,3,main
+2009-11-07,start,ley-2009-11-06-49-seccion-i,ley-de-firma-electronica,37,main
+2009-11-14,law,decreto-2009-11-13-51-seccion-ii,codigo-penal ley-de-adquisiciones-arrendamientos-y-servicios ley-de-asistencia-social ley-de-salud-publica,54,main
+2009-11-16,law,decreto-2009-11-13-51-seccion-ii,ley-organica-del-poder-judicial,2,main
+2009-11-28,law,decreto-2009-11-27-53-seccion-ii,codigo-penal,5,main
+2009-12-19,law,decreto-2009-12-18-57,ley-organica-del-poder-legislativo,3,main
+2009-12-19,law,decreto-2009-12-18-57-seccion-i,codigo-penal,5,main
+2009-12-29,law,decreto-2009-12-28-58-seccion-iv,ley-de-adquisiciones-arrendamientos-y-servicios ley-de-salud-publica,6,main
+2009-12-29,law,decreto-2009-12-28-58-seccion-ii,ley-de-desarrollo-urbano,49,main
+2010-01-01,law,decreto-2009-12-31-59-seccion-ix-numero-especial,codigo-penal ley-de-proteccion-al-ambiente,4,main
+2010-01-03,law,decreto-2009-12-31-59-seccion-ix-numero-especial,ley-de-urbanizacion,3,main
+2010-01-05,law,decreto-2010-01-04-1,ley-de-proteccion-al-ambiente,8,main
+2010-01-06,law,decreto-2010-01-05-2-numero-especial,ley-de-proteccion-al-ambiente,14,main
+2010-02-01,law,decreto-2008-12-26-63-seccion-viii-3,constitucion-politica,9,main
+2010-02-01,law,decreto-2009-04-24-20,constitucion-politica,3,main
+2010-02-01,law,decreto-2009-05-22-24-seccion-i,constitucion-politica,2,main
+2010-02-01,law,decreto-2009-08-28-39,constitucion-politica,2,main
+2010-02-01,law,decreto-2009-09-25-43-seccion-i,constitucion-politica,7,main
+2010-02-01,law,decreto-2010-01-29-6-seccion-iv,constitucion-politica,4,main
+2010-02-06,law,decreto-2010-02-05-7-seccion-i,ley-de-adquisiciones-arrendamientos-y-servicios,12,main
+2010-04-06,law,decreto-2010-04-05-15-seccion-iii,codigo-fiscal,2,main
+2010-04-23,start,ley-2009-05-22-24-seccion-i,ley-organica-de-la-defensoria-publica,41,main
+2010-04-23,law,decreto-2010-01-22-5-seccion-ii,ley-organica-de-la-defensoria-publica,3,main
+2010-04-26,law,decreto-2010-04-23-18-seccion-iii,ley-organica-de-la-defensoria-publica,2,main
+2010-05-01,start,ley-2010-04-30-20-seccion-ii,ley-de-desarrollo-forestal-sustentable,58,main
+2010-05-01,law,decreto-2010-04-30-20-seccion-ii,ley-de-urbanizacion,9,main
+2010-05-01,law,decreto-2010-04-30-20-seccion-iii,codigo-civil codigo-de-procedimientos-civiles ley-de-hacienda-municipal,12,main
+2010-05-29,law,decreto-2010-05-28-24-seccion-ii,codigo-penal,2,main
+2010-07-03,law,decreto-2010-07-02-29-seccion-i,codigo-civil ley-organica-del-poder-judicial ley-organica-del-poder-legislativo,43,main
+2010-07-10,law,decreto-2010-07-09-30-seccion-i,codigo-fiscal,2,main
+2010-07-24,law,decreto-2010-07-23-32-seccion-ii,ley-de-proteccion-al-ambiente,2,main
+2010-08-28,start,ley-2010-08-27-37-seccion-ii,ley-que-establece-las-bases-de-operacion-de-las-casas-de-emp,52,main
+2010-08-28,law,decreto-2010-08-27-37-seccion-ii,ley-de-fomento-a-la-competitividad-y-desarrollo-economico ley-de-hacienda,20,main
+2010-08-28,law,decreto-2010-08-27-37-seccion-i,constitucion-politica,8,main
+2010-09-11,law,decreto-2010-09-10-39,codigo-civil codigo-penal ley-contra-la-delincuencia-organizada ley-de-atencion-y-prevencion-de-la-violencia-familiar ley-general-de-administracion-documental,46,main
+2010-09-11,law,decreto-2010-09-10-39-seccion-i,ley-organica-de-la-universidad-autonoma,2,main
+2010-09-21,start,ley-2010-09-20-40,ley-para-la-promocion-fomento-y-desarrollo-de-la-industria-c,23,main
+2010-09-21,law,decreto-2010-09-20-40,ley-de-turismo,15,main
+2010-09-25,law,decreto-2010-09-24-41-seccion-iii,codigo-penal,2,main
+2010-09-25,law,decreto-2010-09-24-41-seccion-ii,constitucion-politica,4,main
+2010-09-25,law,decreto-2010-09-24-41-seccion-ii-2,constitucion-politica,2,main
+2010-10-09,start,ley-2010-10-08-43-seccion-i,ley-de-desarrollo-agropecuario,165,main
+2010-10-09,start,ley-2010-10-08-43-seccion-i,ley-que-regula-el-uso-y-fomento-del-escudo-y-canto,14,main
+2010-10-09,start,ley-2010-10-08-43-seccion-i,ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,51,main
+2010-10-16,start,ley-2010-10-15-44-seccion-iii,ley-para-las-personas-con-discapacidad-en-el-estado-de-baja,56,main
+2010-10-16,law,decreto-2010-10-15-44,ley-de-asistencia-social ley-de-proteccion-al-ambiente,16,main
+2010-10-16,law,decreto-2010-10-15-44-seccion-ii,codigo-penal ley-organica-del-poder-judicial,14,main
+2010-10-16,law,decreto-2010-10-15-44-seccion-iii,ley-de-hacienda-municipal,5,main
+2010-10-16,law,decreto-2010-10-15-44-seccion-iii,codigo-penal,2,main
+2010-10-17,law,decreto-2010-10-14-1,ley-organica-del-poder-legislativo,58,main
+2010-10-23,law,decreto-2010-10-22-45-seccion-i,ley-de-proteccion-al-ambiente,240,main
+2010-12-20,law,decreto-2010-12-17-56-seccion-iii,ley-organica-del-poder-legislativo,27,main
+2010-12-28,law,decreto-2010-12-27-57-seccion-iv,ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,2,main
+2011-01-01,law,decreto-2010-12-31-58-seccion-viii,ley-de-hacienda,23,main
+2011-01-04,law,decreto-2011-01-03-1,codigo-civil ley-organica-del-registro-civil,46,main
+2011-01-07,law,decreto-2011-01-07-2,ley-general-de-bienes,41,main
+2011-01-29,law,decreto-2011-01-28-5-seccion-i,constitucion-politica,6,main
+2011-01-29,law,decreto-2011-01-28-5-seccion-i-2,constitucion-politica,8,main
+2011-02-19,law,decreto-2011-02-18-11-seccion-i,ley-de-desarrollo-urbano,3,main
+2011-02-28,law,decreto-2011-02-25-12-seccion-i,ley-organica-del-poder-legislativo,3,main
+2011-04-15,law,fe-de-erratas-2011-04-15-20-seccion-i,constitucion-politica,6,main
+2011-04-16,law,decreto-2011-04-15-20-seccion-i,ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,6,main
+2011-05-14,law,decreto-2011-05-13-24-seccion-i,ley-para-fomentar-la-donacion-altruista-en-materia-alimentar,4,main
+2011-05-28,law,decreto-2011-05-27-26-seccion-i,constitucion-politica,7,main
+2011-05-28,law,decreto-2011-05-27-26-seccion-iii,constitucion-politica,3,main
+2011-06-06,law,decreto-2011-06-03-27-seccion-i,ley-organica-del-poder-legislativo,14,main
+2011-07-02,law,decreto-2011-07-01-31,constitucion-politica,5,main
+2011-07-02,law,decreto-2011-07-01-31-2,constitucion-politica,4,main
+2011-07-02,law,decreto-2011-07-01-31-3,constitucion-politica,3,main
+2011-07-04,law,decreto-2011-07-01-31,ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,8,main
+2011-07-08,law,fe-de-erratas-2011-07-08-32,constitucion-politica,3,main
+2011-07-09,law,decreto-2011-07-08-32-seccion-i,ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,5,main
+2011-07-12,law,decreto-2011-07-11-33-numero-especial,ley-de-asistencia-social,5,main
+2011-07-16,law,decreto-2011-07-15-34-seccion-i,constitucion-politica,4,main
+2011-07-18,law,decreto-2011-07-15-34-seccion-i,ley-organica-del-poder-legislativo,2,main
+2011-07-29,law,fe-de-erratas-2011-07-29-36,ley-de-hacienda-municipal,4,main
+2011-07-30,law,decreto-2011-07-29-36-seccion-i,ley-que-establece-las-bases-de-operacion-de-las-casas-de-emp,16,main
+2011-08-06,start,,ley-de-participacion-ciudadana,85,main
+2011-09-05,law,decreto-2011-09-02-42-seccion-ii,ley-organica-del-poder-legislativo,39,main
+2011-10-08,law,decreto-2011-10-07-48-seccion-i,constitucion-politica,20,main
+2011-10-29,law,decreto-2011-10-28-51-seccion-ii,ley-de-hacienda ley-de-hacienda-municipal,9,main
+2011-10-29,law,decreto-2011-10-28-51-seccion-ii-2,ley-de-hacienda ley-de-hacienda-municipal,11,main
+2011-10-31,law,decreto-2011-10-28-51-seccion-ii,ley-de-proteccion-a-los-animales-domesticos,3,main
+2011-12-03,law,decreto-2011-12-02-56-seccion-i,codigo-civil,5,main
+2011-12-24,start,ley-2011-12-23-59-seccion-i,ley-de-proteccion-al-empleo,24,main
+2011-12-30,law,decreto-2011-12-30-60-seccion-i,ley-contra-la-delincuencia-organizada,2,main
+2011-12-31,law,decreto-2011-12-30-60-seccion-i,ley-de-urbanizacion ley-sobre-el-regimen-de-propiedad-en-condominio-de-inmuebles,7,main
+2011-12-31,law,decreto-2011-12-30-60-seccion-ii,ley-de-hacienda,88,main
+2012-01-02,law,decreto-2011-12-30-60-seccion-ii-2,ley-de-hacienda,18,main
+2012-01-07,law,decreto-2012-01-06-2-seccion-ii,ley-para-las-personas-con-discapacidad-en-el-estado-de-baja,38,main
+2012-01-21,start,ley-2012-01-20-4-seccion-i,ley-de-fomento-a-la-produccion-artesanal,27,main
+2012-01-21,law,decreto-2012-01-20-4-seccion-i,codigo-civil ley-organica-del-registro-civil,15,main
+2012-01-26,start,ley-2011-10-28-51-seccion-iii,ley-de-valuacion,47,main
+2012-02-11,law,decreto-2012-02-10-8-seccion-i,ley-organica-del-poder-legislativo,7,main
+2012-02-24,law,decreto-2012-02-24-10-seccion-i,codigo-civil,40,main
+2012-02-27,law,decreto-2012-02-24-10-seccion-i,ley-organica-del-poder-legislativo,5,main
+2012-03-31,law,decreto-2012-03-30-16-seccion-i,ley-del-regimen-municipal,4,main
+2012-05-12,law,decreto-2012-05-11-22-seccion-i,constitucion-politica,47,main
+2012-05-25,law,decreto-2012-05-25-24-seccion-ii,ley-de-desarrollo-urbano,14,main
+2012-05-26,law,decreto-2012-05-25-24,ley-de-adquisiciones-arrendamientos-y-servicios ley-de-fomento-a-la-competitividad-y-desarrollo-economico,23,main
+2012-06-02,start,ley-2012-06-01-25,ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-climati,57,main
+2012-06-02,law,decreto-2012-06-01-25,ley-de-hacienda-municipal,9,main
+2012-06-04,law,decreto-2012-06-01-25,ley-organica-del-poder-legislativo,5,main
+2012-06-16,start,ley-2012-06-15-27,ley-de-impulso-a-la-eficiencia-energetica,16,main
+2012-06-16,law,decreto-2012-06-15-27,ley-de-turismo,7,main
+2012-06-23,start,ley-2012-06-22-28,ley-de-energias-renovables,21,main
+2012-06-23,law,decreto-2012-06-22-28,ley-de-asistencia-social ley-de-desarrollo-urbano,7,main
+2012-07-21,law,decreto-2012-07-20-32-seccion-i,ley-del-periodico-oficial,8,main
+2012-08-21,law,decreto-2010-10-15-44-seccion-ii,ley-de-salud-publica,4,main
+2012-08-21,law,decreto-2010-10-15-44-seccion-ii-2,codigo-penal ley-organica-del-poder-judicial,5,main
+2012-08-21,law,decreto-2010-10-15-44-seccion-ii-3,ley-organica-del-poder-judicial,4,main
+2012-08-21,law,decreto-2010-12-17-56-seccion-iii,codigo-penal,10,main
+2012-08-21,law,decreto-2011-07-01-31-seccion-ii,ley-de-salud-publica,11,main
+2012-08-21,law,decreto-2011-02-09-7-numero-especial,codigo-penal,3,main
+2012-08-21,law,decreto-2011-07-01-31-seccion-ii,ley-organica-del-poder-judicial,42,main
+2012-08-21,law,decreto-2011-12-02-56-seccion-i,ley-de-salud-publica,8,main
+2012-08-21,law,fe-de-erratas-2011-02-11-8-seccion-i,codigo-penal,1,main
+2012-08-21,law,decreto-2011-12-09-57,ley-de-salud-publica,3,main
+2012-08-21,law,decreto-2011-04-29-22,codigo-penal,3,main
+2012-08-21,law,decreto-2011-12-23-59-seccion-i,ley-de-salud-publica,4,main
+2012-08-21,law,decreto-2011-06-10-28,codigo-penal,2,main
+2012-08-21,law,decreto-2012-01-06-2-seccion-ii,ley-de-salud-publica,7,main
+2012-08-21,law,decreto-2011-07-15-34-seccion-i,codigo-penal,2,main
+2012-08-21,law,decreto-2012-04-20-19,ley-de-salud-publica,16,main
+2012-08-21,law,decreto-2011-10-07-48-seccion-i,codigo-penal,2,main
+2012-08-21,law,decreto-2012-04-20-19-2,ley-de-salud-publica,2,main
+2012-08-21,law,decreto-2011-12-02-56-seccion-i,codigo-penal,2,main
+2012-08-21,law,decreto-2012-06-15-27,ley-de-salud-publica,5,main
+2012-08-21,law,decreto-2011-12-23-59-seccion-i,codigo-penal,3,main
+2012-08-21,law,decreto-2012-06-22-28,ley-de-salud-publica,4,main
+2012-08-21,law,decreto-2011-12-30-60-seccion-i,codigo-penal,3,main
+2012-08-21,law,decreto-2012-02-03-7-seccion-ii,codigo-penal,74,main
+2012-08-21,law,decreto-2012-04-20-19,codigo-penal,3,main
+2012-09-01,start,ley-2012-08-31-38-seccion-i,ley-para-prevenir-y-erradicar-la-discriminacion-en-el-estado,37,main
+2012-09-01,law,decreto-2012-08-31-38-seccion-i,codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,7,main
+2012-09-03,law,decreto-2012-08-31-38-seccion-i,ley-organica-del-poder-legislativo,3,main
+2012-09-03,law,decreto-2012-08-31-38-seccion-i-2,ley-organica-del-poder-legislativo,3,main
+2012-09-22,start,ley-2012-09-21-42-seccion-i,ley-que-crea-el-premio-estatal-de-periodismo,12,main
+2012-09-22,law,decreto-2012-09-21-42,codigo-penal ley-de-salud-publica,12,main
+2012-09-22,law,decreto-2012-09-21-42-seccion-i,ley-de-participacion-ciudadana,24,main
+2012-09-22,law,decreto-2012-09-21-42-2,codigo-penal,3,main
+2012-09-22,law,decreto-2012-09-21-42-seccion-i,codigo-penal,3,main
+2012-09-28,law,decreto-2012-09-28-43-seccion-ii,ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,4,main
+2012-09-29,law,decreto-2012-09-28-43,constitucion-politica codigo-penal ley-de-turismo,9,main
+2012-09-29,law,decreto-2012-09-28-43-2,constitucion-politica,4,main
+2012-10-06,start,ley-2012-10-05-45,ley-de-seguridad-escolar,55,main
+2012-10-06,start,ley-2012-10-05-45-seccion-ii,ley-para-el-desarrollo-y-proteccion-social-de-los-periodista,35,main
+2012-10-06,law,decreto-2012-10-05-45,codigo-civil,5,main
+2012-10-06,law,decreto-2012-10-05-45-seccion-ii,ley-de-hacienda,14,main
+2012-10-20,start,ley-2012-10-19-47-seccion-i,ley-de-fomento-a-la-lectura-y-el-libro,27,main
+2012-10-20,law,decreto-2012-10-19-47,ley-del-regimen-municipal,2,main
+2012-10-20,law,decreto-2012-10-19-47-seccion-i,constitucion-politica,2,main
+2012-10-21,law,decreto-2012-09-21-42-seccion-i,ley-de-salud-publica,9,main
+2012-10-21,law,decreto-2012-10-19-47,ley-de-salud-publica,4,main
+2012-10-21,law,decreto-2012-10-19-47-seccion-i,ley-de-salud-publica,3,main
+2012-10-25,law,decreto-2012-07-27-33-seccion-ii,ley-organica-del-poder-judicial,23,main
+2012-10-25,law,decreto-2012-10-05-45-seccion-ii,codigo-penal,3,main
+2012-10-25,law,decreto-2012-09-28-43,ley-organica-del-poder-judicial,5,main
+2012-10-25,law,decreto-2012-10-19-47-seccion-i,codigo-penal,3,main
+2012-10-25,law,decreto-2012-10-19-47-seccion-i,ley-organica-del-poder-judicial,2,main
+2012-10-26,law,fe-de-erratas-2012-10-26-48-seccion-ii,ley-para-prevenir-y-erradicar-la-discriminacion-en-el-estado,11,main
+2012-10-27,law,decreto-2012-10-26-48,codigo-civil codigo-penal ley-de-proteccion-al-ambiente ley-de-salud-publica ley-que-instituye-la-medalla-de-honor-del-congreso,258,main
+2012-10-27,law,decreto-2012-10-26-48-seccion-i,ley-del-regimen-municipal,6,main
+2012-11-10,law,decreto-2012-11-09-50,codigo-civil ley-organica-del-registro-civil,23,main
+2012-11-16,law,decreto-2012-11-16-51-seccion-i,ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,6,main
+2012-11-17,law,decreto-2012-11-16-51-seccion-i,codigo-penal,3,main
+2012-11-20,law,decreto-2012-09-21-42,ley-que-establece-las-bases-minimas-para-el-control-de-la-ex,7,main
+2012-11-24,law,decreto-2012-11-23-52-seccion-i,ley-de-adquisiciones-arrendamientos-y-servicios,2,main
+2012-11-24,law,decreto-2012-11-23-52,codigo-penal ley-de-salud-publica,7,main
+2012-11-30,law,decreto-2012-11-30-53-seccion-ii,constitucion-politica,7,main
+2012-12-01,law,decreto-2012-11-30-53-seccion-ii,codigo-penal,2,main
+2012-12-01,law,decreto-2012-11-30-53-seccion-iii,codigo-civil codigo-de-procedimientos-civiles ley-organica-del-poder-judicial,51,main
+2012-12-01,law,decreto-2012-11-30-53-seccion-ii-2,codigo-penal,2,main
+2012-12-01,law,decreto-2012-11-30-53-seccion-iii-2,codigo-de-procedimientos-civiles,4,main
+2012-12-01,law,decreto-2012-11-30-53-seccion-iii-3,codigo-de-procedimientos-civiles,5,main
+2012-12-07,law,fe-de-erratas-2012-12-07-55-seccion-i,codigo-penal ley-de-seguridad-escolar,4,main
+2012-12-08,law,decreto-2012-12-07-55,ley-de-atencion-y-prevencion-de-la-violencia-familiar,6,main
+2012-12-22,law,decreto-2012-12-21-57,codigo-fiscal ley-de-hacienda ley-organica-del-poder-judicial,15,main
+2012-12-29,start,ley-2012-12-28-58-seccion-vi,ley-del-muro-en-honor-a-las-mujeres-destacadas-en-el-estado,11,main
+2012-12-29,law,decreto-2012-12-28-58-seccion-vii,ley-de-salud-publica,3,main
+2013-01-12,law,decreto-2013-01-11-3,ley-de-asistencia-social ley-de-salud-publica ley-que-establece-las-bases-minimas-para-el-control-de-la-ex,6,main
+2013-01-14,law,decreto-2013-01-11-3-seccion-iii,ley-de-salud-publica,2,main
+2013-01-19,law,decreto-2013-01-18-4,ley-de-asistencia-social ley-de-proteccion-al-ambiente ley-de-salud-publica,6,main
+2013-01-25,law,decreto-2013-01-25-5-seccion-i,ley-organica-del-poder-judicial,12,main
+2013-01-26,law,decreto-2013-01-25-5-seccion-iii,codigo-de-procedimientos-civiles,4,main
+2013-01-26,law,decreto-2013-01-25-5-seccion-i,codigo-de-procedimientos-civiles,5,main
+2013-02-02,law,decreto-2013-02-01-6-seccion-i,ley-de-proteccion-al-ambiente ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,15,main
+2013-02-15,law,decreto-2013-02-15-9-seccion-i,ley-de-firma-electronica,14,main
+2013-02-16,law,decreto-2013-02-15-9-seccion-i,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-adquisiciones-arrendamientos-y-servicios ley-de-fomento-a-la-competitividad-y-desarrollo-economico ley-de-fondo-auxiliar-para-la-administracion-de-justicia ley-de-salud-publica ley-organica-del-poder-legislativo,22,main
+2013-02-23,law,decreto-2013-02-22-11,ley-de-hacienda ley-de-hacienda-municipal ley-para-la-promocion-fomento-y-desarrollo-de-la-industria-c,14,main
+2013-03-09,law,decreto-2013-03-08-13-seccion-i,codigo-penal,6,main
+2013-03-16,start,ley-2013-03-15-14,ley-de-zonas-metropolitanas,40,main
+2013-03-16,law,decreto-2013-03-15-14,ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,5,main
+2013-03-23,law,decreto-2013-03-22-15-seccion-i,ley-de-desarrollo-urbano,2,main
+2013-04-13,law,decreto-2013-04-12-12-seccion-i,ley-de-salud-publica,2,main
+2013-04-13,law,decreto-2013-04-12-18-seccion-ii,ley-de-proteccion-al-ambiente,2,main
+2013-04-13,law,decreto-2013-04-12-18-seccion-i,ley-de-salud-publica,2,main
+2013-04-13,law,decreto-2013-04-12-18-seccion-ii,ley-de-salud-publica,2,main
+2013-04-13,law,decreto-2013-04-12-18-seccion-ii-2,ley-de-salud-publica,2,main
+2013-04-13,law,decreto-2013-04-12-18-seccion-ii-3,ley-de-salud-publica,2,main
+2013-04-27,law,decreto-2013-04-26-20,ley-que-regula-el-uso-y-fomento-del-escudo-y-canto,7,main
+2013-05-18,law,decreto-2013-05-17-23-seccion-i,codigo-de-procedimientos-civiles,3,main
+2013-05-25,law,decreto-2013-05-24-24,ley-de-derechos-y-cultura-indigena ley-de-desarrollo-urbano,5,main
+2013-05-25,law,decreto-2013-05-24-24-seccion-i,ley-de-proteccion-al-ambiente,2,main
+2013-05-25,law,decreto-2013-05-24-24-seccion-i,ley-de-desarrollo-urbano,3,main
+2013-06-01,law,decreto-2013-05-31-25-seccion-i,ley-para-las-personas-con-discapacidad-en-el-estado-de-baja,261,main
+2013-06-08,law,decreto-2013-06-07-26-seccion-i,ley-de-hacienda,5,main
+2013-06-22,law,decreto-2013-06-21-28,codigo-penal,2,main
+2013-06-29,law,decreto-2013-06-28-29,codigo-civil codigo-penal ley-de-turismo,14,main
+2013-06-29,law,decreto-2013-06-28-29-2,codigo-civil codigo-penal,4,main
+2013-06-29,law,decreto-2013-06-28-29-3,codigo-penal,2,main
+2013-07-20,law,decreto-2013-07-19-32,codigo-penal ley-organica-del-poder-judicial,8,main
+2013-08-03,law,decreto-2013-08-02-34-seccion-i,ley-de-desarrollo-urbano ley-de-proteccion-al-ambiente,6,main
+2013-08-24,law,decreto-2013-08-23-37,ley-de-derechos-y-cultura-indigena ley-del-regimen-municipal,6,main
+2013-08-24,law,decreto-2013-08-23-37-seccion-i,codigo-de-procedimientos-civiles,4,main
+2013-08-26,law,decreto-2013-08-23-37,ley-organica-del-poder-legislativo,2,main
+2013-08-27,start,ley-2013-06-28-29,ley-que-regula-el-funcionamiento-y-operacion-de-yonkes-recic,38,main
+2013-08-31,law,decreto-2013-08-30-38-secion-ii,ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,8,main
+2013-09-06,law,decreto-2013-09-06-39,ley-de-proteccion-al-ambiente,3,main
+2013-09-14,law,decreto-2013-09-13-40,codigo-civil ley-de-entrega-y-recepcion-de-los-asuntos-y-recursos-publico ley-organica-del-registro-civil ley-para-el-desarrollo-y-proteccion-social-de-los-periodista,18,main
+2013-09-14,law,decreto-2013-09-13-40-seccion-i,ley-de-desarrollo-agropecuario,7,main
+2013-09-14,law,decreto-2013-09-13-40-2,codigo-civil,2,main
+2013-09-21,start,ley-2013-09-20-41,ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco,46,main
+2013-09-21,law,decreto-2013-09-20-41,ley-de-adquisiciones-arrendamientos-y-servicios,2,main
+2013-09-30,law,reforma-2013-08-27-156-gaceta-parlamentaria,ley-organica-del-poder-legislativo,45,main
+2013-09-30,law,decreto-2013-09-27-42,ley-del-periodico-oficial,2,main
+2013-09-30,law,decreto-2013-08-30-38-seccion-i,ley-organica-del-poder-legislativo,8,main
+2013-09-30,law,decreto-2013-09-13-40,ley-organica-del-poder-legislativo,2,main
+2013-10-12,law,decreto-2013-10-11-45-seccion-i,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-organica-del-registro-civil,4,main
+2013-10-12,law,decreto-2013-10-11-45-seccion-ii,ley-organica-del-registro-civil,2,main
+2013-10-17,start,ley-2013-07-19-32,ley-para-prevenir-erradicar-los-delitos-en-materia-de-trata,35,main
+2013-10-17,law,decreto-2013-07-19-32,ley-contra-la-delincuencia-organizada,2,main
+2013-10-19,start,ley-2013-10-18-46-seccion-iii,ley-de-proteccion-a-la-maternidad,32,main
+2013-10-19,law,decreto-2013-10-18-46,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-fomento-a-las-actividades-de-bienestar-y-desarrollo-s,9,main
+2013-10-19,law,decreto-2013-10-18-46-seccion-i,ley-de-salud-publica,3,main
+2013-10-19,law,decreto-2013-10-18-46-seccion-iii,ley-de-proteccion-a-los-animales-domesticos ley-de-seguridad-escolar,18,main
+2013-10-19,law,decreto-2013-10-18-46-seccion-i-2,ley-de-salud-publica,4,main
+2013-10-19,law,decreto-2013-10-18-46-seccion-iii,ley-de-salud-publica,3,main
+2013-10-26,law,decreto-2013-10-25-47,ley-de-salud-publica,2,main
+2013-10-26,law,decreto-2013-10-25-47-seccion-i,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2013-11-07,law,decreto-2013-11-04-49-seccion-i,ley-organica-del-poder-legislativo,3,main
+2013-11-30,law,decreto-2013-11-29-55-seccion-ii,constitucion-politica,5,main
+2013-11-30,law,decreto-2013-11-29-55-seccion-ii-2,constitucion-politica,3,main
+2013-12-07,law,decreto-2013-12-06-56,constitucion-politica,4,main
+2013-12-12,law,decreto-2013-09-13-40-seccion-i,codigo-civil codigo-de-procedimientos-civiles codigo-penal,334,main
+2013-12-12,law,decreto-2013-09-20-41,codigo-civil,3,main
+2013-12-12,law,decreto-2013-10-04-43,codigo-civil,3,main
+2013-12-14,law,decreto-2013-12-13-57-seccion-ii,constitucion-politica,4,main
+2013-12-14,law,decreto-2013-12-13-57-seccion-ii-2,constitucion-politica,3,main
+2013-12-31,law,decreto-2013-12-31-60-seccion-viii,ley-de-proteccion-al-ambiente ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,12,main
+2014-01-01,law,decreto-2013-06-28-29,ley-de-fomento-a-la-competitividad-y-desarrollo-economico,5,main
+2014-01-01,law,decreto-2013-07-05-30-seccion-ii,ley-de-hacienda,2,main
+2014-01-01,law,decreto-2013-12-31-60-seccion-viii,ley-de-hacienda,2,main
+2014-01-24,law,decreto-2014-01-24-4-seccion-i,ley-de-proteccion-al-ambiente ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,4,main
+2014-02-10,law,decreto-2014-02-07-7,ley-organica-del-poder-legislativo,2,main
+2014-03-14,start,ley-2014-03-13-13,ley-del-servicio-profesional-docente,91,main
+2014-03-14,law,decreto-2014-03-13-13,ley-de-seguridad-escolar,2,main
+2014-03-22,law,decreto-2014-03-21-15,constitucion-politica,5,main
+2014-03-28,law,fe-de-erratas-2014-03-28-16-seccion-ii,ley-del-servicio-profesional-docente,2,main
+2014-05-09,law,decreto-2014-05-08-24,ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,122,main
+2014-05-17,law,decreto-2014-05-16-27-seccion-i,ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,2,main
+2014-05-31,law,decreto-2014-05-30-29-seccion-ii,ley-organica-del-poder-legislativo,11,main
+2014-06-14,law,decreto-2014-06-13-31,codigo-civil ley-organica-del-registro-civil,5,main
+2014-06-14,law,decreto-2014-06-13-31-2,codigo-civil,3,main
+2014-06-14,law,decreto-2014-06-13-31-seccion-i,codigo-civil,3,main
+2014-07-05,law,decreto-2014-07-04-35-seccion-i,ley-de-desarrollo-agropecuario ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,8,main
+2014-07-26,law,decreto-2014-07-25-38-seccion-i,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,6,main
+2014-08-02,law,decreto-2014-08-01-39-seccion-ii,constitucion-politica ley-de-desarrollo-agropecuario ley-de-desarrollo-forestal-sustentable ley-de-hacienda-municipal ley-de-proteccion-al-ambiente,40,main
+2014-08-02,law,decreto-2014-08-01-39-seccion-ii-2,constitucion-politica ley-de-proteccion-al-ambiente,11,main
+2014-08-08,start,ley-2010-09-24-41-seccion-iv,ley-del-sistema-integral-de-justicia-para-adolescentes,122,main
+2014-08-08,law,decreto-2011-09-30-47-seccion-i,ley-del-sistema-integral-de-justicia-para-adolescentes,3,main
+2014-08-08,law,decreto-2011-12-30-60-seccion-i,ley-del-sistema-integral-de-justicia-para-adolescentes,5,main
+2014-08-08,law,decreto-2012-09-28-43-seccion-i,ley-del-sistema-integral-de-justicia-para-adolescentes,3,main
+2014-08-08,law,decreto-2014-08-08-40-seccion-i,ley-del-sistema-integral-de-justicia-para-adolescentes,7,main
+2014-08-23,start,ley-2014-08-22-42-seccion-i,ley-de-asociaciones-publico-privadas,134,main
+2014-08-30,law,decreto-2014-08-29-43-seccion-i,ley-de-adquisiciones-arrendamientos-y-servicios,10,main
+2014-09-20,start,ley-2014-09-19-46-seccion-i,ley-para-la-prevencion-social-de-la-violencia-y-la-delincuen,65,main
+2014-09-20,law,decreto-2014-09-19-46-seccion-i,constitucion-politica codigo-civil,13,main
+2014-09-22,start,ley-2014-09-19-46-seccion-i,ley-para-prevenir-y-erradicar-el-acoso-escolar,38,main
+2014-09-22,law,decreto-2014-09-19-46-seccion-i,codigo-penal ley-de-seguridad-escolar,21,main
+2014-09-22,law,decreto-2014-09-19-46-seccion-i-2,codigo-penal,2,main
+2014-09-22,law,decreto-2014-09-19-46-seccion-i-3,codigo-penal,3,main
+2014-09-22,law,decreto-2014-09-19-46-seccion-i-4,codigo-penal,3,main
+2014-10-18,law,decreto-2014-10-17-50-seccion-i,constitucion-politica ley-de-edificaciones ley-de-salud-publica,37,main
+2014-10-18,law,decreto-2014-10-17-50-seccion-i-2,constitucion-politica,2,main
+2014-10-27,law,decreto-2014-10-24-51,ley-de-salud-publica,9,main
+2014-11-01,law,decreto-2014-10-31-52-seccion-iii,codigo-penal,11,main
+2014-11-29,start,ley-2014-11-28-56-seccion-ii,ley-que-regula-las-actividades-de-los-agentes-profesionales,43,main
+2014-11-29,law,decreto-2014-11-28-56-seccion-ii,codigo-civil codigo-de-procedimientos-civiles,11,main
+2014-12-01,law,decreto-2014-11-28-56,constitucion-politica,2,main
+2014-12-01,law,decreto-2014-11-28-56-seccion-i,constitucion-politica,18,main
+2014-12-01,law,decreto-2014-11-28-56-seccion-ii,constitucion-politica,4,main
+2015-01-01,start,ley-2014-12-31-62-seccion-viii,ley-de-cultura-fisica-y-deportes,210,main
+2015-01-01,law,decreto-2013-10-25-47-seccion-i,ley-organica-del-poder-judicial,2,main
+2015-01-01,law,decreto-2014-12-31-62-seccion-x,codigo-de-procedimientos-civiles codigo-penal ley-de-salud-publica,12,main
+2015-01-01,law,decreto-2014-12-31-62-seccion-viii,constitucion-politica,3,main
+2015-01-01,law,decreto-2014-12-31-62-seccion-ix,constitucion-politica,2,main
+2015-01-01,law,decreto-2014-12-31-62-seccion-ix-2,constitucion-politica,3,main
+2015-01-10,law,decreto-2015-01-09-2-seccion-i,codigo-civil,3,main
+2015-01-12,law,decreto-2015-01-09-2-seccion-i,ley-organica-del-poder-legislativo,5,main
+2015-01-12,law,decreto-2015-01-09-2-seccion-i-2,ley-organica-del-poder-legislativo,3,main
+2015-01-24,law,decreto-2015-01-23-4-seccion-i,ley-general-de-bienes,6,main
+2015-02-14,law,decreto-2015-02-13-7-seccion-i,constitucion-politica,2,main
+2015-02-14,law,decreto-2015-02-13-7-seccion-ii,constitucion-politica,2,main
+2015-02-14,law,decreto-2015-02-13-7-seccion-ii-2,constitucion-politica,9,main
+2015-02-18,start,ley-2015-02-17-8-numero-especial,ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-t,144,main
+2015-02-18,start,ley-2015-02-17-8-numero-especial,ley-que-regula-a-los-trabajadores-que-refiere-la-fraccion-i,22,main
+2015-02-18,start,ley-2015-02-17-8-numero-especial,ley-que-regula-a-los-trabajadores-que-refiere-la-fraccion-ii,22,main
+2015-02-21,law,decreto-2015-02-20-9-seccion-i,codigo-civil,5,main
+2015-02-21,law,decreto-2015-02-20-9-seccion-iii,ley-de-fomento-a-la-produccion-artesanal,4,main
+2015-03-21,law,decreto-2015-03-20-14-seccion-ii,codigo-penal,3,main
+2015-03-21,law,decreto-2015-03-20-14,ley-de-desarrollo-urbano,2,main
+2015-03-21,law,decreto-2015-03-20-14-seccion-i,codigo-de-procedimientos-civiles,3,main
+2015-03-21,law,decreto-2015-03-20-14-seccion-i-2,codigo-de-procedimientos-civiles,4,main
+2015-03-27,law,decreto-2015-03-27-15-seccion-ii,ley-del-periodico-oficial,7,main
+2015-03-28,law,decreto-2015-03-27-15-seccion-ii,codigo-penal ley-de-desarrollo-urbano ley-de-energias-renovables ley-de-impulso-a-la-eficiencia-energetica ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-climati,33,main
+2015-04-11,law,decreto-2015-04-10-17-seccion-ii,constitucion-politica codigo-civil,11,main
+2015-04-18,start,ley-2015-04-17-18-seccion-i,ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,151,main
+2015-04-20,law,decreto-2015-04-17-18-seccion-i,codigo-penal ley-organica-del-registro-civil,9,main
+2015-05-16,law,decreto-2015-05-15-23,ley-de-derechos-y-cultura-indigena,3,main
+2015-05-23,law,decreto-2015-05-22-24-seccion-i,codigo-penal ley-de-proteccion-a-los-animales-domesticos,17,main
+2015-05-25,law,decreto-2015-05-22-24-seccion-i,ley-contra-la-delincuencia-organizada ley-del-sistema-integral-de-justicia-para-adolescentes ley-organica-de-la-defensoria-publica ley-organica-del-poder-judicial,67,main
+2015-05-30,start,ley-2015-05-29-25-seccion-v,ley-de-centros-de-atencion-cuidado-y-desarrollo-integral-inf,86,main
+2015-05-30,law,decreto-2015-05-29-25-secccion-iv,ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,2,main
+2015-05-30,law,decreto-2015-05-29-25-seccion-i,codigo-de-procedimientos-civiles ley-de-hacienda ley-del-notariado ley-del-registro-publico-de-la-propiedad-y-de-comercio,133,main
+2015-06-13,start,ley-2015-06-12-28-seccion-ii,ley-del-tribunal-de-justicia-electoral,60,main
+2015-06-13,start,ley-2015-06-12-28-seccion-ii,ley-electoral,408,main
+2015-06-13,start,ley-2015-06-12-28-seccion-ii,ley-que-reglamenta-las-candidaturas-independientes-en-el-est,67,main
+2015-06-13,law,decreto-2015-06-12-28,ley-de-hacienda ley-de-hacienda-municipal ley-del-regimen-municipal ley-organica-del-registro-civil,11,main
+2015-06-13,law,decreto-2015-06-12-28-seccion-ii,ley-organica-del-poder-judicial,61,main
+2015-06-13,law,decreto-2015-06-12-28-2,ley-de-hacienda-municipal,3,main
+2015-06-15,law,decreto-2015-06-12-28-seccion-ii,constitucion-politica,14,main
+2015-06-15,law,decreto-2015-06-12-28-seccion-iv,constitucion-politica,3,main
+2015-06-27,law,decreto-2015-06-26-30-seccion-iii,ley-de-asistencia-social ley-de-fomento-a-la-competitividad-y-desarrollo-economico ley-de-turismo,15,main
+2015-07-08,law,decreto-2015-06-12-28,ley-de-proteccion-a-los-animales-domesticos ley-de-proteccion-al-ambiente,6,main
+2015-07-08,law,decreto-2015-06-12-28-2,ley-de-proteccion-a-los-animales-domesticos ley-de-proteccion-al-ambiente,6,main
+2015-07-13,law,decreto-2015-07-10-33-seccion-ii,ley-organica-del-poder-legislativo,23,main
+2015-08-01,law,decreto-2015-07-31-36-seccion-ii,ley-de-cultura-fisica-y-deportes ley-de-salud-publica,8,main
+2015-08-01,law,decreto-2015-07-31-36-seccion-ii-2,ley-de-salud-publica,3,main
+2015-08-22,law,decreto-2015-08-21-39-seccion-ii,ley-de-desarrollo-urbano,2,main
+2015-09-05,law,decreto-2015-09-04-42,codigo-penal,15,main
+2015-09-05,law,decreto-2015-09-04-42-seccion-ii,ley-organica-del-poder-judicial,3,main
+2015-10-03,law,decreto-2015-10-02-46-seccion-iv,ley-de-hacienda-municipal,33,main
+2015-10-10,law,decreto-2015-10-09-47-seccion-ii,ley-de-proteccion-a-los-animales-domesticos ley-de-proteccion-al-ambiente,7,main
+2015-10-17,law,decreto-2015-04-17-18-seccion-i,codigo-civil,17,main
+2015-10-17,law,decreto-2015-05-29-25-seccion-i,codigo-civil,92,main
+2015-10-24,law,decreto-2015-10-23-49-seccion-iii,codigo-civil codigo-penal,5,main
+2015-11-14,start,ley-2015-11-13-52-seccion-i,ley-para-la-igualdad-entre-mujeres-y-hombres,50,main
+2015-11-14,law,decreto-2015-11-13-52-seccion-iii,codigo-de-procedimientos-civiles ley-sobre-el-regimen-de-propiedad-en-condominio-de-inmuebles,6,main
+2015-11-21,law,decreto-2015-11-20-53-seccion-i,ley-de-fomento-a-las-actividades-de-bienestar-y-desarrollo-s ley-de-hacienda-municipal ley-de-proteccion-a-la-maternidad ley-de-responsabilidad-patrimonial ley-del-procedimiento-para-los-actos-de-la-administracion-pu ley-para-las-personas-con-discapacidad-en-el-estado-de-baja ley-para-prevenir-y-erradicar-la-discriminacion-en-el-estado,301,main
+2015-11-23,law,decreto-2015-11-20-53-seccion-i,ley-organica-del-poder-legislativo,8,main
+2015-11-23,law,decreto-2015-11-20-53-seccion-i-2,ley-organica-del-poder-legislativo,3,main
+2015-11-28,law,decreto-2015-07-31-36-seccion-ii-3,ley-de-salud-publica,2,main
+2015-11-28,law,decreto-2015-11-27-54,ley-de-edificaciones,13,main
+2015-11-28,law,decreto-2015-09-11-43-seccion-iii,ley-de-salud-publica,25,main
+2015-11-28,law,decreto-2015-09-11-43-seccion-iii-2,ley-de-salud-publica,6,main
+2015-12-07,law,decreto-2015-12-04-56-seccion-iv,ley-organica-del-poder-legislativo,4,main
+2015-12-12,law,decreto-2015-12-11-57-seccion-ii,ley-del-muro-en-honor-a-las-mujeres-destacadas-en-el-estado,12,main
+2015-12-12,law,decreto-2015-12-11-57-seccion-i,ley-de-salud-publica,2,main
+2015-12-19,law,decreto-2015-12-18-58-seccion-iii,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,5,main
+2015-12-19,law,decreto-2015-12-18-58-seccion-iv,codigo-civil ley-organica-del-poder-judicial ley-sobre-el-regimen-de-propiedad-en-condominio-de-inmuebles,10,main
+2015-12-21,law,decreto-2015-12-18-58-seccion-iii,ley-organica-del-poder-legislativo,3,main
+2016-02-06,law,decreto-2016-02-05-7-seccion-ii,constitucion-politica ley-de-edificaciones,6,main
+2016-02-11,law,decreto-2016-02-10-8-numero-especial,ley-de-coordinacion-fiscal,7,main
+2016-02-29,start,ley-2015-12-31-60-seccion-xi,ley-de-desarrollo-social,101,main
+2016-03-05,law,decreto-2016-03-04-12-seccion-iv,constitucion-politica,3,main
+2016-03-12,start,ley-2016-03-11-13-seccion-iv,ley-del-calendario-civico,7,main
+2016-03-12,law,decreto-2016-03-11-13-seccion-iv,ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-climati ley-de-proteccion-al-ambiente ley-de-valuacion ley-que-regula-a-los-trabajadores-que-refiere-la-fraccion-ii,39,main
+2016-03-12,law,decreto-2016-03-11-13-seccion-iv-2,ley-de-proteccion-al-ambiente,2,main
+2016-03-19,law,decreto-2016-03-18-14-seccion-iv,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-y-deportes ley-de-derechos-y-cultura-indigena,18,main
+2016-03-19,law,decreto-2016-03-18-14-seccion-v,ley-de-fomento-a-las-actividades-de-bienestar-y-desarrollo-s ley-de-proteccion-al-ambiente,14,main
+2016-03-19,law,decreto-2016-03-18-14-seccion-iv-2,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,4,main
+2016-03-19,law,decreto-2016-03-18-14-seccion-iv-3,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,3,main
+2016-04-23,law,decreto-2016-04-22-20-seccion-iii,constitucion-politica,5,main
+2016-05-11,law,decreto-2015-11-13-52-seccion-iii-2,codigo-de-procedimientos-civiles,4,main
+2016-05-11,law,decreto-2015-12-11-57-seccion-i,codigo-de-procedimientos-civiles,5,main
+2016-05-11,law,decreto-2015-12-11-57-seccion-i-2,codigo-de-procedimientos-civiles,3,main
+2016-05-11,law,decreto-2015-12-18-58-seccion-iv,codigo-de-procedimientos-civiles,5,main
+2016-05-11,law,decreto-2016-04-08-17-seccion-v,codigo-de-procedimientos-civiles,4,main
+2016-05-11,law,decreto-2016-04-08-17-seccion-v-2,codigo-de-procedimientos-civiles,4,main
+2016-05-28,law,decreto-2016-05-27-25-seccion-iii,ley-que-instituye-la-medalla-de-honor-del-congreso,9,main
+2016-06-18,law,decreto-2016-06-17-28-seccion-i,codigo-de-procedimientos-civiles ley-organica-del-poder-judicial,368,main
+2016-06-25,law,decreto-2016-06-24-29-seccion-ii,ley-de-entrega-y-recepcion-de-los-asuntos-y-recursos-publico,10,main
+2016-07-16,law,decreto-2016-07-15-32-seccion-iii,ley-de-salud-publica,5,main
+2016-07-16,law,decreto-2016-07-15-32-seccion-iv,ley-para-las-personas-con-discapacidad-en-el-estado-de-baja,17,main
+2016-07-16,law,decreto-2016-07-15-32-seccion-iii-2,ley-de-salud-publica,2,main
+2016-07-16,law,decreto-2016-07-15-32-seccion-iii-3,ley-de-salud-publica,2,main
+2016-07-16,law,decreto-2016-07-15-32-seccion-iv,ley-de-salud-publica,3,main
+2016-07-30,law,decreto-2016-07-29-34-seccion-vi,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-y-deportes ley-de-proteccion-a-los-animales-domesticos ley-de-proteccion-al-ambiente,10,main
+2016-07-30,law,decreto-2016-07-29-34-seccion-i,ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,7,main
+2016-07-30,law,decreto-2016-07-29-34-seccion-vi-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-proteccion-al-ambiente,25,main
+2016-08-06,law,decreto-2016-08-05-35-seccion-iv,ley-de-salud-publica ley-del-regimen-municipal ley-organica-del-poder-legislativo,12,main
+2016-08-06,law,decreto-2016-08-05-35-seccion-iv-2,ley-de-salud-publica,2,main
+2016-08-06,law,decreto-2016-08-05-35-seccion-iv-3,ley-de-salud-publica,6,main
+2016-08-06,law,decreto-2016-08-05-35-seccion-iv-4,ley-de-salud-publica,2,main
+2016-09-03,law,decreto-2016-09-02-40-seccion-i,ley-organica-del-poder-legislativo,4,main
+2016-09-10,law,decreto-2016-09-09-41-seccion-i,codigo-civil codigo-de-procedimientos-civiles codigo-penal ley-de-adquisiciones-arrendamientos-y-servicios,14,main
+2016-09-10,law,decreto-2016-09-09-41-seccion-ii,ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,4,main
+2016-09-10,law,decreto-2016-09-09-41-seccion-i-2,codigo-penal,2,main
+2016-09-10,law,decreto-2016-09-09-41-seccion-iv,codigo-civil codigo-de-procedimientos-civiles,5,main
+2016-09-10,law,decreto-2016-09-09-41-seccion-i-3,codigo-penal,100,main
+2016-09-10,law,decreto-2016-09-09-41-seccion-iv-2,codigo-civil,3,main
+2016-09-10,law,decreto-2016-09-09-41-seccion-iv,codigo-penal,2,main
+2016-09-10,law,decreto-2016-09-09-41-seccion-iv-2,codigo-penal,2,main
+2016-09-21,law,decreto-2016-09-20-42-seccion-i,codigo-civil,5,main
+2016-09-24,law,decreto-2016-09-23-43-seccion-v,codigo-civil codigo-de-procedimientos-civiles codigo-penal ley-de-atencion-y-prevencion-de-la-violencia-familiar,14,main
+2016-09-24,law,decreto-2016-09-23-43-seccion-v-2,codigo-civil codigo-penal,6,main
+2016-09-26,law,decreto-2016-09-23-43-seccion-v,ley-organica-del-poder-judicial,358,main
+2016-10-01,law,decreto-2016-09-30-44-seccion-ii,codigo-de-procedimientos-civiles ley-de-desarrollo-urbano,35,main
+2016-10-01,law,decreto-2016-09-30-44-seccion-iii,ley-organica-del-poder-judicial,2,main
+2016-10-08,law,decreto-2016-10-07-45-seccion-v,constitucion-politica codigo-civil ley-del-notariado ley-del-registro-publico-de-la-propiedad-y-de-comercio,10,main
+2016-10-08,law,decreto-2016-10-07-45-seccion-ii,codigo-de-procedimientos-civiles,30,main
+2016-10-10,law,decreto-2016-10-07-45-seccion-v,codigo-de-procedimientos-civiles ley-de-hacienda,4,main
+2016-10-15,law,decreto-2016-10-14-46-seccion-iii,codigo-civil ley-para-prevenir-erradicar-los-delitos-en-materia-de-trata,7,main
+2016-10-15,law,decreto-2016-10-14-46-seccion-iv,codigo-penal,5,main
+2016-10-15,law,decreto-2016-10-14-46-seccion-iii,codigo-penal,5,main
+2016-10-15,law,decreto-2016-10-14-46-seccion-iii-2,codigo-civil,4,main
+2016-10-21,law,decreto-2016-10-21-47-seccion-iv,ley-de-salud-publica,2,main
+2016-10-22,law,decreto-2016-10-21-47-seccion-iv,ley-de-entrega-y-recepcion-de-los-asuntos-y-recursos-publico ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco ley-de-seguridad-escolar,9,main
+2016-10-22,law,decreto-2016-10-21-47-seccion-i,constitucion-politica,3,main
+2016-10-22,law,decreto-2016-10-21-47-seccion-iv-2,ley-de-salud-publica,4,main
+2016-10-22,law,decreto-2016-10-21-47-seccion-v,codigo-civil codigo-penal ley-de-edificaciones ley-de-proteccion-al-ambiente ley-del-regimen-municipal ley-organica-del-poder-legislativo ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni ley-para-las-personas-con-discapacidad-en-el-estado-de-baja,28,main
+2016-10-22,law,decreto-2016-10-21-47-seccion-vi,constitucion-politica,3,main
+2016-10-22,law,decreto-2016-10-21-47-seccion-v,ley-de-salud-publica,4,main
+2016-10-22,law,decreto-2016-10-21-47-seccion-v-2,codigo-penal,2,main
+2016-10-22,law,decreto-2016-10-21-47-seccion-v-2,ley-de-salud-publica,2,main
+2016-10-22,law,decreto-2016-10-21-47-seccion-v-3,codigo-penal,3,main
+2016-10-22,law,decreto-2016-10-21-47-seccion-vi,ley-de-salud-publica,5,main
+2016-10-22,law,decreto-2016-10-21-47-seccion-v-4,codigo-penal,2,main
+2016-10-22,law,decreto-2016-10-21-47-seccion-vi,codigo-penal,2,main
+2016-10-22,law,decreto-2016-10-21-47-seccion-vi-2,ley-de-salud-publica,4,main
+2016-10-24,start,ley-2016-10-21-47-seccion-vii,ley-de-atencion-y-proteccion-a-personas-con-autismo,16,main
+2016-10-29,start,,ley-de-planeacion,90,main
+2016-10-29,start,ley-2016-10-28-48-seccion-ix,ley-de-prevencion-tratamiento-y-control-de-las-adicciones,44,main
+2016-10-29,law,decreto-2016-10-28-48-seccion-v,codigo-penal ley-de-cultura-fisica-y-deportes ley-de-desarrollo-social,25,main
+2016-10-29,law,decreto-2016-10-28-48-seccion-vi,codigo-civil,2,main
+2016-10-29,law,decreto-2016-10-28-48-seccion-vi-2,codigo-civil,3,main
+2016-10-29,law,decreto-2016-10-28-48-seccion-vi-3,codigo-civil,4,main
+2016-10-29,law,decreto-2016-10-28-48-seccion-ix,codigo-civil,4,main
+2016-11-08,law,decreto-2016-11-07-49-seccion-ii,constitucion-politica,8,main
+2016-11-08,law,decreto-2016-11-07-49-seccion-iii,codigo-penal,13,main
+2016-11-26,law,decreto-2016-11-25-52-seccion-v,constitucion-politica,2,main
+2016-11-26,law,decreto-2016-11-25-52-seccion-iv,ley-organica-del-poder-legislativo,64,main
+2016-12-17,law,decreto-2016-12-16-56-seccion-i,constitucion-politica,3,main
+2016-12-17,law,decreto-2016-12-16-56-seccion-i-2,constitucion-politica,2,main
+2016-12-17,law,decreto-2016-12-16-56-seccion-i-3,constitucion-politica,2,main
+2016-12-17,law,decreto-2016-12-16-56-seccion-i-4,constitucion-politica,3,main
+2016-12-31,law,decreto-2016-12-30-58-seccion-vii,ley-del-registro-publico-de-la-propiedad-y-de-comercio,25,main
+2016-12-31,law,decreto-2016-12-30-58-seccion-i,ley-del-regimen-municipal,4,main
+2016-12-31,law,decreto-2016-12-30-58-seccion-ii,ley-de-hacienda,4,main
+2016-12-31,law,decreto-2016-12-30-58-seccion-v,constitucion-politica,3,main
+2016-12-31,law,decreto-2016-12-30-58-seccion-v,ley-del-regimen-municipal,2,main
+2017-01-07,law,decreto-2017-01-06-1-seccion-i,constitucion-politica ley-organica-del-poder-legislativo,8,main
+2017-01-07,law,decreto-2017-01-06-1-seccion-i-2,constitucion-politica,4,main
+2017-01-19,start,ley-2017-01-19-4-numero-especial,ley-de-fomento-a-la-cultura-del-cuidado-del-agua,20,main
+2017-01-19,start,ley-2017-01-19-4-numero-especial,ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado,124,main
+2017-01-19,law,decreto-2017-01-19-4-numero-especial,ley-de-hacienda,3,main
+2017-02-18,law,decreto-2016-10-21-47-seccion-iv,codigo-de-procedimientos-civiles,3,main
+2017-02-18,law,decreto-2016-10-28-48-seccion-viii,codigo-de-procedimientos-civiles,2,main
+2017-04-08,start,ley-2017-04-07-16-seccion-ii,ley-de-fomento-para-el-uso-de-la-bicicleta-y-proteccion-al-c,22,main
+2017-04-08,law,decreto-2017-04-07-16-seccion-ii,ley-de-edificaciones ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,7,main
+2017-04-12,law,decreto-2017-04-11-17-numero-especial,ley-de-edificaciones,2,main
+2017-04-15,law,decreto-2017-04-14-18-seccion-ii,ley-de-edificaciones,2,main
+2017-04-29,law,decreto-2017-04-28-20-seccion-i,ley-sobre-el-regimen-de-propiedad-en-condominio-de-inmuebles,19,main
+2017-05-27,law,decreto-2017-05-26-24,constitucion-politica,10,main
+2017-06-24,law,decreto-2017-06-23-28-seccion-i,ley-del-tribunal-de-justicia-electoral,3,main
+2017-06-30,start,ley-2015-12-11-57-seccion-i,ley-que-crea-el-centro-de-justicia-para-las-mujeres,25,main
+2017-07-08,law,decreto-2017-07-07-31-seccion-ii,codigo-penal,23,main
+2017-07-15,law,decreto-2017-07-14-32-seccion-i,codigo-penal,3,main
+2017-07-15,law,decreto-2017-07-14-32-seccion-ii,codigo-civil codigo-de-procedimientos-civiles ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,10,main
+2017-07-15,law,decreto-2017-07-14-32-seccion-i-2,codigo-penal,4,main
+2017-07-29,law,decreto-2017-07-28-34-seccion-i,constitucion-politica codigo-penal,20,main
+2017-08-08,start,ley-2017-08-07-36-numero-especial,ley-del-sistema-estatal-anticorrupcion-de-baja-california,61,main
+2017-08-10,start,ley-2017-08-07-36-numero-especial,ley-de-responsabilidades-administrativas,231,main
+2017-08-12,start,ley-2017-08-11-37-seccion-i,ley-de-fiscalizacion-y-rendicion-de-cuentas,114,main
+2017-09-09,start,ley-2017-09-08-41-seccion-iii,ley-de-proteccion-civil-y-gestion-integral-de-riesgos,161,main
+2017-09-09,law,decreto-2017-09-08-41-seccion-iii,ley-organica-del-poder-judicial,3,main
+2017-09-30,law,decreto-2017-09-29-44-seccion-ii,codigo-civil codigo-de-procedimientos-civiles ley-de-proteccion-al-empleo,9,main
+2017-09-30,law,decreto-2017-09-29-44-seccion-ii-2,codigo-civil,2,main
+2017-11-11,law,decreto-2017-11-10-50-seccion-iii,codigo-civil codigo-penal ley-de-desarrollo-agropecuario ley-de-fomento-a-la-competitividad-y-desarrollo-economico ley-de-proteccion-al-ambiente ley-de-salud-publica ley-organica-del-poder-legislativo,36,main
+2017-11-11,law,decreto-2017-11-10-50-seccion-vii,codigo-de-procedimientos-civiles,17,main
+2017-11-11,law,decreto-2017-11-10-50-seccion-vi,ley-de-adquisiciones-arrendamientos-y-servicios,5,main
+2017-11-11,law,decreto-2017-11-10-50-seccion-v,ley-organica-del-poder-legislativo,2,main
+2017-11-11,law,decreto-2017-11-10-50-seccion-iii-2,ley-de-proteccion-al-ambiente,2,main
+2017-11-11,law,decreto-2017-11-10-50-seccion-v-2,ley-organica-del-poder-legislativo,3,main
+2017-11-13,law,decreto-2017-11-10-50-seccion-iii,ley-del-regimen-municipal,3,main
+2017-11-13,law,decreto-2017-11-10-50-seccion-iii-2,codigo-penal,2,main
+2017-11-13,law,decreto-2017-11-10-50-seccion-vi,ley-de-fomento-a-la-competitividad-y-desarrollo-economico,5,main
+2017-11-13,law,decreto-2017-11-10-50-seccion-iii-2,ley-del-regimen-municipal,2,main
+2017-11-13,law,decreto-2017-11-10-50-seccion-iii-3,codigo-penal,5,main
+2017-11-13,law,decreto-2017-11-10-50-seccion-vi,ley-del-regimen-municipal,16,main
+2017-11-24,law,fe-de-erratas-2017-11-24-52,codigo-civil,5,main
+2018-01-01,law,decreto-2017-11-10-50-seccion-iii-2,ley-de-salud-publica,3,main
+2018-01-01,law,decreto-2017-11-10-50-seccion-v,ley-de-salud-publica,2,main
+2018-01-20,law,decreto-2018-01-19-4-seccion-iv,codigo-civil codigo-penal ley-de-atencion-y-prevencion-de-la-violencia-familiar ley-de-desarrollo-social,19,main
+2018-01-20,law,decreto-2018-01-19-4-seccion-vii,ley-de-hacienda-municipal,2,main
+2018-01-20,law,decreto-2018-01-19-4-seccion-iv-2,codigo-civil codigo-penal,4,main
+2018-01-20,law,decreto-2018-01-19-4-seccion-iv-3,codigo-penal,2,main
+2018-01-20,law,decreto-2018-01-19-4-seccion-iv-4,codigo-penal,2,main
+2018-01-22,law,decreto-2018-01-19-4-seccion-iv,constitucion-politica,2,main
+2018-01-22,law,decreto-2018-01-19-4-seccion-iv-2,constitucion-politica,4,main
+2018-01-22,law,decreto-2018-01-19-4-seccion-vii,constitucion-politica,2,main
+2018-02-19,law,decreto-2018-02-16-8-seccion-iii,constitucion-politica,2,main
+2018-02-24,start,ley-2018-02-23-9-seccion-iv,ley-de-salud-mental,30,main
+2018-02-24,law,decreto-2018-02-23-9-seccion-iii,ley-para-las-personas-con-discapacidad-en-el-estado-de-baja,2,main
+2018-02-24,law,decreto-2018-02-23-9-seccion-iv,ley-del-regimen-municipal,5,main
+2018-02-24,law,decreto-2018-02-23-9-seccion-iii-2,ley-para-las-personas-con-discapacidad-en-el-estado-de-baja,10,main
+2018-03-03,law,decreto-2018-03-02-10-seccion-ii,ley-de-fomento-a-la-lectura-y-el-libro ley-de-salud-publica ley-del-regimen-municipal ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo ley-organica-del-poder-legislativo,14,main
+2018-03-03,law,decreto-2018-03-02-10-seccion-ii-2,ley-del-regimen-municipal,2,main
+2018-03-10,law,decreto-2018-03-09-11-seccion-iii,ley-del-regimen-municipal,3,main
+2018-03-10,law,decreto-2018-03-09-11-seccion-iv,ley-de-desarrollo-forestal-sustentable ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,8,main
+2018-04-19,law,decreto-2018-01-19-4-seccion-iv,ley-de-hacienda,6,main
+2018-04-21,start,ley-2018-04-20-20-seccion-vi,ley-de-fomento-a-la-proveeduria,57,main
+2018-04-21,start,ley-2018-04-20-20-seccion-vi,ley-que-regula-los-financiamientos-y-obligaciones-para-la-di,44,main
+2018-04-21,law,decreto-2018-04-20-20-seccion-viii,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,3,main
+2018-04-21,law,decreto-2018-04-20-20-seccion-vii,constitucion-politica codigo-civil codigo-penal ley-de-adquisiciones-arrendamientos-y-servicios ley-de-proteccion-al-ambiente,22,main
+2018-04-21,law,decreto-2018-04-20-20-seccion-x,ley-de-proteccion-civil-y-gestion-integral-de-riesgos,3,main
+2018-04-21,law,decreto-2018-04-20-20-seccion-vii-2,codigo-penal,2,main
+2018-04-21,law,decreto-2018-04-20-20-seccion-vii-3,codigo-penal,3,main
+2018-04-21,law,decreto-2018-04-20-20-seccion-viii,codigo-penal,2,main
+2018-04-21,law,decreto-2018-04-20-20-seccion-viii-2,codigo-penal,2,main
+2018-05-18,law,fe-de-erratas-2018-05-18-24-seccion-i,ley-de-desarrollo-forestal-sustentable ley-del-regimen-municipal,7,main
+2018-05-19,law,decreto-2018-05-18-24-seccion-i,codigo-penal ley-de-proteccion-a-los-animales-domesticos ley-del-ejercicio-de-las-profesiones,11,main
+2018-05-19,law,decreto-2018-05-18-24-seccion-ii,ley-del-ejercicio-de-las-profesiones,2,main
+2018-05-31,law,decreto-2018-03-02-10-seccion-ii,ley-de-prevencion-tratamiento-y-control-de-las-adicciones,20,main
+2018-06-09,law,decreto-2018-06-08-27-seccion-iii,codigo-penal ley-del-regimen-municipal,58,main
+2018-06-09,law,decreto-2018-06-08-27-seccion-iii-2,ley-del-regimen-municipal,2,main
+2018-06-10,law,decreto-2018-06-09-28-numero-especial,constitucion-politica ley-del-regimen-municipal ley-del-tribunal-de-justicia-electoral ley-electoral ley-organica-del-poder-legislativo ley-que-reglamenta-las-candidaturas-independientes-en-el-est,66,main
+2018-06-23,law,decreto-2018-06-22-30,ley-de-cultura-fisica-y-deportes,7,main
+2018-07-14,law,decreto-2018-07-13-33-seccion-ii,ley-de-proteccion-civil-y-gestion-integral-de-riesgos,2,main
+2018-07-14,law,decreto-2018-07-13-33-seccion-iii,ley-de-desarrollo-urbano ley-de-edificaciones,22,main
+2018-07-14,law,decreto-2018-07-13-33-seccion-iii,ley-de-proteccion-civil-y-gestion-integral-de-riesgos,10,main
+2018-07-16,start,ley-2018-07-13-33-seccion-ii,ley-que-regula-el-uso-de-la-fuerza-publica-en-el-estado-de-b,51,main
+2018-10-20,law,decreto-2018-10-19-48-seccion-ii,ley-de-asistencia-social ley-de-atencion-y-prevencion-de-la-violencia-familiar,6,main
+2018-10-30,start,ley-2018-10-29-49-seccion-iii,ley-de-victimas,179,main
+2018-11-30,law,decreto-2018-11-29-54-numero-especial,ley-organica-del-poder-legislativo,3,main
+2018-12-01,law,decreto-2018-11-30-55-seccion-iii,ley-de-asistencia-social ley-de-desarrollo-forestal-sustentable ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-climati ley-para-prevenir-y-erradicar-el-acoso-escolar,23,main
+2018-12-01,law,decreto-2018-11-30-55-seccion-iv,codigo-civil codigo-de-procedimientos-civiles codigo-fiscal codigo-penal ley-de-adquisiciones-arrendamientos-y-servicios ley-de-aranceles ley-de-asociaciones-publico-privadas ley-de-centros-de-atencion-cuidado-y-desarrollo-integral-inf ley-de-desarrollo-agropecuario ley-de-fomento-a-la-competitividad-y-desarrollo-economico ley-de-hacienda ley-de-hacienda-municipal ley-de-proteccion-al-empleo ley-de-responsabilidad-patrimonial ley-de-salud-publica ley-de-turismo ley-del-notariado ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo ley-electoral ley-general-de-administracion-documental ley-general-de-bienes ley-organica-del-registro-civil ley-para-el-desarrollo-y-proteccion-social-de-los-periodista ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al ley-que-crea-el-premio-estatal-de-periodismo ley-que-establece-las-bases-de-operacion-de-las-casas-de-emp ley-que-reglamenta-las-candidaturas-independientes-en-el-est ley-que-regula-el-funcionamiento-y-operacion-de-yonkes-recic ley-que-regula-las-actividades-de-los-agentes-profesionales ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,154,main
+2018-12-01,law,decreto-2018-11-30-55-seccion-iv,ley-de-desarrollo-forestal-sustentable,2,main
+2018-12-29,law,decreto-2018-12-28-59-seccion-iii,ley-de-centros-de-atencion-cuidado-y-desarrollo-integral-inf,8,main
+2019-01-16,start,decreto-2018-07-20-34-seccion-iv,ley-que-establece-las-bases-de-operacion-de-la-justicia-tera,35,main
+2019-01-16,law,decreto-2018-07-20-34-seccion-iv,ley-organica-del-poder-judicial,4,main
+2019-01-19,start,ley-2019-01-18-4-seccion-ii,ley-de-estimulo-fiscal-a-la-creacion-y-expresion-artistica-p,27,main
+2019-01-19,law,decreto-2019-01-18-4-seccion-ii,ley-de-fomento-a-la-competitividad-y-desarrollo-economico ley-de-hacienda ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco ley-del-regimen-municipal ley-general-de-bienes ley-para-la-igualdad-entre-mujeres-y-hombres,27,main
+2019-02-02,law,decreto-2019-02-01-7-seccion-iii,constitucion-politica codigo-civil ley-de-proteccion-a-los-animales-domesticos ley-de-proteccion-al-ambiente ley-organica-de-la-defensoria-publica ley-para-fomentar-la-donacion-altruista-en-materia-alimentar,15,main
+2019-02-02,law,decreto-2019-02-01-7-seccion-iv,ley-de-salud-publica ley-para-las-personas-con-discapacidad-en-el-estado-de-baja,11,main
+2019-02-02,law,decreto-2019-02-01-7-seccion-iii-2,codigo-civil ley-de-proteccion-al-ambiente,11,main
+2019-02-04,law,decreto-2019-02-01-7-seccion-iii,codigo-penal ley-organica-del-poder-legislativo,5,main
+2019-02-22,law,fe-de-erratas-2019-02-22-10,ley-organica-del-poder-judicial ley-que-establece-las-bases-de-operacion-de-la-justicia-tera,8,main
+2019-02-23,law,decreto-2019-02-22-10-seccion-iii,codigo-penal ley-de-proteccion-al-ambiente ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,9,main
+2019-03-16,law,decreto-2019-03-15-13-seccion-v,ley-de-zonas-metropolitanas,4,main
+2019-03-23,law,decreto-2019-03-22-14-seccion-iii,ley-de-victimas,7,main
+2019-03-23,law,decreto-2019-03-22-14-seccion-iii-2,ley-de-victimas,2,main
+2019-04-13,law,decreto-2019-04-12-17-seccion-v,ley-de-zonas-metropolitanas,2,main
+2019-04-13,law,decreto-2019-04-12-17-seccion-vii,codigo-civil,6,main
+2019-05-20,law,decreto-2019-05-17-22-seccion-ii,ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,3,main
+2019-05-25,law,decreto-2019-05-24-23-seccion-i,ley-de-salud-publica,2,main
+2019-06-01,law,decreto-2019-04-12-17,ley-organica-del-poder-judicial,4,main
+2019-06-15,law,decreto-2019-06-14-26-seccion-iv,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-para-la-igualdad-entre-mujeres-y-hombres,13,main
+2019-06-16,law,decreto-2019-05-17-22-seccion-ii,codigo-penal,3,main
+2019-06-16,law,decreto-2019-05-24-23-seccion-i,codigo-penal,2,main
+2019-06-16,law,decreto-2019-05-24-23-seccion-i-2,codigo-penal,2,main
+2019-07-13,law,decreto-2019-07-12-30-seccion-iii,ley-de-desarrollo-agropecuario ley-de-desarrollo-urbano,4,main
+2019-08-05,law,reforma-2019-08-02-2,ley-organica-del-poder-legislativo,2,main
+2019-08-24,law,decreto-2019-08-23-36-seccion-ii,ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,4,main
+2019-10-12,law,decreto-2019-10-11-44-seccion-vii,ley-de-entrega-y-recepcion-de-los-asuntos-y-recursos-publico ley-de-responsabilidades-administrativas,10,main
+2019-10-18,law,decreto-2019-10-17-45-numero-especial,constitucion-politica,2,main
+2019-10-24,law,decreto-2019-10-23-47-numero-especial,constitucion-politica,15,main
+2019-10-31,start,ley-2019-10-31-49-numero-especial,ley-organica-de-la-fiscalia-general,48,main
+2019-11-01,law,decreto-2019-10-31-49-numero-especial,constitucion-politica,15,main
+2019-11-21,law,decreto-2019-11-20-55-numero-especial,codigo-penal,2,main
+2019-12-07,law,decreto-2019-12-06-59-seccion-i,ley-de-salud-publica,25,main
+2019-12-12,law,decreto-2019-12-11-60-numero-especial,constitucion-politica,4,main
+2019-12-14,law,decreto-2019-12-13-61-seccion-ii,ley-de-urbanizacion,2,main
+2019-12-14,law,decreto-2019-12-13-61-seccion-iii,ley-organica-del-poder-judicial,4,main
+2020-01-01,law,decreto-2019-12-06-59-seccion-i,ley-de-hacienda,18,main
+2020-01-01,law,decreto-2019-12-31-67-seccion-viii-numero-especial,ley-de-hacienda,10,main
+2020-01-03,law,decreto-2019-12-31-67-seccion-viii-numero-especial,ley-de-desarrollo-urbano,2,main
+2020-01-13,law,decreto-2020-01-10-2-seccion-vii,ley-de-participacion-ciudadana ley-del-regimen-municipal,7,main
+2020-01-25,law,decreto-2020-01-24-4-seccion-i,ley-del-regimen-municipal,2,main
+2020-02-10,law,decreto-2020-02-07-7-seccion-i,constitucion-politica,2,main
+2020-02-17,law,decreto-2020-02-14-8,constitucion-politica,2,main
+2020-03-07,law,decreto-2020-03-06-13-seccion-i,codigo-penal,2,main
+2020-03-21,start,ley-2020-03-20-16-seccion-iv,ley-de-impulso-al-conocimiento-cientifico-tecnologico-y-a-la,40,main
+2020-03-21,law,decreto-2020-03-20-16-seccion-iii,codigo-fiscal ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado,7,main
+2020-03-28,law,decreto-2020-03-27-17-seccion-ii,constitucion-politica,2,main
+2020-03-28,law,decreto-2020-03-27-17-seccion-ii-2,constitucion-politica,4,main
+2020-03-30,law,decreto-2020-03-27-17-seccion-ii,ley-electoral ley-que-reglamenta-las-candidaturas-independientes-en-el-est,12,main
+2020-04-04,law,decreto-2020-04-03-18-seccion-i,codigo-civil,2,main
+2020-04-11,law,reforma-2020-04-08-47,ley-organica-del-poder-legislativo,2,main
+2020-04-14,law,decreto-2020-04-13-19-seccion-i,ley-del-regimen-municipal,2,main
+2020-04-30,start,ley-2020-04-30-22-numero-especial,ley-que-crea-la-comision-estatal-del-sistema-penitenciario-d,24,main
+2020-05-01,law,decreto-2020-04-30-22-numero-especial,ley-de-hacienda ley-organica-de-la-fiscalia-general,23,main
+2020-05-01,law,decreto-2020-04-30-22-numero-especial-2,ley-de-hacienda,6,main
+2020-05-03,law,decreto-2020-04-30-22-numero-especial,ley-de-coordinacion-fiscal,3,main
+2020-05-13,law,decreto-2020-05-12-25-numero-especial,ley-de-fomento-a-la-cultura-del-cuidado-del-agua ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado,10,main
+2020-05-16,law,decreto-2020-05-15-27,ley-de-salud-publica,5,main
+2020-05-30,law,decreto-2020-05-29-29-seccion-i,codigo-civil ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,34,main
+2020-06-02,law,decreto-2020-06-01-30-numero-especial,ley-del-periodico-oficial,11,main
+2020-06-17,law,decreto-2020-06-16-33-numero-especial,constitucion-politica,6,main
+2020-06-21,law,decreto-2020-06-20-35-numero-especial,codigo-penal,5,main
+2020-06-21,law,decreto-2020-06-20-35-numero-especial-2,codigo-penal,2,main
+2020-06-23,law,decreto-2020-06-22-36-numero-especial,codigo-fiscal codigo-penal ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado,13,main
+2020-07-11,start,ley-2020-07-10-40,ley-en-materia-de-declaracion-especial-de-ausencia-para-pers,34,main
+2020-07-11,law,decreto-2020-07-10-40,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,5,main
+2020-07-25,law,decreto-2020-07-24-43-seccion-ii,constitucion-politica,2,main
+2020-07-27,law,decreto-2020-07-24-43-seccion-ii,ley-electoral,10,main
+2020-08-08,law,decreto-2020-08-07-48,ley-para-la-igualdad-entre-mujeres-y-hombres,3,main
+2020-08-08,law,decreto-2020-08-07-48-2,ley-para-la-igualdad-entre-mujeres-y-hombres,4,main
+2020-08-15,start,ley-2020-08-14-49-seccion-ii,ley-del-servicio-de-administracion-tributaria,42,main
+2020-09-03,law,decreto-2020-09-02-54-numero-especial,constitucion-politica ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-responsabilidades-administrativas ley-electoral,67,main
+2020-10-17,law,decreto-2020-10-16-65,ley-de-salud-publica,7,main
+2020-11-07,law,decreto-2020-11-06-70,ley-general-de-bienes ley-organica-de-la-fiscalia-general,9,main
+2020-11-14,start,ley-2020-11-13-71-seccion-ii,ley-del-centro-de-conciliacion-laboral,26,main
+2020-11-14,law,decreto-2020-11-14-72,ley-del-regimen-municipal,5,main
+2020-11-28,law,decreto-2020-11-27-75,codigo-civil codigo-penal ley-de-energias-renovables,7,main
+2020-11-28,law,decreto-2020-11-27-75-seccion-iii,ley-de-cultura-fisica-y-deportes,29,main
+2020-11-28,law,decreto-2020-11-27-75-2,codigo-civil,2,main
+2020-12-18,law,decreto-2020-10-19-66-numero-especial,constitucion-politica,25,main
+2020-12-18,law,decreto-2020-12-10-79-numero-especial,constitucion-politica,3,main
+2020-12-29,start,ley-2020-12-28-84-seccion-x,ley-de-educacion,142,main
+2020-12-29,start,ley-2020-12-28-84-seccion-xi,ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif,229,main
+2020-12-31,law,decreto-2020-12-30-85-numero-especial-seccion-vii,ley-de-salud-publica,4,main
+2021-01-26,law,decreto-2021-01-25-6-numero-especial,ley-general-de-bienes,6,main
+2021-02-13,law,decreto-2021-02-12-10,constitucion-politica codigo-penal ley-de-desarrollo-urbano ley-de-edificaciones ley-de-proteccion-al-ambiente,19,main
+2021-02-13,law,decreto-2021-02-12-10-2,constitucion-politica codigo-penal,7,main
+2021-02-20,law,decreto-2021-02-19-12-seccion-ii,ley-del-regimen-municipal,182,main
+2021-02-27,law,decreto-2021-02-26-13-seccion-i,codigo-penal,2,main
+2021-03-13,law,decreto-2021-03-12-15-seccion-iii,ley-del-ejercicio-de-las-profesiones,2,main
+2021-03-20,law,decreto-2021-03-19-18,ley-de-turismo,2,main
+2021-03-21,start,ley-2021-02-19-12,ley-para-la-atencion-proteccion-de-los-derechos-y-apoyo-a-la,42,main
+2021-04-17,law,decreto-2021-04-16-27,ley-de-asistencia-social ley-de-educacion ley-de-salud-publica ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,10,main
+2021-04-25,start,ley-2021-03-26-21-seccion-ii,ley-para-la-prevencion-gestion-integral-y-economia-circular,82,main
+2021-04-28,law,decreto-2021-04-28-29-numero-especial,ley-organica-de-la-fiscalia-general,7,main
+2021-05-01,law,decreto-2021-04-30-30-seccion-ii,codigo-civil codigo-penal ley-de-coordinacion-fiscal ley-que-regula-los-financiamientos-y-obligaciones-para-la-di,24,main
+2021-05-08,law,decreto-2021-05-07-31,ley-de-fiscalizacion-y-rendicion-de-cuentas,5,main
+2021-05-15,law,decreto-2021-05-14-34-seccion-i,ley-para-la-igualdad-entre-mujeres-y-hombres,2,main
+2021-06-19,start,ley-2021-06-18-43-seccion-i,ley-del-tribunal-estatal-de-justicia-administrativa-de-baja,161,main
+2021-07-03,law,decreto-2021-07-02-47-seccion-ii,codigo-civil ley-de-adquisiciones-arrendamientos-y-servicios ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al ley-para-prevenir-erradicar-los-delitos-en-materia-de-trata,22,main
+2021-07-12,law,decreto-2021-07-09-49-seccion-iv,ley-organica-del-poder-legislativo,4,main
+2021-07-24,law,decreto-2021-07-23-51-seccion-iv,codigo-penal ley-de-desarrollo-urbano ley-de-edificaciones ley-de-proteccion-al-ambiente,29,main
+2021-07-30,law,decreto-2021-07-29-52-numero-especial,ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado,18,main
+2021-08-04,law,decreto-2021-08-03-55-numero-especial-seccion-ii,ley-organica-de-la-fiscalia-general,2,main
+2021-08-07,law,decreto-2021-08-06-57-seccion-i,ley-de-desarrollo-urbano ley-de-edificaciones ley-de-educacion ley-de-turismo ley-para-la-igualdad-entre-mujeres-y-hombres,49,main
+2021-08-09,law,decreto-2021-08-08-58-numero-especial,constitucion-politica,3,main
+2021-08-14,law,decreto-2021-08-13-60-seccion-iv,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-electoral,18,main
+2021-09-04,law,decreto-2021-09-03-66,codigo-penal,3,main
+2021-09-15,law,decreto-2021-09-14-69-numero-especial-seccion-i,codigo-civil codigo-penal ley-de-turismo,35,main
+2021-09-18,law,decreto-2021-09-17-71,constitucion-politica,2,main
+2021-10-28,law,decreto-2021-10-27-88-numero-especial,ley-organica-del-poder-judicial,17,main
+2021-11-03,law,decreto-2021-11-02-90-seccion-ii,constitucion-politica ley-del-regimen-municipal,186,main
+2021-11-13,law,decreto-2021-11-12-93-seccion-ii,codigo-penal ley-de-salud-publica ley-de-victimas,13,main
+2021-12-09,start,ley-2021-12-06-99-numero-especial,ley-organica-del-poder-ejecutivo,70,main
+2021-12-09,law,decreto-2021-12-06-99-numero-especial,constitucion-politica,5,main
+2021-12-31,law,decreto-2021-12-30-108-numero-especial,codigo-penal ley-de-fomento-a-la-competitividad-y-desarrollo-economico,13,main
+2022-01-01,law,decreto-2021-12-31-109,ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif ley-que-crea-la-comision-estatal-del-sistema-penitenciario-d,129,main
+2022-01-03,law,decreto-2021-12-31-109,ley-organica-de-la-fiscalia-general,21,main
+2022-01-13,law,decreto-2022-01-13-3-numero-especial,ley-organica-de-la-fiscalia-general,2,main
+2022-01-14,law,decreto-2022-01-13-3-numero-especial,constitucion-politica,2,main
+2022-01-26,law,decreto-2022-01-25-7-numero-especial-seccion-i,constitucion-politica ley-del-muro-en-honor-a-las-mujeres-destacadas-en-el-estado,10,main
+2022-01-28,law,decreto-2022-01-25-7-numero-especial-seccion-i,ley-organica-del-poder-legislativo,3,main
+2022-02-05,law,decreto-2022-02-04-9-seccion-i,codigo-civil,2,main
+2022-02-07,law,decreto-2022-02-04-9-seccion-iii,ley-organica-del-poder-legislativo,3,main
+2022-02-12,law,decreto-2022-02-11-11-seccion-iv,codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-edificaciones ley-de-fiscalizacion-y-rendicion-de-cuentas ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-las-personas-con-discapacidad-en-el-estado-de-baja ley-para-prevenir-y-erradicar-la-discriminacion-en-el-estado ley-para-prevenir-erradicar-los-delitos-en-materia-de-trata,39,main
+2022-02-26,law,decreto-2022-02-25-16,codigo-penal ley-de-salud-publica,4,main
+2022-03-05,law,decreto-2022-03-04-17-seccion-i,ley-de-hacienda ley-para-las-personas-con-discapacidad-en-el-estado-de-baja,12,main
+2022-03-26,law,decreto-2022-03-25-22,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,6,main
+2022-04-19,law,decreto-2022-04-18-25-seccion-i,codigo-penal,2,main
+2022-05-10,law,decreto-2022-05-09-30-seccion-iii,ley-de-asistencia-social ley-de-coordinacion-fiscal ley-de-cultura-fisica-y-deportes ley-del-ejercicio-de-las-profesiones,15,main
+2022-05-13,law,decreto-2022-05-12-30-1-numero-especial,codigo-penal,2,main
+2022-06-04,law,decreto-2022-06-03-37-seccion-v,codigo-penal ley-de-hacienda-municipal ley-para-prevenir-y-erradicar-la-discriminacion-en-el-estado,7,main
+2022-06-04,law,decreto-2022-06-03-37-seccion-v-2,codigo-penal,2,main
+2022-06-04,law,decreto-2022-06-03-37-seccion-v-3,codigo-penal,2,main
+2022-06-04,law,decreto-2022-06-03-37-seccion-v-4,codigo-penal,2,main
+2022-07-30,law,decreto-2022-07-29-49-seccion-i,ley-de-fomento-a-la-competitividad-y-desarrollo-economico,8,main
+2022-07-30,law,decreto-2022-07-29-49-seccion-vi,constitucion-politica,3,main
+2022-09-03,law,decreto-2022-09-02-54-seccion-iv,ley-organica-del-poder-judicial,17,main
+2022-09-20,law,decreto-2022-09-19-56-seccion-iii,codigo-penal ley-de-desarrollo-urbano ley-de-proteccion-al-ambiente ley-de-salud-mental ley-de-salud-publica ley-electoral,31,main
+2022-09-20,law,decreto-2022-09-19-56-seccion-iii-2,ley-de-salud-publica,2,main
+2022-10-18,law,decreto-2022-10-17-60-seccion-ii,constitucion-politica codigo-civil codigo-penal ley-de-victimas ley-del-sistema-estatal-anticorrupcion-de-baja-california,33,main
+2022-10-22,start,ley-2022-10-21-61-seccion-iii,ley-de-amnistia,10,main
+2022-10-22,law,decreto-2022-10-21-61-seccion-iii,constitucion-politica,2,main
+2022-11-02,law,decreto-2022-11-01-63-seccion-i,ley-de-educacion ley-para-prevenir-y-erradicar-el-acoso-escolar,23,main
+2022-11-12,law,decreto-2022-11-11-66,ley-de-asistencia-social ley-para-prevenir-y-erradicar-la-discriminacion-en-el-estado,11,main
+2022-12-02,law,fe-de-erratas-2022-12-02-70-seccion-iii,ley-de-victimas,2,main
+2022-12-03,law,decreto-2022-12-02-70-seccion-iii,ley-de-centros-de-atencion-cuidado-y-desarrollo-integral-inf ley-de-fomento-a-la-produccion-artesanal ley-organica-del-poder-ejecutivo ley-para-las-personas-con-discapacidad-en-el-estado-de-baja,28,main
+2022-12-31,law,decreto-2022-12-30-76-seccion-iii,constitucion-politica ley-de-desarrollo-urbano ley-electoral ley-organica-del-poder-ejecutivo,325,main
+2022-12-31,law,decreto-2022-12-30-76-seccion-iii-2,ley-organica-del-poder-ejecutivo,3,main
+2023-01-28,law,decreto-2023-01-27-6,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social ley-de-educacion ley-organica-del-poder-judicial ley-para-las-personas-con-discapacidad-en-el-estado-de-baja ley-que-crea-la-comision-estatal-del-sistema-penitenciario-d,22,main
+2023-02-11,law,decreto-2023-02-10-8,ley-de-fomento-a-la-competitividad-y-desarrollo-economico ley-de-proteccion-al-ambiente ley-del-muro-en-honor-a-las-mujeres-destacadas-en-el-estado ley-para-la-promocion-fomento-y-desarrollo-de-la-industria-c,27,main
+2023-02-18,law,decreto-2023-02-17-9,ley-de-desarrollo-urbano,291,main
+2023-02-18,law,decreto-2023-02-17-9-2,ley-de-desarrollo-urbano,4,main
+2023-02-23,law,decreto-2023-02-22-9-1-numero-especial,codigo-penal,3,main
+2023-03-04,start,decreto-2023-03-03-11,ley-de-adopciones,80,main
+2023-03-04,law,decreto-2023-03-03-11,constitucion-politica codigo-civil codigo-penal ley-de-fiscalizacion-y-rendicion-de-cuentas ley-organica-del-poder-ejecutivo,39,main
+2023-03-16,law,decreto-2023-03-15-13-numero-especial,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,7,main
+2023-03-17,law,fe-de-erratas-2023-03-17-14-seccion-i,codigo-penal,2,main
+2023-04-01,law,decreto-2023-03-31-16,ley-de-proteccion-al-ambiente ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif,12,main
+2023-04-17,law,decreto-2022-10-17-60-seccion-ii,ley-de-salud-publica,2,main
+2023-04-17,law,decreto-2022-10-17-60-seccion-ii-2,ley-de-salud-publica,6,main
+2023-04-17,law,decreto-2022-12-30-76-seccion-iii,ley-de-salud-publica,31,main
+2023-04-17,law,decreto-2023-01-27-6,ley-de-salud-publica,5,main
+2023-04-17,law,decreto-2023-02-22-9-1-numero-especial,ley-de-salud-publica,4,main
+2023-04-17,law,decreto-2023-03-03-11,ley-de-salud-publica,2,main
+2023-04-22,law,decreto-2023-04-21-22-seccion-i,constitucion-politica codigo-civil codigo-penal ley-general-de-bienes ley-organica-del-poder-judicial,32,main
+2023-05-09,law,decreto-2022-05-09-30-seccion-iii,ley-para-la-prevencion-gestion-integral-y-economia-circular,6,main
+2023-05-10,law,decreto-2023-05-09-26-numero-especial,ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif,3,main
+2023-05-27,law,decreto-2023-05-26-30,constitucion-politica ley-de-educacion ley-de-turismo ley-del-ejercicio-de-las-profesiones,17,main
+2023-05-27,law,decreto-2023-05-26-30-2,ley-de-educacion,2,main
+2023-05-29,law,decreto-2023-05-26-30,ley-organica-del-poder-legislativo ley-que-crea-el-organismo-descentralizado-denominado-institu,12,main
+2023-06-10,law,decreto-2023-06-09-33,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-seguridad-escolar,80,main
+2023-06-10,law,decreto-2023-06-09-33-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,2,main
+2023-06-24,law,decreto-2023-06-23-37,codigo-penal ley-de-desarrollo-urbano ley-de-educacion ley-del-regimen-municipal,9,main
+2023-07-08,start,decreto-2023-07-07-39,ley-de-agricultura-urbana-sustentable,16,main
+2023-07-08,law,decreto-2023-07-07-39,ley-de-adquisiciones-arrendamientos-y-servicios ley-de-cultura-fisica-y-deportes ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,11,main
+2023-07-10,law,decreto-2023-07-07-39,ley-organica-del-poder-legislativo,2,main
+2023-07-15,law,decreto-2023-07-14-41,ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-t,6,main
+2023-07-20,law,decreto-2023-07-19-42-numero-especial,ley-del-regimen-municipal ley-electoral,16,main
+2023-07-29,law,decreto-2023-07-28-45-seccion-i,codigo-fiscal ley-de-edificaciones ley-de-responsabilidades-administrativas ley-para-fomentar-la-donacion-altruista-en-materia-alimentar ley-para-las-personas-con-discapacidad-en-el-estado-de-baja,30,main
+2023-08-07,law,decreto-2023-05-09-26-numero-especial,ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,7,main
+2023-08-12,law,decreto-2023-08-11-48,codigo-penal,2,main
+2023-08-19,law,decreto-2023-08-18-49,constitucion-politica ley-de-salud-publica,25,main
+2023-08-19,law,decreto-2023-08-18-49-2,ley-de-salud-publica,2,main
+2023-08-26,law,decreto-2023-08-25-50,ley-de-cultura-fisica-y-deportes,2,main
+2023-08-28,law,decreto-2023-08-25-50-seccion-ii,constitucion-politica,5,main
+2023-09-02,law,decreto-2023-09-02-52-numero-especial,ley-de-asistencia-social ley-del-tribunal-de-justicia-electoral ley-electoral,22,main
+2023-09-09,law,decreto-2023-09-08-53-seccion-iii,codigo-penal ley-de-educacion ley-de-impulso-al-conocimiento-cientifico-tecnologico-y-a-la ley-de-proteccion-a-los-animales-domesticos ley-de-urbanizacion ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,56,main
+2023-09-09,law,decreto-2023-09-08-53-seccion-iii-2,ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,2,main
+2023-09-26,law,decreto-2023-09-25-55,ley-de-desarrollo-agropecuario ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-climati ley-organica-del-poder-judicial,16,main
+2023-09-26,law,decreto-2023-09-25-55-seccion-i,ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif,3,main
+2023-10-07,law,decreto-2023-10-06-57,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-que-crea-el-centro-de-justicia-para-las-mujeres,35,main
+2023-11-07,law,decreto-2023-11-06-62-seccion-i,constitucion-politica ley-de-fiscalizacion-y-rendicion-de-cuentas ley-de-responsabilidades-administrativas ley-organica-del-poder-legislativo,49,main
+2023-11-07,law,decreto-2023-11-06-62,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-atencion-y-prevencion-de-la-violencia-familiar ley-de-cultura-fisica-y-deportes ley-de-educacion ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco ley-de-salud-mental ley-de-salud-publica ley-para-prevenir-y-erradicar-la-discriminacion-en-el-estado,69,main
+2023-11-07,law,decreto-2023-11-06-62-2,codigo-penal ley-de-educacion ley-de-salud-mental ley-de-salud-publica,12,main
+2023-11-30,law,decreto-2023-11-29-66-numero-especial,ley-organica-del-poder-judicial,10,main
+2023-12-02,law,decreto-2023-12-01-67-seccion-i,ley-de-cultura-fisica-y-deportes ley-de-educacion ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco ley-de-seguridad-escolar,11,main
+2023-12-02,law,decreto-2023-12-01-67-seccion-i-2,ley-de-educacion,2,main
+2023-12-04,law,decreto-2023-12-01-67-seccion-i,ley-organica-del-poder-legislativo,3,main
+2023-12-07,law,decreto-2023-12-04-68-numero-especial,codigo-civil ley-organica-del-poder-judicial,64,main
+2023-12-09,law,decreto-2023-12-08-70-seccion-i,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-atencion-y-prevencion-de-la-violencia-familiar ley-de-educacion ley-de-proteccion-al-ambiente ley-de-turismo ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni ley-para-las-personas-con-discapacidad-en-el-estado-de-baja,31,main
+2023-12-09,law,decreto-2023-12-08-70-seccion-i-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,3,main
+2023-12-11,law,decreto-2023-12-08-70-seccion-i,ley-organica-del-poder-legislativo,3,main
+2023-12-25,law,decreto-2023-12-22-72,ley-de-coordinacion-fiscal ley-de-fomento-a-la-competitividad-y-desarrollo-economico ley-de-hacienda,48,main
+2024-01-27,law,decreto-2024-01-26-5,constitucion-politica ley-de-desarrollo-urbano ley-del-sistema-estatal-anticorrupcion-de-baja-california ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,492,main
+2024-01-27,law,decreto-2024-01-26-5-seccion-ii,codigo-fiscal,41,main
+2024-01-29,law,decreto-2024-01-26-5,ley-de-cultura-fisica-y-deportes,2,main
+2024-02-10,law,decreto-2024-02-09-7,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-salud-mental ley-de-salud-publica ley-de-victimas ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif ley-organica-del-poder-judicial ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni ley-que-crea-la-comision-estatal-del-sistema-penitenciario-d,65,main
+2024-02-10,law,decreto-2024-02-09-7-seccion-iii,ley-de-fiscalizacion-y-rendicion-de-cuentas,2,main
+2024-02-10,law,decreto-2024-02-09-7-2,codigo-penal ley-de-salud-publica ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,15,main
+2024-02-17,law,decreto-2024-02-16-9-seccion-ii,ley-de-proteccion-a-los-animales-domesticos,9,main
+2024-03-09,law,decreto-2024-03-08-13-seccion-i,ley-de-adquisiciones-arrendamientos-y-servicios,22,main
+2024-03-09,law,decreto-2024-03-08-13,ley-de-educacion ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,5,main
+2024-03-16,start,ley-2024-03-15-14,ley-de-fomento-cooperativo,21,main
+2024-03-16,law,decreto-2024-03-15-14,codigo-penal ley-de-cultura-fisica-y-deportes ley-de-educacion ley-de-victimas,12,main
+2024-03-16,law,decreto-2024-03-15-14-seccion-iii,codigo-fiscal,3,main
+2024-04-06,start,ley-2024-04-05-18,ley-que-instituye-el-primer-sabado-del-mes-de-septiembre-de,7,main
+2024-04-06,law,decreto-2024-04-05-18,codigo-civil codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social ley-de-atencion-y-proteccion-a-personas-con-autismo ley-de-cultura-fisica-y-deportes ley-de-educacion ley-de-fomento-a-la-lectura-y-el-libro ley-del-regimen-municipal ley-organica-del-poder-judicial ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni ley-para-prevenir-y-erradicar-el-acoso-escolar ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,43,main
+2024-04-06,law,decreto-2024-04-05-18-2,codigo-civil,4,main
+2024-04-13,law,decreto-2024-04-12-19-seccion-i,ley-organica-de-la-defensoria-publica,3,main
+2024-04-29,law,decreto-2024-04-26-21,ley-organica-del-poder-legislativo,6,main
+2024-05-08,law,decreto-2024-05-07-23,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-atencion-y-prevencion-de-la-violencia-familiar ley-de-educacion ley-de-planeacion ley-de-turismo ley-del-regimen-municipal ley-organica-de-la-fiscalia-general ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni ley-para-prevenir-y-erradicar-la-discriminacion-en-el-estado,149,main
+2024-05-08,law,decreto-2024-05-07-23-2,ley-de-educacion,2,main
+2024-05-08,law,decreto-2024-05-07-23-3,ley-de-educacion,2,main
+2024-05-08,law,decreto-2024-05-07-23-4,ley-de-educacion,2,main
+2024-06-01,law,decreto-2024-05-31-28,codigo-civil ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-cultura-fisica-y-deportes,8,main
+2024-06-03,law,decreto-2024-05-31-28,ley-organica-del-poder-ejecutivo,4,main
+2024-06-29,law,decreto-2024-06-28-33,codigo-civil ley-de-atencion-y-proteccion-a-personas-con-autismo ley-de-impulso-al-conocimiento-cientifico-tecnologico-y-a-la ley-de-salud-mental ley-para-la-igualdad-entre-mujeres-y-hombres,15,main
+2024-07-27,law,decreto-2024-07-26-37,ley-de-desarrollo-social ley-de-salud-publica ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,6,main
+2024-07-27,law,decreto-2024-07-26-37-2,ley-de-desarrollo-social ley-de-salud-publica,5,main
+2024-07-27,law,decreto-2024-07-26-37-3,ley-de-salud-publica,3,main
+2024-08-10,start,ley-2024-04-12-19-seccion-i,ley-sobre-desaparicion-y-busqueda-de-personas,121,main
+2024-08-17,law,decreto-2024-08-16-40,ley-de-desarrollo-agropecuario ley-de-desarrollo-urbano ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-climati ley-de-proteccion-al-ambiente,358,main
+2024-08-17,law,decreto-2024-08-16-40-2,ley-de-proteccion-al-ambiente,2,main
+2024-08-19,law,decreto-2024-08-16-40,ley-organica-del-poder-legislativo,3,main
+2024-10-05,law,decreto-2024-10-04-49,codigo-penal,6,main
+2024-10-11,law,declaratoria-2024-10-11-50-seccion-i,ley-organica-del-poder-judicial,2,main
+2024-10-18,law,fe-de-erratas-2024-10-18-51,codigo-penal,1,main
+2024-11-05,law,decreto-2024-11-04-54,ley-de-hacienda-municipal ley-de-obras-publicas-equipamientos-suministros-y-servicios ley-que-regula-los-financiamientos-y-obligaciones-para-la-di,42,main
+2024-11-23,law,decreto-2024-11-22-57-seccion-i,ley-organica-de-la-defensoria-publica,39,main
+2024-12-02,law,decreto-2024-11-29-59,ley-organica-del-poder-legislativo,2,main
+2025-01-01,law,decreto-2024-12-31-67-numero-especial,constitucion-politica,23,main
+2025-01-03,law,decreto-2024-12-31-67-numero-especial,ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,9,main
+2025-02-01,law,decreto-2025-01-31-9-seccion-iii,ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif ley-organica-de-la-fiscalia-general ley-organica-del-poder-ejecutivo,15,main
+2025-02-08,start,ley-2025-02-07-10,ley-de-capacitacion-en-materia-de-genero-de-prevencion-y-err,20,main
+2025-02-08,law,decreto-2025-02-07-10,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-para-la-igualdad-entre-mujeres-y-hombres ley-que-regula-el-funcionamiento-y-operacion-de-yonkes-recic,13,main
+2025-02-15,law,decreto-2025-02-14-11,codigo-penal ley-de-entrega-y-recepcion-de-los-asuntos-y-recursos-publico ley-organica-de-la-fiscalia-general,29,main
+2025-02-15,law,decreto-2025-02-14-11-2,codigo-penal,3,main
+2025-03-15,law,decreto-2025-03-14-15,ley-de-desarrollo-urbano ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,5,main
+2025-03-15,law,decreto-2025-03-14-15-2,ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,10,main
+2025-03-17,law,decreto-2025-03-14-15,ley-de-educacion,2,main
+2025-03-29,law,decreto-2025-03-28-20,ley-de-fomento-a-la-produccion-artesanal,3,main
+2025-04-12,law,decreto-2025-04-11-22,codigo-civil ley-de-edificaciones ley-de-responsabilidades-administrativas ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni ley-para-prevenir-y-erradicar-la-discriminacion-en-el-estado ley-que-regula-los-servicios-de-control-vehicular-en-el-esta,12,main
+2025-04-12,law,decreto-2025-04-11-22-2,ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,4,main
+2025-04-14,law,decreto-2025-04-11-22,ley-organica-del-poder-legislativo,2,main
+2025-04-14,law,decreto-2025-04-11-22-2,ley-organica-del-poder-legislativo,2,main
+2025-04-26,law,decreto-2025-04-25-25,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni ley-para-prevenir-y-erradicar-la-discriminacion-en-el-estado,6,main
+2025-04-26,law,decreto-2025-04-25-25-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,5,main
+2025-05-03,law,decreto-2025-05-02-27-numero-especial,constitucion-politica,2,main
+2025-05-10,law,decreto-2025-05-09-29-seccion-i,ley-del-ejercicio-de-las-profesiones,2,main
+2025-05-14,law,decreto-2025-05-13-30-numero-especial,constitucion-politica ley-de-asistencia-social ley-de-fomento-a-las-actividades-de-bienestar-y-desarrollo-s ley-de-prevencion-tratamiento-y-control-de-las-adicciones ley-de-salud-publica ley-para-las-personas-con-discapacidad-en-el-estado-de-baja,29,main
+2025-05-31,law,decreto-2025-05-30-34-seccion-ii,ley-organica-del-poder-ejecutivo,5,main
+2025-06-14,law,decreto-2025-06-13-36-seccion-iii,constitucion-politica,6,main
+2025-06-21,law,decreto-2025-06-20-37,ley-de-desarrollo-agropecuario,3,main
+2025-06-28,law,decreto-2025-06-27-39,codigo-penal ley-de-atencion-y-prevencion-de-la-violencia-familiar ley-de-atencion-y-proteccion-a-personas-con-autismo ley-de-coordinacion-fiscal ley-de-desarrollo-forestal-sustentable ley-de-educacion ley-de-fiscalizacion-y-rendicion-de-cuentas ley-de-proteccion-al-ambiente ley-para-prevenir-y-erradicar-el-acoso-escolar,23,main
+2025-06-28,law,decreto-2025-06-27-39-2,codigo-penal,2,main
+2025-06-28,law,decreto-2025-06-27-39-3,codigo-penal,2,main
+2025-07-19,law,decreto-2025-07-18-42-seccion-i,codigo-civil codigo-penal,4,main
+2025-07-22,law,decreto-2025-07-21-43-numero-especial,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif ley-organica-de-la-fiscalia-general ley-organica-del-poder-ejecutivo ley-para-la-igualdad-entre-mujeres-y-hombres,56,main
+2025-07-24,law,decreto-2025-07-21-43-numero-especial,ley-de-capacitacion-en-materia-de-genero-de-prevencion-y-err,11,main
+2025-09-03,law,decreto-2025-09-02-51-numero-especial,codigo-penal,4,main
+2025-09-04,law,decreto-2025-09-03-52-numero-especial,constitucion-politica,8,main
+2025-09-05,law,decreto-2025-09-04-53-numero-especial,constitucion-politica,10,main
+2025-09-06,law,decreto-2025-09-05-54,ley-de-atencion-y-proteccion-a-personas-con-autismo ley-de-participacion-ciudadana ley-del-regimen-municipal ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif,18,main
+2025-09-08,law,decreto-2025-09-05-54,ley-organica-del-poder-legislativo,2,main
+2025-09-13,law,decreto-2025-09-12-55,codigo-penal,2,main
+2025-10-01,start,ley-2025-09-16-56-numero-especial,ley-de-proteccion-de-datos-personales-para-el-sector-publico,132,main
+2025-10-01,start,ley-2025-09-16-56-numero-especial,ley-de-transparencia-acceso-a-la-informacion-publica-y-apert,170,main
+2025-10-01,law,decreto-2025-09-16-56-numero-especial,ley-organica-del-poder-ejecutivo,6,main
+2025-10-04,law,decreto-2025-10-03-60,ley-de-obras-publicas-equipamientos-suministros-y-servicios ley-electoral ley-para-prevenir-y-erradicar-la-discriminacion-en-el-estado,5,main
+2025-10-11,law,decreto-2025-10-10-61,codigo-civil codigo-penal ley-de-desarrollo-agropecuario ley-de-salud-mental ley-de-salud-publica,15,main
+2025-10-11,law,decreto-2025-10-10-61-2,codigo-penal ley-de-salud-publica,4,main
+2025-10-18,law,decreto-2025-10-17-62,ley-para-la-prevencion-gestion-integral-y-economia-circular,2,main
+2025-11-08,law,decreto-2025-11-07-65,codigo-civil codigo-penal ley-organica-del-registro-civil,7,main
+2025-11-08,law,decreto-2025-11-07-65-2,codigo-civil,2,main
+2025-11-29,law,decreto-2025-11-28-70,ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif ley-que-crea-la-comision-estatal-del-sistema-penitenciario-d,11,main
+2025-11-29,law,decreto-2025-11-28-70-2,ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif,2,main
+2025-11-29,law,decreto-2025-11-28-70-3,ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif,2,main
+2025-12-13,law,decreto-2025-12-12-72,codigo-civil codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif ley-organica-de-la-fiscalia-general ley-para-la-atencion-proteccion-de-los-derechos-y-apoyo-a-la ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,36,main
+2025-12-13,law,decreto-2025-12-12-72-2,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-organica-de-la-fiscalia-general ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,25,main
+2025-12-13,law,decreto-2025-12-12-72-3,ley-organica-de-la-fiscalia-general,4,main
+2025-12-16,law,decreto-2025-12-15-73-numero-especial,ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif,9,main
+2025-12-26,start,ley-2025-12-23-75-numero-especial,ley-de-ingresos,42,main
+2025-12-27,start,ley-2025-12-26-76-seccion-ii,ley-para-prevenir-investigar-y-sancionar-los-delitos-en-mate,35,main
+2025-12-27,law,decreto-2025-12-26-76-seccion-ii,ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif ley-organica-de-la-fiscalia-general ley-sobre-desaparicion-y-busqueda-de-personas,115,main
+2025-12-31,law,decreto-2025-12-30-78-numero-especial-seccion-vii,constitucion-politica,2,main
+2026-01-01,start,ley-2025-12-29-77-numero-especial,ley-de-ingresos-del-municipio-de-san-quintin-baja-california,3,main
+2026-01-02,start,ley-2025-12-30-78-numero-especial-seccion-v,ley-de-ingresos-del-municipio-de-playas-de-rosarito-baja-cal,2,main
+2026-01-02,law,decreto-2025-12-30-78-numero-especial-seccion-vii,ley-del-regimen-municipal ley-electoral ley-que-reglamenta-las-candidaturas-independientes-en-el-est,11,main
+2026-01-02,law,decreto-2025-12-30-78-numero-especial-seccion-vii-2,constitucion-politica,7,main
+2026-01-02,law,decreto-2025-12-30-78-numero-especial-seccion-vii-3,constitucion-politica,2,main
+2026-01-26,law,acuerdo-s-2026-01-23-4,ley-de-ingresos-del-municipio-de-san-quintin-baja-california,2,main
+2026-01-31,law,decreto-2026-01-30-6,ley-del-regimen-municipal ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-al,4,main
+2026-02-18,law,decreto-2026-02-17-10-numero-especial,ley-de-ingresos,2,main
+2026-02-28,law,decreto-2026-02-27-13,ley-de-responsabilidades-administrativas ley-del-regimen-municipal ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-calif ley-para-la-prevencion-social-de-la-violencia-y-la-delincuen,28,main
+2026-03-14,law,decreto-2026-03-13-16,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-asistencia-social ley-de-desarrollo-forestal-sustentable ley-de-desarrollo-social ley-de-educacion ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-climati ley-de-turismo ley-del-muro-en-honor-a-las-mujeres-destacadas-en-el-estado ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo ley-para-la-prevencion-gestion-integral-y-economia-circular ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni ley-para-prevenir-erradicar-los-delitos-en-materia-de-trata,38,main
+2026-03-14,law,decreto-2026-03-13-16-2,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-desarrollo-forestal-sustentable ley-para-la-prevencion-gestion-integral-y-economia-circular,6,main
+2026-03-14,law,decreto-2026-03-13-16-3,ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia,3,main
+2026-03-28,law,decreto-2026-03-27-18-seccion-i,constitucion-politica ley-de-fomento-a-la-competitividad-y-desarrollo-economico ley-de-fomento-a-la-proveeduria ley-de-participacion-ciudadana ley-de-prevencion-tratamiento-y-control-de-las-adicciones ley-de-salud-mental ley-de-salud-publica,37,main
+2026-03-28,law,decreto-2026-03-27-18-seccion-i-2,constitucion-politica ley-de-salud-publica,4,main
+2026-03-28,law,decreto-2026-03-27-18-seccion-i-3,constitucion-politica ley-de-salud-publica,6,main
+2026-04-18,law,decreto-2026-04-17-22,codigo-penal ley-de-expropiacion ley-del-catastro-inmobiliario ley-del-periodico-oficial,22,main
+2026-04-25,law,decreto-2026-04-24-23-seccion-ii,codigo-penal ley-de-urbanizacion ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado,9,main
+2026-05-16,law,decreto-2026-05-15-28,ley-de-educacion ley-para-prevenir-y-erradicar-el-acoso-escolar,13,main
+2026-05-16,law,decreto-2026-05-15-28-2,ley-de-educacion,2,main
+2026-05-23,law,decreto-2026-05-22-29-seccion-ii,ley-de-coordinacion-fiscal,2,main
+2026-06-06,law,decreto-2026-06-05-32-seccion-i,constitucion-politica codigo-civil codigo-penal ley-de-fomento-a-la-competitividad-y-desarrollo-economico ley-de-responsabilidad-patrimonial,42,main
+2026-06-06,law,decreto-2026-06-05-32-seccion-i-2,codigo-penal,7,main
+2026-06-08,law,decreto-2026-06-05-32-seccion-i,ley-organica-del-poder-legislativo,2,main
+2026-06-10,law,decreto-2025-12-12-72,ley-de-proteccion-a-los-animales-domesticos,6,main
+2026-06-10,law,decreto-2026-04-24-23-seccion-ii,ley-de-proteccion-a-los-animales-domesticos,5,main
+2026-06-10,law,decreto-2026-06-05-32-seccion-i,ley-de-proteccion-a-los-animales-domesticos,3,main
+2026-06-12,law,fe-de-erratas-2026-06-12-33,constitucion-politica,2,main
+2026-06-23,law,decreto-2026-06-22-36,codigo-penal ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia ley-de-educacion ley-de-proteccion-al-ambiente ley-de-proteccion-civil-y-gestion-integral-de-riesgos ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni,73,main
+2026-06-23,law,decreto-2026-06-22-36-2,codigo-penal ley-de-proteccion-al-ambiente,4,main
+2026-06-23,law,decreto-2026-06-22-36-3,codigo-penal,2,main
+2026-06-23,law,decreto-2026-06-22-36-4,codigo-penal,2,main
+2026-06-23,law,decreto-2026-06-22-36-5,codigo-penal,7,main
+2026-07-04,law,decreto-2026-07-03-38,ley-de-fomento-a-las-actividades-de-bienestar-y-desarrollo-s ley-de-seguridad-escolar ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-ni ley-para-prevenir-y-erradicar-el-acoso-escolar,14,main
+2026-07-18,law,decreto-2026-06-18-35-numero-especial,ley-de-hacienda ley-de-ingresos,13,main
+2026-08-15,law,decreto-2026-08-14-45,constitucion-politica,7,main
+2026-08-29,law,decreto-2026-08-28-48,codigo-penal ley-de-responsabilidades-administrativas,12,main
+2026-08-29,law,decreto-2026-08-28-48-seccion-iv,ley-de-ingresos-del-municipio-de-san-quintin-baja-california,2,main
+2026-09-01,law,decreto-2026-08-31-49-numero-especial,ley-de-ingresos-del-municipio-de-san-quintin-baja-california,1,main
+2026-09-01,law,decreto-2026-08-31-49-numero-especial-seccion-i,ley-de-responsabilidades-administrativas ley-del-tribunal-estatal-de-justicia-administrativa-de-baja ley-electoral,13,main
+2026-09-01,law,ley-2026-08-31-49-numero-especial-seccion-i,ley-organica-del-poder-judicial,2,main
+2026-09-03,law,decreto-2026-08-31-49-numero-especial-seccion-i,ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-lo,71,main
+2026-09-05,law,decreto-2026-09-04-50-seccion-i,ley-del-notariado,2,main
+2026-09-05,law,decreto-2026-09-04-50-seccion-ii,constitucion-politica,2,main
+2026-09-07,law,decreto-2026-09-04-50-seccion-i,ley-organica-del-poder-legislativo,9,main
+2026-10-10,law,decreto-2026-10-09-58,ley-de-fiscalizacion-y-rendicion-de-cuentas ley-de-proteccion-de-datos-personales-para-el-sector-publico ley-del-periodico-oficial,15,main
+2026-10-24,law,decreto-2026-10-23-60,codigo-civil,2,main
