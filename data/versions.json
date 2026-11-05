@@ -7904,6 +7904,12 @@
      "units": 243,
      "source_url": "https://legislacion.scjn.gob.mx/Buscador/Paginas/AbrirDocArticulo.aspx?q=Upmvcxia2ntX3YVztB0yThCF1B2MTxqrc92GPq0ZD9tvIRxIi6XrQ3Dk9NVL/IEyC0n2lrMuF4qrq7CkIBXDjg==",
      "sha256": "ec900ec6c1797bf922ac20d5a7b573ca9bd335a27f9a94b2a1f24d731a6eb89e"
+    },
+    {
+     "from": "2026-10-24",
+     "units": 245,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20261023_LEYRESPADMTRA.DOC",
+     "sha256": "ef7d219fe13f1d0975952e9aa9c4901245fdd4d927f6885fd3a23bdafdb5e420"
     }
    ]
   },
@@ -10452,6 +10458,12 @@
      "units": 80,
      "source_url": "https://legislacion.scjn.gob.mx/Buscador/Paginas/AbrirDocArticulo.aspx?q=zw5MOSozA+qP6ay2rw204T4Ovwx0Lj+/tR51HXF1OnhOJoO+wt7dTx7o6pq0GT+yh2HsuNL1Y9G+jlfamI3Zow==",
      "sha256": "1b131f50b3739767d1d116aa630ad2246db9eab94869c5913ec63c16eaf18010"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 87,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20260101_LEYORGPE.DOC",
+     "sha256": "5710a064aa693cccbc02a39f1562a91ba097caa2c179538e413c8e6bb7e338ec"
     }
    ]
   },
@@ -12758,6 +12770,314 @@
      "units": 103,
      "source_url": "https://legislacion.scjn.gob.mx/Buscador/Paginas/AbrirDocArticulo.aspx?q=1vgDEVdMMZD6s8UENeVd/sKDu8rf4Oe98QDjMafo8m4gu/kEre+UhknIldMEWWO37RWCD11khAMX4zKkDVwGiQ==",
      "sha256": "00f7a9507b8b27725c6fd2382142c699f096dc9d2e4ef2326d3a14d85950ee45"
+    }
+   ]
+  },
+  {
+   "slug": "estatuto-territorial-de-los-municipios",
+   "short": "ESTATUTO TERRITORIAL DE LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA",
+   "title": "ESTATUTO TERRITORIAL DE LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20230719_ESTATUTOTERRITORIAL.DOC",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 59,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20230719_ESTATUTOTERRITORIAL.DOC",
+     "sha256": "091fd97d1335f75880db48aace8a6be65048408f791035e1c19e69dc7c454fc3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-entidades-paraestatales",
+   "short": "LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_II/20241122_LEYENTIDAD.DOC",
+   "versions": [
+    {
+     "from": "2024-11-23",
+     "units": 76,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_II/20241122_LEYENTIDAD.DOC",
+     "sha256": "a0408fac089333b2931a31d0840b173554582a09185033fd4fa80dc9d5254865"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-instituciones-de-asistencia-social-privada-para-ninas-ninos-y-adolescentes",
+   "short": "LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VI/20240209_LEYINSASISOCPRIV.DOC",
+   "versions": [
+    {
+     "from": "2024-02-10",
+     "units": 50,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VI/20240209_LEYINSASISOCPRIV.DOC",
+     "sha256": "7c1b3e19baf9ddf6105f8f5b390cd668e017d2589915d520bf23bd659b2e0652"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-justicia-alternativa",
+   "short": "LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/20260213_LEYJUSTICIAALTERNATIVA-2.DOC",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 149,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/20260213_LEYJUSTICIAALTERNATIVA-2.DOC",
+     "sha256": "ffc8516d05286016266e7eb0c636365b86e3d37f0630b0a6e2bc915820190b85"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-la-comision-de-arbitraje-medico",
+   "short": "LEY DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VI/20240628_LEYCOMARBITRAJE.DOC",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 141,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VI/20240628_LEYCOMARBITRAJE.DOC",
+     "sha256": "c7f6209ecfca9373bc5a03d18c5ab6a2028f224fc1c739b5e017d25255229817"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-california",
+   "short": "LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA",
+   "title": "LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/20250214_LEYCOMISIONDH.DOC",
+   "versions": [
+    {
+     "from": "2025-02-15",
+     "units": 130,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/20250214_LEYCOMISIONDH.DOC",
+     "sha256": "b09664498369c12e82eaf00f3ff1917ad684403f196b778cf760f66496b0c498"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-la-familia",
+   "short": "LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VI/20231208_LEYFAMILIA.DOC",
+   "versions": [
+    {
+     "from": "2023-12-09",
+     "units": 46,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VI/20231208_LEYFAMILIA.DOC",
+     "sha256": "42a1583fd7176afeb215e27f8a28f96365e6785219f170fb61a2741bef0a4975"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-la-juventud",
+   "short": "LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VI/20260313_LEYJUVENTUD.DOC",
+   "versions": [
+    {
+     "from": "2026-03-14",
+     "units": 136,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VI/20260313_LEYJUVENTUD.DOC",
+     "sha256": "4caf4d8c003af35c523070ef9d73318fb0744ac7aa85181dc1d77cfbf18e2f61"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-la-policia-estatal-de-seguridad-y-custodia-penitenciaria-de-baja-california",
+   "short": "LEY DE LA POLICIA ESTATAL DE SEGURIDAD Y CUSTODIA PENITENCIARIA DE BAJA CALIFORNIA",
+   "title": "LEY DE LA POLICIA ESTATAL DE SEGURIDAD Y CUSTODIA PENITENCIARIA DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/19102018_LEYCUSTODIAPENI.DOC",
+   "versions": [
+    {
+     "from": "2018-10-20",
+     "units": 39,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/19102018_LEYCUSTODIAPENI.DOC",
+     "sha256": "b166cc0d5cd07f698e2b2d356d9c9e1b89006eaef13fd532724d5595fa3e1ce4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-la-policia-estatal-preventiva-de-baja-california",
+   "short": "LEY DE LA POLICÍA ESTATAL PREVENTIVA DE BAJA CALIFORNIA",
+   "title": "LEY DE LA POLICÍA ESTATAL PREVENTIVA DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/LEYPOLPREVENTIVA_28JUN2013.DOC",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 56,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/LEYPOLPREVENTIVA_28JUN2013.DOC",
+     "sha256": "57e6824a78cf610fb4efdedb3b7c75a01bff4e65dbfeb2aa2941fb44db0b052c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-la-procuraduria-de-proteccion-al-ambiente",
+   "short": "LEY DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/20230908_LEYPROCUAMBIENTE.DOC",
+   "versions": [
+    {
+     "from": "2023-09-09",
+     "units": 61,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/20230908_LEYPROCUAMBIENTE.DOC",
+     "sha256": "0b0c736591fbdc8fb825aa24f2833268fdc893b59450205ba1879829e0fb1639"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-las-comisiones-estatales-de-servicios-publicos",
+   "short": "LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/20260424_LEYCOMSERPUB.DOC",
+   "versions": [
+    {
+     "from": "2026-04-25",
+     "units": 29,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/20260424_LEYCOMSERPUB.DOC",
+     "sha256": "50dedf272205b8aeafd8dbc28be10b6af6d80c5c2764c8e32107709858b967f2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-los-derechos-proteccion-e-integracion-de-las-personas-adultas-mayores-en-el-estado",
+   "short": "LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_III/20260703_LEYPERSONASADULTAS.DOC",
+   "versions": [
+    {
+     "from": "2026-07-04",
+     "units": 86,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_III/20260703_LEYPERSONASADULTAS.DOC",
+     "sha256": "fc881157733dffa2f5233dbed074b2f524d080f76aeecddf6c2f3f0a2239d602"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-mejora-regulatoria-y-sus-municipios",
+   "short": "LEY DE MEJORA REGULATORIA PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS",
+   "title": "LEY DE MEJORA REGULATORIA PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/20250530_LEYMEJOREGULATORIA.DOC",
+   "versions": [
+    {
+     "from": "2025-05-31",
+     "units": 84,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/20250530_LEYMEJOREGULATORIA.DOC",
+     "sha256": "2b2e2a4c768f0401f00b7be1720cd130293e189c6cc988bfe24e9086c56e7b36"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-movilidad-sustentable-y-transporte",
+   "short": "LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/20251003_LEYMOVILIDAD.DOC",
+   "versions": [
+    {
+     "from": "2025-10-04",
+     "units": 268,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/20251003_LEYMOVILIDAD.DOC",
+     "sha256": "77b78b638025b04b9406e8abe9a298272e87827d2b31c5f2176841433061fa1f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-partidos-politicos",
+   "short": "LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20230902_LEYPARTIDOS-2.DOC",
+   "versions": [
+    {
+     "from": "2023-09-02",
+     "units": 76,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20230902_LEYPARTIDOS-2.DOC",
+     "sha256": "03324c1a53ca981fd072549a14273a8a7e3ef28216ecba00fca3c5a748cb9e42"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-pesca-y-acuacultura-sustentables",
+   "short": "LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/20240507_LEYPESCA.DOC",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 55,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/20240507_LEYPESCA.DOC",
+     "sha256": "33a3ddff9ca48387b0a8476838834d47c3ba494df2bbe9a00e0b822d614c2a6f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-poblacion",
+   "short": "LEY DE POBLACIÓN DEL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE POBLACIÓN DEL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/LEYPOBLA_18OCT2013.DOC",
+   "versions": [
+    {
+     "from": "2013-10-19",
+     "units": 60,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/LEYPOBLA_18OCT2013.DOC",
+     "sha256": "2555bbd493f49a43f0c2f4c553739338fbab3915ae9ac76b19d867ce0b48c6d7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-preservacion-del-patrimonio-cultural",
+   "short": "LEY DE PRESERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY DE PRESERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VI/20250620_LEYPATCU.DOC",
+   "versions": [
+    {
+     "from": "2025-06-21",
+     "units": 120,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VI/20250620_LEYPATCU.DOC",
+     "sha256": "7ec4d7f9531a113adca4021c8dc97da134153da3837d9d1ce3c73f776c04456c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-presupuesto-y-responsabilidad-hacendaria-y-sus-municipios",
+   "short": "LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS",
+   "title": "LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_II/20261009_LEYPRESUPUESTO.DOC",
+   "versions": [
+    {
+     "from": "2026-10-10",
+     "units": 128,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_II/20261009_LEYPRESUPUESTO.DOC",
+     "sha256": "fbbfafd8ad7ffc5aba578a287eaafb64f889e3a9563dbd8c943db73ab5c308b8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-la-deteccion-y-tratamiento-oportuno-e-integral-de-cancer-en-la-infancia-y-la-adol",
+   "short": "LEY PARA LA DETECCIÓN Y TRATAMIENTO OPORTUNO E INTEGRAL DE CÁNCER EN LA INFANCIA Y LA ADOLESCENCIA DEL ESTADO DE BAJA CALIFORNIA",
+   "title": "LEY PARA LA DETECCIÓN Y TRATAMIENTO OPORTUNO E INTEGRAL DE CÁNCER EN LA INFANCIA Y LA ADOLESCENCIA DEL ESTADO DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VI/20261023_LEYDTOICIA.DOC",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 45,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VI/20261023_LEYDTOICIA.DOC",
+     "sha256": "41486b507a1b765add480f29e0b76ea328f0cde28f76f1d63ca0202fd29748ec"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-la-proteccion-y-fomento-de-la-industria-vitivinicola-de-baja-california",
+   "short": "LEY PARA LA PROTECCIÓN Y FOMENTO DE LA INDUSTRIA VITIVINÍCOLA DE BAJA CALIFORNIA",
+   "title": "LEY PARA LA PROTECCIÓN Y FOMENTO DE LA INDUSTRIA VITIVINÍCOLA DE BAJA CALIFORNIA",
+   "url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/20260605_LEYVITIVINICOLA.DOC",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 29,
+     "source_url": "https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_VII/20260605_LEYVITIVINICOLA.DOC",
+     "sha256": "a57b57b0c0869c524638d497c864401f25b5623769f2f0d156c63d2f5b8576fa"
     }
    ]
   }

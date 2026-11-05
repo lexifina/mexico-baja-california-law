@@ -7,6 +7,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Suprema Corte de Justicia de la Nación: Legislación (state compilation) | <https://legislacion.scjn.gob.mx/> | 2026-10-30 | Ley Federal del Derecho de Autor, art. 14, fr. VIII: legislative texts are not protected. SCJN terms: copying for informative and academic purposes, with no commercial use. |
+| Congreso del Estado de Baja California: leyes vigentes | <https://www.congresobc.gob.mx/TrabajoLegislativo/Leyes> | 2026-11-05 | Legislative texts are not protected by copyright: Ley Federal del Derecho de Autor, art. 14, fr. VIII. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -78,7 +79,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco` | LEY DE PROTECCION CONTRA LA EXPOSICION AL HUMO DE TABACO DEL ESTADO DE BAJA CALIFORNIA | 5 | 2013-09-21 to 2023-12-02 |
 | `ley-de-proteccion-de-datos-personales-para-el-sector-publico` | LEY DE PROTECCION DE DATOS PERSONALES PARA EL SECTOR PUBLICO DEL ESTADO DE BAJA CALIFORNIA | 2 | 2025-10-01 to 2026-10-10 |
 | `ley-de-responsabilidad-patrimonial` | LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA | 5 | 2007-10-08 to 2026-06-06 |
-| `ley-de-responsabilidades-administrativas` | LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA | 9 | 2017-08-10 to 2026-09-01 |
+| `ley-de-responsabilidades-administrativas` | LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA | 10 | 2017-08-10 to 2026-10-24 |
 | `ley-de-salud-mental` | LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA | 8 | 2018-02-24 to 2026-03-28 |
 | `ley-de-salud-publica` | LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA | 102 | 2001-11-10 to 2026-03-28 |
 | `ley-de-seguridad-escolar` | LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA | 9 | 2012-10-06 to 2026-07-04 |
@@ -116,7 +117,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-organica-de-la-defensoria-publica` | LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO DE BAJA CALIFORNIA | 7 | 2010-04-23 to 2024-11-23 |
 | `ley-organica-de-la-fiscalia-general` | LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE BAJA CALIFORNIA | 15 | 2019-10-31 to 2025-12-27 |
 | `ley-organica-de-la-universidad-autonoma` | LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE BAJA CALIFORNIA | 6 | 1957-03-03 to 2010-09-11 |
-| `ley-organica-del-poder-ejecutivo` | LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA | 10 | 2021-12-09 to 2025-10-01 |
+| `ley-organica-del-poder-ejecutivo` | LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA | 11 | 2021-12-09 to 2026-01-01 |
 | `ley-organica-del-poder-judicial` | LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA | 56 | 1995-10-05 to 2026-09-01 |
 | `ley-organica-del-poder-legislativo` | LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA | 67 | 2002-06-26 to 2026-09-07 |
 | `ley-organica-del-registro-civil` | LEY ORGANICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA | 15 | 1983-05-11 to 2025-11-08 |
@@ -157,20 +158,42 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-reglamentaria-de-la-federal-de-tierras-ociosas-del-23-de` | LEY REGLAMENTARIA DE LA FEDERAL DE TIERRAS OCIOSAS DEL 23 DE JUNIO DE 1920 | 1 | 1960-09-01 to 1960-09-01 |
 | `ley-sobre-desaparicion-y-busqueda-de-personas` | LEY SOBRE DESAPARICION Y BUSQUEDA DE PERSONAS PARA EL ESTADO DE BAJA CALIFORNIA | 2 | 2024-08-10 to 2025-12-27 |
 | `ley-sobre-el-regimen-de-propiedad-en-condominio-de-inmuebles` | LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA | 5 | 2004-06-19 to 2017-04-29 |
+| `estatuto-territorial-de-los-municipios` | ESTATUTO TERRITORIAL DE LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA | 1 | 2023-07-20 to 2023-07-20 |
+| `ley-de-entidades-paraestatales` | LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE BAJA CALIFORNIA | 1 | 2024-11-23 to 2024-11-23 |
+| `ley-de-instituciones-de-asistencia-social-privada-para-ninas-ninos-y-adolescentes` | LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA | 1 | 2024-02-10 to 2024-02-10 |
+| `ley-de-justicia-alternativa` | LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE BAJA CALIFORNIA | 1 | 2026-02-14 to 2026-02-14 |
+| `ley-de-la-comision-de-arbitraje-medico` | LEY DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE BAJA CALIFORNIA | 1 | 2024-06-29 to 2024-06-29 |
+| `ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-california` | LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA | 1 | 2025-02-15 to 2025-02-15 |
+| `ley-de-la-familia` | LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA | 1 | 2023-12-09 to 2023-12-09 |
+| `ley-de-la-juventud` | LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA | 1 | 2026-03-14 to 2026-03-14 |
+| `ley-de-la-policia-estatal-de-seguridad-y-custodia-penitenciaria-de-baja-california` | LEY DE LA POLICIA ESTATAL DE SEGURIDAD Y CUSTODIA PENITENCIARIA DE BAJA CALIFORNIA | 1 | 2018-10-20 to 2018-10-20 |
+| `ley-de-la-policia-estatal-preventiva-de-baja-california` | LEY DE LA POLICÍA ESTATAL PREVENTIVA DE BAJA CALIFORNIA | 1 | 2013-06-29 to 2013-06-29 |
+| `ley-de-la-procuraduria-de-proteccion-al-ambiente` | LEY DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA | 1 | 2023-09-09 to 2023-09-09 |
+| `ley-de-las-comisiones-estatales-de-servicios-publicos` | LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA | 1 | 2026-04-25 to 2026-04-25 |
+| `ley-de-los-derechos-proteccion-e-integracion-de-las-personas-adultas-mayores-en-el-estado` | LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA | 1 | 2026-07-04 to 2026-07-04 |
+| `ley-de-mejora-regulatoria-y-sus-municipios` | LEY DE MEJORA REGULATORIA PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS | 1 | 2025-05-31 to 2025-05-31 |
+| `ley-de-movilidad-sustentable-y-transporte` | LEY DE MOVILIDAD SUSTENTABLE Y TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA | 1 | 2025-10-04 to 2025-10-04 |
+| `ley-de-partidos-politicos` | LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA | 1 | 2023-09-02 to 2023-09-02 |
+| `ley-de-pesca-y-acuacultura-sustentables` | LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE BAJA CALIFORNIA | 1 | 2024-05-08 to 2024-05-08 |
+| `ley-de-poblacion` | LEY DE POBLACIÓN DEL ESTADO DE BAJA CALIFORNIA | 1 | 2013-10-19 to 2013-10-19 |
+| `ley-de-preservacion-del-patrimonio-cultural` | LEY DE PRESERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE BAJA CALIFORNIA | 1 | 2025-06-21 to 2025-06-21 |
+| `ley-de-presupuesto-y-responsabilidad-hacendaria-y-sus-municipios` | LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS | 1 | 2026-10-10 to 2026-10-10 |
+| `ley-para-la-deteccion-y-tratamiento-oportuno-e-integral-de-cancer-en-la-infancia-y-la-adol` | LEY PARA LA DETECCIÓN Y TRATAMIENTO OPORTUNO E INTEGRAL DE CÁNCER EN LA INFANCIA Y LA ADOLESCENCIA DEL ESTADO DE BAJA CALIFORNIA | 1 | 2026-10-24 to 2026-10-24 |
+| `ley-para-la-proteccion-y-fomento-de-la-industria-vitivinicola-de-baja-california` | LEY PARA LA PROTECCIÓN Y FOMENTO DE LA INDUSTRIA VITIVINÍCOLA DE BAJA CALIFORNIA | 1 | 2026-06-06 to 2026-06-06 |
 
-The build made 1298 commits:
+The build made 1322 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 143 | first version of an act |
+| 165 | first version of an act |
 | 1155 | one law on its in-force day |
-| 0 | changes no amendment note explains, credited to the publisher |
+| 2 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 21 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1158 laws in the record.
-- 2748 tags.
+- 2772 tags.
 
 ## Dates
 
@@ -182,13 +205,13 @@ When a law gives no date of its own, the default rule applies: Decrees take effe
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e3ea7f5e549fe94f492a536bca9e45102a6224b0d747f6cb76e71255b4a2514b` (36099949 bytes).
+- Corpus: sha256 `ffe9f09d62dc56e1df9ee0b2ba47baa3320965d87748005fde0ce5836a8653e0` (39463776 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-1936 versions of 143 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -200,6 +223,12 @@ No second build of this corpus has been compared yet.
 - Units: the heading and preamble (encabezado), one file per article (with the headings and editor's notes printed just before it), the original transitorios, and the transitorios of each reform decree under its publication date. The banner "ÚLTIMA REFORMA PUBLICADA ..." / "TEXTO ORIGINAL" is left out; editor's notes ("(REFORMADO, P.O. ...)", "N. DE E.") stay as printed.
 - An act's first commit is its first publication only when SCJN's oldest record is the act itself and its text is marked "TEXTO ORIGINAL"; otherwise it is the oldest version available, naming the publications before it.
 - Codes of conduct and ethics are left out; only ordenamientos SCJN marks as in force are included.
+- Current consolidated texts from Congreso del Estado de Baja California; one baseline version per new act, with first_law null. Earlier enactment and amendment history is not reconstructed.
+- Word field instructions are excluded and their printed results retained; source spelling is unchanged. Optional hyphens and formatting controls are removed mechanically. Every main-story paragraph is retained, including textual schedules, editor notes, signatures and reform transitorios.
+- Article units use art-NNN identifiers; transitorios are separated by the source decree publication dates.
+- Dates use the latest reform publication stated in the document and its own commencement clause. No retrieval date is used as entry into force.
+- All existing versions are retained byte for byte; only a later Congreso consolidated version is appended. The Consolidated commit trailer records the new official source URL.
+- All existing versions are retained byte for byte; only a later Congreso consolidated version is appended. The Consolidated commit trailer records the new official source URL.
 
 ## What AI did and did not do
 
@@ -211,3 +240,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which ordenamientos to include; it wrote no law text. Every word of law comes from the SCJN compilation's consolidated texts.
+- GPT-6 wrote extraction, reconciliation and checking code and reviewed source metadata; it wrote or corrected no law text. No OCR was used.

@@ -1,22 +1,22 @@
 # LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA · 9 versions, from 2017-08-10 (latest in force: 2026-09-01) · <https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=HyhCeKoVXreNENmlWqWmGRa7G+5GqTZhTBOioZKzbN/wr4F2VOhB2Q2idM++v3jJ>
+LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA · 10 versions, from 2017-08-10 (latest in force: 2026-10-24) · <https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=HyhCeKoVXreNENmlWqWmGRa7G+5GqTZhTBOioZKzbN/wr4F2VOhB2Q2idM++v3jJ>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Artículo 1 | [art-001.md](art-001.md) | 0 |  |
 | Artículo 2 | [art-002.md](art-002.md) | 0 |  |
-| Artículo 3 | [art-003.md](art-003.md) | 1 | 2026-09-01 |
+| Artículo 3 | [art-003.md](art-003.md) | 2 | 2026-10-24 |
 | Artículo 4 | [art-004.md](art-004.md) | 0 |  |
-| Artículo 5 | [art-005.md](art-005.md) | 0 |  |
+| Artículo 5 | [art-005.md](art-005.md) | 1 | 2026-10-24 |
 | Artículo 6 | [art-006.md](art-006.md) | 0 |  |
-| Artículo 7 | [art-007.md](art-007.md) | 0 |  |
+| Artículo 7 | [art-007.md](art-007.md) | 1 | 2026-10-24 |
 | Artículo 8 | [art-008.md](art-008.md) | 0 |  |
-| Artículo 9 | [art-009.md](art-009.md) | 1 | 2026-09-01 |
-| Artículo 10 | [art-010.md](art-010.md) | 1 | 2025-04-12 |
+| Artículo 9 | [art-009.md](art-009.md) | 2 | 2026-10-24 |
+| Artículo 10 | [art-010.md](art-010.md) | 2 | 2026-10-24 |
 | Artículo 11 | [art-011.md](art-011.md) | 0 |  |
 | Artículo 12 | [art-012.md](art-012.md) | 0 |  |
-| Artículo 13 | [art-013.md](art-013.md) | 1 | 2026-09-01 |
+| Artículo 13 | [art-013.md](art-013.md) | 2 | 2026-10-24 |
 | Artículo 14 | [art-014.md](art-014.md) | 0 |  |
 | Artículo 15 | [art-015.md](art-015.md) | 0 |  |
 | Artículo 16 | [art-016.md](art-016.md) | 0 |  |
@@ -31,7 +31,7 @@ LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA · 9 vers
 | Artículo 25 | [art-025.md](art-025.md) | 0 |  |
 | Artículo 26 | [art-026.md](art-026.md) | 0 |  |
 | Artículo 27 | [art-027.md](art-027.md) | 0 |  |
-| Artículo 28 | [art-028.md](art-028.md) | 1 | 2026-09-01 |
+| Artículo 28 | [art-028.md](art-028.md) | 2 | 2026-10-24 |
 | Artículo 29 | [art-029.md](art-029.md) | 0 |  |
 | Artículo 30 | [art-030.md](art-030.md) | 0 |  |
 | Artículo 31 | [art-031.md](art-031.md) | 0 |  |
@@ -52,29 +52,30 @@ LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA · 9 vers
 | Artículo 46 | [art-046.md](art-046.md) | 0 |  |
 | Artículo 47 | [art-047.md](art-047.md) | 0 |  |
 | Artículo 48 | [art-048.md](art-048.md) | 0 |  |
-| Artículo 49 | [art-049.md](art-049.md) | 0 |  |
+| Artículo 49 | [art-049.md](art-049.md) | 1 | 2026-10-24 |
 | Artículo 50 | [art-050.md](art-050.md) | 0 |  |
 | Artículo 51 | [art-051.md](art-051.md) | 0 |  |
-| Artículo 51 bis | [art-051-bis.md](art-051-bis.md) | 1 | 2026-02-28 |
+| Artículo 51 bis | [art-051-bis.md](art-051-bis.md) | 2 | 2026-10-24 |
 | Artículo 52 | [art-052.md](art-052.md) | 0 |  |
-| Artículo 53 | [art-053.md](art-053.md) | 1 | 2019-10-12 |
-| Artículo 54 | [art-054.md](art-054.md) | 1 | 2019-10-12 |
+| Artículo 53 | [art-053.md](art-053.md) | 2 | 2026-10-24 |
+| Artículo 54 | [art-054.md](art-054.md) | 2 | 2026-10-24 |
 | Artículo 55 | [art-055.md](art-055.md) | 0 |  |
 | Artículo 56 | [art-056.md](art-056.md) | 0 |  |
-| Artículo 57 | [art-057.md](art-057.md) | 2 | 2026-08-29 |
+| Artículo 57 | [art-057.md](art-057.md) | 3 | 2026-10-24 |
 | Artículo 58 | [art-058.md](art-058.md) | 0 |  |
 | Artículo 59 | [art-059.md](art-059.md) | 0 |  |
 | Artículo 60 | [art-060.md](art-060.md) | 0 |  |
 | Artículo 61 | [art-061.md](art-061.md) | 0 |  |
 | Artículo 62 | [art-062.md](art-062.md) | 0 |  |
-| Artículo 62 bis | [art-062-bis.md](art-062-bis.md) | 2 | 2026-02-28 |
+| Artículo 62 bis | [art-062-bis.md](art-062-bis.md) | 3 | 2026-10-24 |
 | Artículo 63 | [art-063.md](art-063.md) | 0 |  |
-| Artículo 63 bis | [art-063-bis.md](art-063-bis.md) | 1 | 2023-07-29 |
-| Artículo 63 ter | [art-063-ter.md](art-063-ter.md) | 1 | 2023-11-07 |
+| Artículo 63 bis | [art-063-bis.md](art-063-bis.md) | 2 | 2026-10-24 |
+| Artículo 63 quater | [art-063-quater.md](art-063-quater.md) | 1 | 2026-10-24 |
+| Artículo 63 ter | [art-063-ter.md](art-063-ter.md) | 2 | 2026-10-24 |
 | Artículo 64 | [art-064.md](art-064.md) | 0 |  |
 | Artículo 65 | [art-065.md](art-065.md) | 0 |  |
 | Artículo 66 | [art-066.md](art-066.md) | 0 |  |
-| Artículo 67 | [art-067.md](art-067.md) | 0 |  |
+| Artículo 67 | [art-067.md](art-067.md) | 1 | 2026-10-24 |
 | Artículo 68 | [art-068.md](art-068.md) | 0 |  |
 | Artículo 69 | [art-069.md](art-069.md) | 0 |  |
 | Artículo 70 | [art-070.md](art-070.md) | 0 |  |
@@ -93,7 +94,7 @@ LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA · 9 vers
 | Artículo 83 | [art-083.md](art-083.md) | 0 |  |
 | Artículo 84 | [art-084.md](art-084.md) | 0 |  |
 | Artículo 85 | [art-085.md](art-085.md) | 0 |  |
-| Artículo 86 | [art-086.md](art-086.md) | 0 |  |
+| Artículo 86 | [art-086.md](art-086.md) | 1 | 2026-10-24 |
 | Artículo 87 | [art-087.md](art-087.md) | 0 |  |
 | Artículo 88 | [art-088.md](art-088.md) | 0 |  |
 | Artículo 89 | [art-089.md](art-089.md) | 0 |  |
@@ -126,7 +127,7 @@ LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA · 9 vers
 | Artículo 116 | [art-116.md](art-116.md) | 0 |  |
 | Artículo 117 | [art-117.md](art-117.md) | 0 |  |
 | Artículo 118 | [art-118.md](art-118.md) | 0 |  |
-| Artículo 119 | [art-119.md](art-119.md) | 0 |  |
+| Artículo 119 | [art-119.md](art-119.md) | 1 | 2026-10-24 |
 | Artículo 120 | [art-120.md](art-120.md) | 0 |  |
 | Artículo 121 | [art-121.md](art-121.md) | 0 |  |
 | Artículo 122 | [art-122.md](art-122.md) | 0 |  |
@@ -155,7 +156,7 @@ LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA · 9 vers
 | Artículo 145 | [art-145.md](art-145.md) | 0 |  |
 | Artículo 146 | [art-146.md](art-146.md) | 0 |  |
 | Artículo 147 | [art-147.md](art-147.md) | 0 |  |
-| Artículo 148 | [art-148.md](art-148.md) | 1 | 2026-09-01 |
+| Artículo 148 | [art-148.md](art-148.md) | 2 | 2026-10-24 |
 | Artículo 149 | [art-149.md](art-149.md) | 0 |  |
 | Artículo 150 | [art-150.md](art-150.md) | 0 |  |
 | Artículo 151 | [art-151.md](art-151.md) | 0 |  |
@@ -170,7 +171,7 @@ LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA · 9 vers
 | Artículo 160 | [art-160.md](art-160.md) | 0 |  |
 | Artículo 161 | [art-161.md](art-161.md) | 0 |  |
 | Artículo 162 | [art-162.md](art-162.md) | 0 |  |
-| Artículo 163 | [art-163.md](art-163.md) | 0 |  |
+| Artículo 163 | [art-163.md](art-163.md) | 1 | 2026-10-24 |
 | Artículo 164 | [art-164.md](art-164.md) | 0 |  |
 | Artículo 165 | [art-165.md](art-165.md) | 0 |  |
 | Artículo 166 | [art-166.md](art-166.md) | 0 |  |
@@ -214,9 +215,9 @@ LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA · 9 vers
 | Artículo 204 | [art-204.md](art-204.md) | 0 |  |
 | Artículo 205 | [art-205.md](art-205.md) | 0 |  |
 | Artículo 206 | [art-206.md](art-206.md) | 0 |  |
-| Artículo 207 | [art-207.md](art-207.md) | 1 | 2026-09-01 |
-| Artículo 208 | [art-208.md](art-208.md) | 0 |  |
-| Artículo 209 | [art-209.md](art-209.md) | 1 | 2026-09-01 |
+| Artículo 207 | [art-207.md](art-207.md) | 2 | 2026-10-24 |
+| Artículo 208 | [art-208.md](art-208.md) | 1 | 2026-10-24 |
+| Artículo 209 | [art-209.md](art-209.md) | 2 | 2026-10-24 |
 | Artículo 210 | [art-210.md](art-210.md) | 0 |  |
 | Artículo 211 | [art-211.md](art-211.md) | 0 |  |
 | Artículo 212 | [art-212.md](art-212.md) | 0 |  |
@@ -237,13 +238,14 @@ LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA · 9 vers
 | Artículo 227 | [art-227.md](art-227.md) | 0 |  |
 | Artículo 228 | [art-228.md](art-228.md) | 0 |  |
 | Artículo 229 | [art-229.md](art-229.md) | 0 |  |
-| Encabezado | [encabezado.md](encabezado.md) | 0 |  |
-| Transitorios (publicación 2019-10-11) | [transitorios-2019-10-11.md](transitorios-2019-10-11.md) | 1 | 2019-10-12 |
-| Transitorios (publicación 2020-09-02) | [transitorios-2020-09-02.md](transitorios-2020-09-02.md) | 1 | 2020-09-03 |
-| Transitorios (publicación 2023-07-28) | [transitorios-2023-07-28.md](transitorios-2023-07-28.md) | 1 | 2023-07-29 |
-| Transitorios (publicación 2023-11-06) | [transitorios-2023-11-06.md](transitorios-2023-11-06.md) | 1 | 2023-11-07 |
-| Transitorios (publicación 2025-04-11) | [transitorios-2025-04-11.md](transitorios-2025-04-11.md) | 1 | 2025-04-12 |
-| Transitorios (publicación 2026-02-27) | [transitorios-2026-02-27.md](transitorios-2026-02-27.md) | 1 | 2026-02-28 |
-| Transitorios (publicación 2026-08-28) | [transitorios-2026-08-28.md](transitorios-2026-08-28.md) | 1 | 2026-08-29 |
-| Transitorios (publicación 2026-08-31) | [transitorios-2026-08-31.md](transitorios-2026-08-31.md) | 1 | 2026-09-01 |
-| Transitorios | [transitorios-original.md](transitorios-original.md) | 1 | 2019-10-12 |
+| Encabezado | [encabezado.md](encabezado.md) | 1 | 2026-10-24 |
+| Transitorios (publicación 2019-10-11) | [transitorios-2019-10-11.md](transitorios-2019-10-11.md) | 2 | 2026-10-24 |
+| Transitorios (publicación 2020-09-02) | [transitorios-2020-09-02.md](transitorios-2020-09-02.md) | 2 | 2026-10-24 |
+| Transitorios (publicación 2023-07-28) | [transitorios-2023-07-28.md](transitorios-2023-07-28.md) | 2 | 2026-10-24 |
+| Transitorios (publicación 2023-11-06) | [transitorios-2023-11-06.md](transitorios-2023-11-06.md) | 2 | 2026-10-24 |
+| Transitorios (publicación 2025-04-11) | [transitorios-2025-04-11.md](transitorios-2025-04-11.md) | 2 | 2026-10-24 |
+| Transitorios (publicación 2026-02-27) | [transitorios-2026-02-27.md](transitorios-2026-02-27.md) | 2 | 2026-10-24 |
+| Transitorios (publicación 2026-08-28) | [transitorios-2026-08-28.md](transitorios-2026-08-28.md) | 2 | 2026-10-24 |
+| Transitorios (publicación 2026-08-31) | [transitorios-2026-08-31.md](transitorios-2026-08-31.md) | 2 | 2026-10-24 |
+| Transitorios (publicación 2026-10-23) | [transitorios-2026-10-23.md](transitorios-2026-10-23.md) | 1 | 2026-10-24 |
+| Transitorios | [transitorios-original.md](transitorios-original.md) | 2 | 2026-10-24 |

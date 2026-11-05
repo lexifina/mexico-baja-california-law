@@ -172,6 +172,45 @@
     "ley-sobre-el-regimen-de-propiedad-en-condominio-de-inmuebles"
    ],
    "sha256": "068f052878a5e05aec12ca53eab3c60761b5fe9e48cc729f2623bf7e8b1afad9"
+  },
+  "90-q901-congreso-new.json": {
+   "acts": [
+    "estatuto-territorial-de-los-municipios",
+    "ley-de-entidades-paraestatales",
+    "ley-de-instituciones-de-asistencia-social-privada-para-ninas-ninos-y-adolescentes",
+    "ley-de-justicia-alternativa",
+    "ley-de-la-comision-de-arbitraje-medico",
+    "ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-california",
+    "ley-de-la-familia",
+    "ley-de-la-juventud",
+    "ley-de-la-policia-estatal-de-seguridad-y-custodia-penitenciaria-de-baja-california",
+    "ley-de-la-policia-estatal-preventiva-de-baja-california",
+    "ley-de-la-procuraduria-de-proteccion-al-ambiente",
+    "ley-de-las-comisiones-estatales-de-servicios-publicos",
+    "ley-de-los-derechos-proteccion-e-integracion-de-las-personas-adultas-mayores-en-el-estado",
+    "ley-de-mejora-regulatoria-y-sus-municipios",
+    "ley-de-movilidad-sustentable-y-transporte",
+    "ley-de-partidos-politicos",
+    "ley-de-pesca-y-acuacultura-sustentables",
+    "ley-de-poblacion",
+    "ley-de-preservacion-del-patrimonio-cultural",
+    "ley-de-presupuesto-y-responsabilidad-hacendaria-y-sus-municipios",
+    "ley-para-la-deteccion-y-tratamiento-oportuno-e-integral-de-cancer-en-la-infancia-y-la-adol",
+    "ley-para-la-proteccion-y-fomento-de-la-industria-vitivinicola-de-baja-california"
+   ],
+   "sha256": "05cf15475fbd9c9968c484f2cdada94a0575d104b3b612522216f0a0663cbfa1"
+  },
+  "91-q901-congreso-extend-1.json": {
+   "acts": [
+    "ley-de-responsabilidades-administrativas"
+   ],
+   "sha256": "91393c30e61a92d75713552747aacd8a882683b8b2378ac8cf6b1b15bb5a0ce5"
+  },
+  "91-q901-congreso-extend-2.json": {
+   "acts": [
+    "ley-organica-del-poder-ejecutivo"
+   ],
+   "sha256": "b5ac2117c74edc8bb01f4edc813405dd500c7031bda422100360e2e9bbd72517"
   }
  },
  "schema": 1
