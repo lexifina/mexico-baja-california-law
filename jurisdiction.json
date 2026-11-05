@@ -5,7 +5,13 @@
   "level": "state",
   "parent": "mx",
   "repo": "https://github.com/lexifina/mexico-baja-california-law",
-  "build": "built: constitution, codes and laws (143 ordenamientos, 1936 versions) from SCJN Legislación",
+  "build": "built: constitution, codes and laws (165 ordenamientos, 1960 versions); SCJN historical versions and Congreso del Estado de Baja California current consolidated texts",
   "language": "es",
-  "sources": 1
+  "sources": 2,
+  "coverage": "State constitution, four codes and state laws; historical versions plus additional current consolidated texts.",
+  "source_names": [
+    "Suprema Corte de Justicia de la Nación, Legislación",
+    "Congreso del Estado de Baja California"
+  ],
+  "checked_on": "2026-11-05"
 }
