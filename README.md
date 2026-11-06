@@ -1,5 +1,7 @@
 # Baja California: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Baja California, Mexico, which global-law reads at `mexico/baja-california/acts/`.
+
 The law of the State of Baja California (Estado Libre y Soberano de Baja California, Mexico) in Spanish, with one file per provision and dated versions in git. Historical changes identify their decree; current consolidated baselines identify the official publisher.
 
 This state corpus belongs at `mx-bcn/` in [lexifina/global-law](https://github.com/lexifina/global-law). Mexico's federal law is in [lexifina/mexico-law](https://github.com/lexifina/mexico-law).
